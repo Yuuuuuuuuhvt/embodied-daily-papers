@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-03-31T06:56:44.091359+00:00",
-    "total_papers": 125
+    "last_updated": "2026-04-01T07:01:51.960255+00:00",
+    "total_papers": 141
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -6646,6 +6646,842 @@
     ],
     "journal_ref": null,
     "comment": "The paper is accepted and presented on the 35th International Conference on Robotics in Alpe-Adria-Danube Region, RAAD 2026, Bratislava, Slovakia",
+    "relevance_tier": "peripheral"
+  },
+  "2603.30022": {
+    "title": "Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models",
+    "authors": [
+      "Md Saad",
+      "Sajjad Hussain",
+      "Mohd Suhaib"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-03-31T17:19:34+00:00",
+    "updated": "2026-03-31T17:19:34+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.30022v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.30022v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "结合大语言模型与强化学习的机器人操作混合框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 2,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.45
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Reinforcement Learning",
+      "Large Language Models",
+      "Robotic Manipulation",
+      "Task Planning",
+      "Hierarchical Control"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2603.29844": {
+    "title": "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",
+    "authors": [
+      "Yi Chen",
+      "Yuying Ge",
+      "Hui Zhou",
+      "Mingyu Ding",
+      "Yixiao Ge",
+      "Xihui Liu"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-03-31T15:02:27+00:00",
+    "updated": "2026-03-31T15:02:27+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29844v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29844v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "通过隐式世界模型解耦意图与动作，提升端到端VLA性能。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Industry",
+      "🔴 No Code",
+      "🎮 Demo",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "XPeng Robotics"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Latent World Modeling",
+      "Intent Bottleneck",
+      "System-1/System-2 Architecture",
+      "Latent Inverse Dynamics"
+    ],
+    "journal_ref": null,
+    "comment": "Project page: https://xpeng-robotics.github.io/dial",
+    "relevance_tier": "core"
+  },
+  "2603.29409": {
+    "title": "CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics",
+    "authors": [
+      "Andrew Jeong",
+      "Jaemin Kim",
+      "Sebin Lee",
+      "Sung-Eui Yoon"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-03-31T08:13:45+00:00",
+    "updated": "2026-03-31T08:13:45+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29409v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29409v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "结合跨模态潜在动力学与扩散策略的机器人操作框架。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "KAIST"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Cross-Modal Latent Dynamics",
+      "Diffusion Policy",
+      "World Models",
+      "Robotic Manipulation",
+      "Grounded Foresight"
+    ],
+    "journal_ref": null,
+    "comment": "Project page: https://andrewwwj.github.io/clad",
+    "relevance_tier": "core"
+  },
+  "2603.29090": {
+    "title": "HCLSM: Hierarchical Causal Latent State Machines for Object-Centric World Modeling",
+    "authors": [
+      "Jaber Jaber",
+      "Osama Jaber"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-03-31T00:11:29+00:00",
+    "updated": "2026-03-31T00:11:29+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29090v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29090v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出用于机器人操作的分层因果对象中心世界模型。",
+    "tags": [
+      "Code",
+      "Industry",
+      "🟢 Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "RightNow AI"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 5,
+      "focus_relevance": 5,
+      "weighted": 4.0
+    },
+    "has_code": true,
+    "code_url": "https://github.com/rightnow-ai/hclsm",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Object-Centric World Models",
+      "Slot Attention",
+      "State Space Models (SSM)",
+      "Hierarchical Dynamics",
+      "Causal Structure Learning"
+    ],
+    "journal_ref": null,
+    "comment": "10 pages, 3 tables, 4 figures, 1 algorithm. Code: https://github.com/rightnow-ai/hclsm",
+    "relevance_tier": "core"
+  },
+  "2603.28963": {
+    "title": "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models",
+    "authors": [
+      "Mozhgan Pourkeshavatz",
+      "Tianran Liu",
+      "Nicholas Rhinehart"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-03-30T20:10:21+00:00",
+    "updated": "2026-03-30T20:10:21+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.28963v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.28963v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于自监督世界模型扩展无标签多智能体交通仿真。",
+    "tags": [
+      "Code",
+      "Demo",
+      "🟢 Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.8
+    },
+    "has_code": true,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "World Models",
+      "Traffic Simulation",
+      "Self-Supervised Learning",
+      "LiDAR Occupancy",
+      "Determinantal Point Process"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2603.28955": {
+    "title": "Enhancing Policy Learning with World-Action Model",
+    "authors": [
+      "Yuci Han",
+      "Alper Yilmaz"
+    ],
+    "categories": [
+      "cs.AI"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-03-30T19:56:05+00:00",
+    "updated": "2026-03-30T19:56:05+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.28955v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.28955v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出动作正则化世界模型WAM，通过逆动力学增强机器人策略学习。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "The Ohio State University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.6
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World-Action Model (WAM)",
+      "Inverse Dynamics",
+      "Diffusion Policy",
+      "Model-based PPO",
+      "Latent Representation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2603.28887": {
+    "title": "OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models",
+    "authors": [
+      "Tianran Liu",
+      "Shengwen Zhao",
+      "Mozhgan Pourkeshavarz",
+      "Weican Li",
+      "Nicholas Rhinehart"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-03-30T18:13:51+00:00",
+    "updated": "2026-03-30T18:13:51+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.28887v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.28887v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "首个基于占据世界模型的3D自动驾驶模拟器，支持超长视距生成。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Occupancy World Models",
+      "Autonomous Driving Simulation",
+      "W-DiT",
+      "Long-horizon Generation",
+      "4D Semantic Occupancy"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2603.29908": {
+    "title": "C-TRAIL: A Commonsense World Framework for Trajectory Planning in Autonomous Driving",
+    "authors": [
+      "Zhihong Cui",
+      "Haoran Tang",
+      "Tianyi Li",
+      "Yushuai Li",
+      "Peiyuan Guan",
+      "Amir Taherkordi",
+      "Tor Skeie"
+    ],
+    "categories": [
+      "cs.AI"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-03-31T15:53:29+00:00",
+    "updated": "2026-03-31T15:53:29+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29908v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29908v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "结合大语言模型常识与信任机制的自动驾驶轨迹规划框架。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Oslo"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 4,
+      "focus_relevance": 3,
+      "weighted": 3.2
+    },
+    "has_code": true,
+    "code_url": "https://github.com/ZhihongCui/CTRAIL",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Commonsense Reasoning",
+      "Trajectory Planning",
+      "Trust Mechanism",
+      "Monte Carlo Tree Search (MCTS)",
+      "Large Language Models"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2603.28888": {
+    "title": "A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility Study of VLMs for Low-Latency Anomaly Detection",
+    "authors": [
+      "Kunal Runwal",
+      "Swaraj Gajare",
+      "Daniel Adejumo",
+      "Omkar Ankalkope",
+      "Siddhant Baroth",
+      "Aliasghar Arab"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-03-30T18:14:03+00:00",
+    "updated": "2026-03-30T18:14:03+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.28888v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.28888v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "基于量化VLM的自动驾驶低延迟语义异常检测观察层。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Semantic Observer Layer",
+      "Vision-Language Models (VLMs)",
+      "Anomaly Detection",
+      "Model Quantization (NVFP4)",
+      "Autonomous Vehicles"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2603.29452": {
+    "title": "CReF: Cross-modal and Recurrent Fusion for Depth-conditioned Humanoid Locomotion",
+    "authors": [
+      "Yuan Hao",
+      "Ruiqi Yu",
+      "Shixin Luo",
+      "Guoteng Zhang",
+      "Jun Wu",
+      "Qiuguo Zhu"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-03-31T08:56:29+00:00",
+    "updated": "2026-03-31T08:56:29+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29452v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29452v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出无显式几何表示的跨模态深度条件人形机器人运动控制框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Humanoid Locomotion",
+      "Cross-modal Attention",
+      "Sim-to-Real Transfer",
+      "Depth-conditioned Control",
+      "End-to-end Perception"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2603.29226": {
+    "title": "Long-Reach Robotic Manipulation for Assembly and Outfitting of Lunar Structures",
+    "authors": [
+      "Stanley Wang",
+      "Venny Kojouharov",
+      "Long Yin Chung",
+      "Daniel Morton",
+      "Mark Cutkosky"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-03-31T03:49:47+00:00",
+    "updated": "2026-03-31T03:49:47+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29226v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29226v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "面向月球结构装配的柔性长臂机器人操作与控制策略。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Stanford University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Deployable composite boom",
+      "Long-reach manipulation",
+      "Space robotics",
+      "Vibration mitigation",
+      "Lunar outfitting"
+    ],
+    "journal_ref": null,
+    "comment": "7 pages, 6 figures, to appear in the proceedings of iSpaRo 2025",
+    "relevance_tier": "peripheral"
+  },
+  "2603.29499": {
+    "title": "Model Predictive Path Integral PID Control for Learning-Based Path Following",
+    "authors": [
+      "Teruki Kato",
+      "Koshi Oishi",
+      "Seigo Ito"
+    ],
+    "categories": [
+      "eess.SY",
+      "cs.LG",
+      "cs.RO",
+      "math.OC"
+    ],
+    "primary_category": "eess.SY",
+    "published": "2026-03-31T09:41:45+00:00",
+    "updated": "2026-03-31T09:41:45+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29499v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29499v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "cross",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出MPPI-PID控制，通过优化PID增益提升采样效率与输入平滑度。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.65
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "MPPI",
+      "PID Control",
+      "Sample Efficiency",
+      "Residual Dynamics Model",
+      "Path Following"
+    ],
+    "journal_ref": null,
+    "comment": "Submitted to IFAC Journal of Systems and Control",
+    "relevance_tier": "peripheral"
+  },
+  "2603.29315": {
+    "title": "IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction",
+    "authors": [
+      "Yingke Wang",
+      "Hao Li",
+      "Yifeng Zhu",
+      "Hong-Xing Yu",
+      "Ken Goldberg",
+      "Li Fei-Fei",
+      "Jiajun Wu",
+      "Yunzhu Li",
+      "Ruohan Zhang"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-03-31T06:33:59+00:00",
+    "updated": "2026-03-31T06:33:59+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29315v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29315v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "结合像素动力学模型与MPC规划实现机器人油画复刻。",
+    "tags": [
+      "Academic",
+      "Demo",
+      "No Code",
+      "🔴 No Code",
+      "🎮 Demo",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Stanford University",
+      "UC Berkeley"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Learned Dynamics Models",
+      "Model Predictive Control (MPC)",
+      "Robotic Painting",
+      "Deformable Tool Manipulation",
+      "Self-play Learning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2603.28971": {
+    "title": "A Pontryagin Method of Model-based Reinforcement Learning via Hamiltonian Actor-Critic",
+    "authors": [
+      "Chengyang Gu",
+      "Yuxin Pan",
+      "Hui Xiong",
+      "Yize Chen"
+    ],
+    "categories": [
+      "eess.SY",
+      "cs.LG"
+    ],
+    "primary_category": "eess.SY",
+    "published": "2026-03-30T20:14:19+00:00",
+    "updated": "2026-03-30T20:14:19+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.28971v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.28971v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "cross",
+    "direction": "world_models",
+    "one_line_summary": "基于庞特里亚金最大值原理的无值函数模型基强化学习方法。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Model-based Reinforcement Learning",
+      "Pontryagin Maximum Principle",
+      "Hamiltonian Actor-Critic",
+      "Continuous Control",
+      "Dynamics Models"
+    ],
+    "journal_ref": null,
+    "comment": "18 pages, 4 figures, in submission",
+    "relevance_tier": "peripheral"
+  },
+  "2603.29362": {
+    "title": "Uncertainty-Aware Trajectory Prediction: A Unified Framework Harnessing Positional and Semantic Uncertainties",
+    "authors": [
+      "Jintao Sun",
+      "Hu Zhang",
+      "Gangyi Ding",
+      "Zhedong Zheng"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-03-31T07:35:55+00:00",
+    "updated": "2026-03-31T07:35:55+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29362v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29362v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "融合位置与语义不确定性的统一轨迹预测框架。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 4,
+      "focus_relevance": 1,
+      "weighted": 2.6
+    },
+    "has_code": true,
+    "code_url": "https://github.com/JT-Sun/UATP",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Trajectory Prediction",
+      "Uncertainty Estimation",
+      "Map Estimation",
+      "Autonomous Driving",
+      "nuScenes"
+    ],
+    "journal_ref": null,
+    "comment": "13 pages, 7 figures, 4 tables",
+    "relevance_tier": "peripheral"
+  },
+  "2603.29163": {
+    "title": "SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving",
+    "authors": [
+      "Wenchao Sun",
+      "Xuewu Lin",
+      "Keyu Chen",
+      "Zixiang Pei",
+      "Xiang Li",
+      "Yining Shi",
+      "Sifa Zheng"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-03-31T02:20:40+00:00",
+    "updated": "2026-03-31T02:20:40+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.29163v1",
+    "pdf_url": "https://arxiv.org/pdf/2603.29163v1",
+    "first_seen": "2026-04-01",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "通过解耦路径与速度实现高效端到端自动驾驶轨迹评分与规划。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 2,
+      "weighted": 3.2
+    },
+    "has_code": true,
+    "code_url": "https://github.com/swc-17/SparseDriveV2",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "End-to-End Autonomous Driving",
+      "Trajectory Scoring",
+      "Static Vocabulary",
+      "Factorized Scoring",
+      "Motion Planning"
+    ],
+    "journal_ref": null,
+    "comment": null,
     "relevance_tier": "peripheral"
   }
 }
