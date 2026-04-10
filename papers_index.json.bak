@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-04-08T06:59:20.628545+00:00",
-    "total_papers": 257
+    "last_updated": "2026-04-09T06:58:03.934095+00:00",
+    "total_papers": 275
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -13867,6 +13867,997 @@
       "Contrastive Representation Learning",
       "Sim-to-Real Transfer",
       "Autonomous Aerial Vehicles"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.07165": {
+    "title": "Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization",
+    "authors": [
+      "Yu Li",
+      "Sizhe Tang",
+      "Tian Lan"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-04-08T14:55:29+00:00",
+    "updated": "2026-04-08T14:55:29+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.07165v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.07165v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于认知树的T-STAR框架优化多步智能体策略的信用分配。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.2
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "LLM Agents",
+      "Reinforcement Learning",
+      "Credit Assignment",
+      "Cognitive Tree",
+      "Policy Optimization"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.07230": {
+    "title": "PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing",
+    "authors": [
+      "Ruihang Xu",
+      "Dewei Zhou",
+      "Xiaolong Shen",
+      "Fan Ma",
+      "Yi Yang"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-08T15:53:57+00:00",
+    "updated": "2026-04-08T15:53:57+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.07230v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.07230v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "面向交互式世界模型的物理感知图像编辑框架。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Zhejiang University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.45
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Interactive World Models",
+      "Physically-Grounded Editing",
+      "3D-Aware Visual Guidance",
+      "Geometric Simulation",
+      "Object Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.07209": {
+    "title": "INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling",
+    "authors": [
+      "InSpatio Team",
+      "Donghui Shen",
+      "Guofeng Zhang",
+      "Haomin Liu",
+      "Haoyu Ji",
+      "Hujun Bao",
+      "Hongjia Zhai",
+      "Jialin Liu",
+      "Jing Guo",
+      "Nan Wang",
+      "Siji Pan",
+      "Weihong Pan",
+      "Weijian Xie",
+      "Xianbin Liu",
+      "Xiaojun Xiang",
+      "Xiaoyu Zhang",
+      "Xinyu Chen",
+      "Yifu Wang",
+      "Yipeng Chen",
+      "Zhenzhou Fan",
+      "Zhewen Le",
+      "Zhichao Ye",
+      "Ziqiang Zhao"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-08T15:31:22+00:00",
+    "updated": "2026-04-08T15:31:22+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.07209v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.07209v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "基于时空自回归的实时4D世界模拟器，实现高保真动态场景交互。",
+    "tags": [
+      "No Code",
+      "Industry",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "InSpatio"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "4D World Simulator",
+      "Spatiotemporal Autoregressive",
+      "Spatial Consistency",
+      "Knowledge Distillation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.06425": {
+    "title": "Neural Computers",
+    "authors": [
+      "Mingchen Zhuge",
+      "Changsheng Zhao",
+      "Haozhe Liu",
+      "Zijian Zhou",
+      "Shuming Liu",
+      "Wenyi Wang",
+      "Ernie Chang",
+      "Gael Le Lan",
+      "Junjie Fei",
+      "Wenxuan Zhang",
+      "Yasheng Sun",
+      "Zhipeng Cai",
+      "Zechun Liu",
+      "Yunyang Xiong",
+      "Yining Yang",
+      "Yuandong Tian",
+      "Yangyang Shi",
+      "Vikas Chandra",
+      "Jürgen Schmidhuber"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-04-07T20:01:05+00:00",
+    "updated": "2026-04-07T20:01:05+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.06425v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.06425v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出神经计算机(NC)概念，通过视频模型统一计算、内存与I/O。",
+    "tags": [
+      "Code",
+      "Demo",
+      "Industry",
+      "Academic",
+      "🟢 Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 1,
+    "affiliation_names": [
+      "Meta AI",
+      "KAUST"
+    ],
+    "scores": {
+      "novelty": 5,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.95
+    },
+    "has_code": true,
+    "code_url": "https://github.com/metauto-ai/NeuralComputer",
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Neural Computers",
+      "Learned Runtime",
+      "Video Generation",
+      "GUI Automation",
+      "Digital World Models"
+    ],
+    "journal_ref": null,
+    "comment": "Github (data pipeline): https://github.com/metauto-ai/NeuralComputer; Blogpost: https://metauto.ai/neuralcomputer/index_eng.html",
+    "relevance_tier": "core"
+  },
+  "2604.06339": {
+    "title": "Evolution of Video Generative Foundations",
+    "authors": [
+      "Teng Hu",
+      "Jiangning Zhang",
+      "Hongrui Huang",
+      "Ran Yi",
+      "Zihan Su",
+      "Jieyu Weng",
+      "Zhucun Xue",
+      "Lizhuang Ma",
+      "Ming-Hsuan Yang",
+      "Dacheng Tao"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-07T18:17:05+00:00",
+    "updated": "2026-04-07T18:17:05+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.06339v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.06339v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "综述视频生成技术向世界模型演进的全面发展历程。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Shanghai Jiao Tong University"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.25
+    },
+    "has_code": true,
+    "code_url": "https://github.com/sjtuplayer/Awesome-Video-Foundations",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Video Generation",
+      "World Models",
+      "Diffusion Models",
+      "Auto-Regressive Models",
+      "Multimodal Integration"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.07250": {
+    "title": "Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving",
+    "authors": [
+      "Yatong Lan",
+      "Rongkui Tang",
+      "Lei He"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-08T16:13:10+00:00",
+    "updated": "2026-04-08T16:13:10+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.07250v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.07250v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "基于几何条件的自动驾驶外推新视角合成框架。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Novel View Synthesis",
+      "Autonomous Driving",
+      "Latent Diffusion",
+      "Point Cloud Reprojection",
+      "Sparse Supervision"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.07034": {
+    "title": "KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis",
+    "authors": [
+      "Mehdi Hosseinzadeh",
+      "King Hang Wong",
+      "Feras Dayoub"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T12:49:24+00:00",
+    "updated": "2026-04-08T12:49:24+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.07034v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.07034v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于关键帧和BEV表示的VLM机器人故障分析免训练前端。",
+    "tags": [
+      "Code",
+      "Accepted",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 5,
+      "focus_relevance": 4,
+      "weighted": 3.45
+    },
+    "has_code": true,
+    "code_url": "https://m80hz.github.io/kite/",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Robot Failure Analysis",
+      "Vision-Language Models (VLMs)",
+      "Keyframe Extraction",
+      "Bird's-Eye-View (BEV)",
+      "Tokenized Evidence"
+    ],
+    "journal_ref": null,
+    "comment": "ICRA 2026; Project page: https://m80hz.github.io/kite/",
+    "relevance_tier": "core"
+  },
+  "2604.07331": {
+    "title": "RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild",
+    "authors": [
+      "Wenjing Margaret Mao",
+      "Jefferson Ng",
+      "Luyang Hu",
+      "Daniel Gehrig",
+      "Antonio Loquercio"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T17:48:46+00:00",
+    "updated": "2026-04-08T17:48:46+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.07331v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.07331v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "融合IMU与智能眼镜的穿戴系统，用于采集野外人类动作数据。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "University of Pennsylvania"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.45
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": true,
+    "key_terms": [
+      "Humanoid Policy Learning",
+      "Motion Capture",
+      "Egocentric Perception",
+      "IMU Sensor Fusion",
+      "Embodied AI Data"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, 4 figures. *Equal contribution by first three authors. Project webpage: https://roshi-mocap.github.io/",
+    "relevance_tier": "peripheral"
+  },
+  "2604.07303": {
+    "title": "Robots that learn to evaluate models of collective behavior",
+    "authors": [
+      "Mathis Hocke",
+      "Andreas Gerken",
+      "David Bierbach",
+      "Jens Krause",
+      "Tim Landgraf"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T17:11:29+00:00",
+    "updated": "2026-04-08T17:11:29+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.07303v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.07303v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于强化学习和仿生机器鱼的动物群体行为模型闭环评估框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Freie Universität Berlin"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.2
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Sim-to-Real Gap",
+      "Bio-inspired Robotics",
+      "Reinforcement Learning",
+      "Closed-loop Evaluation",
+      "Collective Behavior"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.06949": {
+    "title": "Learning-Based Strategy for Composite Robot Assembly Skill Adaptation",
+    "authors": [
+      "Khalil Abuibaid",
+      "Aleksandr Sidorenko",
+      "Achim Wagner",
+      "Martin Ruskowski"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T11:13:00+00:00",
+    "updated": "2026-04-08T11:13:00+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.06949v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.06949v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于残差强化学习的复合机器人装配技能自适应策略。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "DFKI",
+      "RPTU Kaiserslautern-Landau"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 2,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 2.6
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Residual Reinforcement Learning",
+      "Composite Skills",
+      "Peg-in-hole Assembly",
+      "Contact-rich Manipulation",
+      "Industrial Robotics"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted at RAAD 2026 (Springer). 6 pages, 4 figures",
+    "relevance_tier": "peripheral"
+  },
+  "2604.06943": {
+    "title": "Sustainable Transfer Learning for Adaptive Robot Skills",
+    "authors": [
+      "Khalil Abuibaid",
+      "Vinit Hegiste",
+      "Nigora Gafur",
+      "Achim Wagner",
+      "Martin Ruskowski"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T11:06:10+00:00",
+    "updated": "2026-04-08T11:06:10+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.06943v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.06943v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "跨机器人平台的强化学习策略迁移与微调研究。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "DFKI",
+      "RPTU Kaiserslautern-Landau"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 2,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 2.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Transfer Learning",
+      "Reinforcement Learning",
+      "Policy Transfer",
+      "Peg-in-hole",
+      "Sample Efficiency"
+    ],
+    "journal_ref": "Advances in Service and Industrial Robotics, RAAD 2025, Springer, 2025, pp. 389-397",
+    "comment": "Published in RAAD 2025 (Springer). 7 pages, 5 figures",
+    "relevance_tier": "peripheral"
+  },
+  "2604.06778": {
+    "title": "RichMap: A Reachability Map Balancing Precision, Efficiency, and Flexibility for Rich Robot Manipulation Tasks",
+    "authors": [
+      "Yupu Lu",
+      "Yuxiang Ma",
+      "Jia Pan"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T07:48:33+00:00",
+    "updated": "2026-04-08T07:48:33+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.06778v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.06778v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出RichMap高精度可达性地图，优化机器人操作与策略迁移。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Hong Kong"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Reachability Map",
+      "Robot Manipulation",
+      "Diffusion Policy",
+      "Cross-embodiment Transfer",
+      "Energy-based Guidance"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted by WAFR 2026",
+    "relevance_tier": "peripheral"
+  },
+  "2604.06722": {
+    "title": "Infrastructure First: Enabling Embodied AI for Science in the Global South",
+    "authors": [
+      "Shaoshan Liu",
+      "Jie Tang",
+      "Marwa S. Hassan",
+      "Mohamed H. Sharkawy",
+      "Moustafa M. G. Fouda",
+      "Tiewei Shang",
+      "Zixin Wang"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CY",
+    "published": "2026-04-08T06:39:25+00:00",
+    "updated": "2026-04-08T06:39:25+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.06722v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.06722v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "cross",
+    "direction": "embodied_ai",
+    "one_line_summary": "探讨全球南方具身智能科学应用的基础设施优先策略。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 3,
+      "reproducibility": 1,
+      "focus_relevance": 1,
+      "weighted": 2.3
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied AI for Science",
+      "AI Infrastructure",
+      "Edge Computing",
+      "Modular Robotics",
+      "Global South"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.06598": {
+    "title": "Train-Small Deploy-Large: Leveraging Diffusion-Based Multi-Robot Planning",
+    "authors": [
+      "Siddharth Singh",
+      "Soumee Guha",
+      "Qing Chang",
+      "Scott Acton"
+    ],
+    "categories": [
+      "cs.RO",
+      "eess.SY"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T02:32:54+00:00",
+    "updated": "2026-04-08T02:32:54+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.06598v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.06598v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于扩散模型的多机器人路径规划，实现小规模训练大规模部署。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Virginia"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Diffusion Models",
+      "Multi-Robot Planning",
+      "Zero-shot Scaling",
+      "Inter-agent Attention"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.06589": {
+    "title": "BiDexGrasp: Coordinated Bimanual Dexterous Grasps across Object Geometries and Sizes",
+    "authors": [
+      "Mu Lin",
+      "Yi-Lin Wei",
+      "Jiaxuan Chen",
+      "Yuhao Lin",
+      "Shuoyu Chen",
+      "Jiangran Lyu",
+      "Jiayi Chen",
+      "Yansong Tang",
+      "He Wang",
+      "Wei-Shi Zheng"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T02:17:11+00:00",
+    "updated": "2026-04-08T02:17:11+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.06589v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.06589v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出大规模双臂灵巧抓取数据集BiDexGrasp及生成模型。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Peking University",
+      "Tsinghua University",
+      "Sun Yat-sen University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.65
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Bimanual dexterous grasping",
+      "Grasp synthesis",
+      "Force-closure optimization",
+      "Grasp generation",
+      "Robotic manipulation"
+    ],
+    "journal_ref": null,
+    "comment": "Project Page: https://frenkielm.github.io/BiDexGrasp.github.io/",
+    "relevance_tier": "peripheral"
+  },
+  "2604.07286": {
+    "title": "CADENCE: Context-Adaptive Depth Estimation for Navigation and Computational Efficiency",
+    "authors": [
+      "Timothy K Johnsen",
+      "Marco Levorato"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T16:49:30+00:00",
+    "updated": "2026-04-08T16:49:30+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.07286v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.07286v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "一种基于导航需求动态调整深度估计计算复杂度的自适应系统。",
+    "tags": [
+      "Code",
+      "Academic",
+      "Accepted",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of California, Irvine"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 4,
+      "focus_relevance": 1,
+      "weighted": 2.7
+    },
+    "has_code": true,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Context-Adaptive Perception",
+      "Slimmable Networks",
+      "Monocular Depth Estimation",
+      "Edge Computing",
+      "Autonomous Navigation"
+    ],
+    "journal_ref": null,
+    "comment": "7 pages, 7 figures, Accepted for publication at IEEE World AI IoT Congress (AIIoT) 2026",
+    "relevance_tier": "peripheral"
+  },
+  "2604.07084": {
+    "title": "Flow Motion Policy: Manipulator Motion Planning with Flow Matching Models",
+    "authors": [
+      "Davood Soleymanzadeh",
+      "Xiao Liang",
+      "Minghui Zheng"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-08T13:38:58+00:00",
+    "updated": "2026-04-08T13:38:58+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.07084v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.07084v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于流匹配的机械臂端到端多模态运动规划器。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Texas A&M University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Flow Matching",
+      "Motion Planning",
+      "Robotic Manipulators",
+      "Best-of-N Sampling",
+      "Generative Policies"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.06387": {
+    "title": "Uncertainty Estimation for Deep Reconstruction in Actuatic Disaster Scenarios with Autonomous Vehicles",
+    "authors": [
+      "Samuel Yanes Luis",
+      "Alejandro Casado Pérez",
+      "Alejandro Mendoza Barrionuevo",
+      "Dame Seck Diop",
+      "Sergio Toral Marín",
+      "Daniel Gutiérrez Reina"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-07T19:17:44+00:00",
+    "updated": "2026-04-07T19:17:44+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.06387v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.06387v1",
+    "first_seen": "2026-04-09",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "水面无人艇标量场重建的不确定性估计方法比较。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Unknown Academic Institution"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Uncertainty Estimation",
+      "Evidential Deep Learning",
+      "Scalar Field Reconstruction",
+      "Informative Path Planning",
+      "Autonomous Vehicles"
     ],
     "journal_ref": null,
     "comment": null,
