@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-04-14T07:21:14.650590+00:00",
-    "total_papers": 365
+    "last_updated": "2026-04-15T07:11:24.465237+00:00",
+    "total_papers": 380
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -19924,6 +19924,819 @@
     ],
     "journal_ref": null,
     "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.13001": {
+    "title": "XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios",
+    "authors": [
+      "Junming Wang",
+      "Teng Pu",
+      "Wingmun Fung",
+      "Jindong Wang",
+      "Shanchang Wang",
+      "Yuan Deng",
+      "Shuyuan Wang",
+      "Ziwei Liu",
+      "Kunhao Pan",
+      "Ping Yang",
+      "Peng Zhai",
+      "Yuxin Liang",
+      "Xiaofan Li",
+      "Jiabi Sun",
+      "Renchao Xu",
+      "Xiaotian Tian",
+      "Pengfei Yan",
+      "Guoqiang Ye",
+      "Liang Li",
+      "Qian Wang",
+      "Ruyi Gan",
+      "Hao Wang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T17:34:21+00:00",
+    "updated": "2026-04-14T17:34:21+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.13001v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.13001v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出XRZero-G0系统，实现高效无机器人数据采集与跨具身迁移。",
+    "tags": [
+      "Code",
+      "Dataset",
+      "Industry",
+      "🟢 Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "X-Square Robot",
+      "Nanyang Technological University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 4,
+      "focus_relevance": 4,
+      "weighted": 3.8
+    },
+    "has_code": true,
+    "code_url": "https://github.com/X-Square-Robot/XRZero-G0",
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Robot-free Demonstration",
+      "Cross-embodiment Transfer",
+      "Dexterous Manipulation",
+      "Data Scaling",
+      "Hardware-software Co-design"
+    ],
+    "journal_ref": null,
+    "comment": "Technical Report",
+    "relevance_tier": "core"
+  },
+  "2604.12908": {
+    "title": "Robotic Manipulation is Vision-to-Geometry Mapping ($f(v) \\rightarrow G$): Vision-Geometry Backbones over Language and Video Models",
+    "authors": [
+      "Zijian Song",
+      "Qichang Li",
+      "Jiawei Zhou",
+      "Zhenlong Yuan",
+      "Tianshui Chen",
+      "Liang Lin",
+      "Guangrun Wang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T15:57:16+00:00",
+    "updated": "2026-04-14T15:57:16+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12908v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12908v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出VGA模型，以3D世界模型替代VLA进行机器人操作。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Sun Yat-sen University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Geometry-Action (VGA)",
+      "3D World Models",
+      "Vision-to-Geometry Mapping",
+      "Progressive Volumetric Modulation",
+      "Zero-shot Generalization"
+    ],
+    "journal_ref": null,
+    "comment": "18 pages, 10 figures",
+    "relevance_tier": "core"
+  },
+  "2604.12447": {
+    "title": "HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models",
+    "authors": [
+      "Zixing Chen",
+      "Yifeng Gao",
+      "Li Wang",
+      "Yunhan Zhao",
+      "Yi Liu",
+      "Jiayu Li",
+      "Xiang Zheng",
+      "Zuxuan Wu",
+      "Cong Wang",
+      "Xingjun Ma",
+      "Yu-Gang Jiang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T08:32:02+00:00",
+    "updated": "2026-04-14T08:32:02+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12447v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12447v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出HazardArena基准以评估VLA模型的语义安全性。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Fudan University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Semantic safety",
+      "HazardArena benchmark",
+      "Safety Option Layer",
+      "Embodied AI safety"
+    ],
+    "journal_ref": null,
+    "comment": "Submitted to conference; 12 pages, 8 figures, including supplementary material",
+    "relevance_tier": "core"
+  },
+  "2604.12656": {
+    "title": "FeaXDrive: Feasibility-aware Trajectory-Centric Diffusion Planning for End-to-End Autonomous Driving",
+    "authors": [
+      "Baoyun Wang",
+      "Zhuoren Li",
+      "Ming Liu",
+      "Xinrui Zhang",
+      "Bo Leng",
+      "Lu Xiong"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T12:24:54+00:00",
+    "updated": "2026-04-14T12:24:54+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12656v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12656v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出面向端到端自动驾驶的可行性感知轨迹中心扩散规划方法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Tongji University",
+      "Hong Kong University of Science and Technology"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Diffusion Planning",
+      "End-to-End Autonomous Driving",
+      "Trajectory Feasibility",
+      "GRPO Post-training",
+      "Curvature Constraint"
+    ],
+    "journal_ref": null,
+    "comment": "21 pages, 6 figures",
+    "relevance_tier": "core"
+  },
+  "2604.12208": {
+    "title": "Unveiling the Surprising Efficacy of Navigation Understanding in End-to-End Autonomous Driving",
+    "authors": [
+      "Zhihua Hua",
+      "Junli Wang",
+      "Pengfei LI",
+      "Qihao Jin",
+      "Bo Zhang",
+      "Kehua Sheng",
+      "Yilun Chen",
+      "Zhongxue Gan",
+      "Wenchao Ding"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T02:34:44+00:00",
+    "updated": "2026-04-14T02:34:44+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12208v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12208v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出SNG-VLA模型融合全局导航提升端到端自动驾驶。",
+    "tags": [
+      "Code",
+      "Dataset",
+      "Academic",
+      "Accepted",
+      "🟢 Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Fudan University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 4,
+      "focus_relevance": 4,
+      "weighted": 3.8
+    },
+    "has_code": true,
+    "code_url": "https://fudan-magic-lab.github.io/SNG-VLA-web",
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "End-to-End Autonomous Driving",
+      "Vision-Language-Action (VLA)",
+      "Sequential Navigation Guidance",
+      "Global Navigation Understanding",
+      "Trajectory Planning"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, 6 figures. ICRA 2026. Code available at https://fudan-magic-lab.github.io/SNG-VLA-web",
+    "relevance_tier": "core"
+  },
+  "2604.11854": {
+    "title": "MVAdapt: Zero-Shot Multi-Vehicle Adaptation for End-to-End Autonomous Driving",
+    "authors": [
+      "Haesung Oh",
+      "Jaeheung Park"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-13T05:05:04+00:00",
+    "updated": "2026-04-13T05:05:04+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.11854v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.11854v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "结合物理属性的端到端自动驾驶零样本多车适应框架。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Seoul National University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 5,
+      "focus_relevance": 1,
+      "weighted": 2.8
+    },
+    "has_code": true,
+    "code_url": "https://github.com/hae-sung-oh/MVAdapt",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "End-to-End Autonomous Driving",
+      "Zero-Shot Transfer",
+      "Vehicle Dynamics",
+      "Physics-Conditioned Policy",
+      "Cross-Embodiment"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.12916": {
+    "title": "E2E-Fly: An Integrated Training-to-Deployment System for End-to-End Quadrotor Autonomy",
+    "authors": [
+      "Fangyu Sun",
+      "Fanxing Li",
+      "Linzuo Zhang",
+      "Yu Hu",
+      "Renbiao Jin",
+      "Shuyu Wu",
+      "Wenxian Yu",
+      "Danping Zou"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T16:00:22+00:00",
+    "updated": "2026-04-14T16:00:22+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12916v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12916v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "首个集成可微物理与端到端四旋翼训练部署的全栈系统。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Shanghai Jiao Tong University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Quadrotor Autonomy",
+      "Sim-to-Real Transfer",
+      "Differentiable Physics",
+      "End-to-End Control",
+      "Reinforcement Learning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.12909": {
+    "title": "Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots",
+    "authors": [
+      "Yifei Yan",
+      "Linqi Ye"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T15:57:27+00:00",
+    "updated": "2026-04-14T15:57:27+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12909v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12909v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出一种基于树状参数继承的类人机器人多技能持续学习框架。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Continual Learning",
+      "Humanoid Robots",
+      "Multi-Skill Learning",
+      "Parameter Inheritance",
+      "Reinforcement Learning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.12879": {
+    "title": "FastGrasp: Learning-based Whole-body Control method for Fast Dexterous Grasping with Mobile Manipulators",
+    "authors": [
+      "Heng Tao",
+      "Yiming Zhong",
+      "Zemin Yang",
+      "Yuexin Ma"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T15:30:57+00:00",
+    "updated": "2026-04-14T15:30:57+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12879v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12879v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于强化学习和触觉反馈的移动机械臂快速抓取全身控制框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "ShanghaiTech University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Whole-body Control",
+      "Mobile Manipulation",
+      "Dexterous Grasping",
+      "Tactile Feedback",
+      "Sim-to-Real"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.12509": {
+    "title": "Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers",
+    "authors": [
+      "Snehal Jauhri",
+      "Vignesh Prasad",
+      "Georgia Chalvatzaki"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T09:32:24+00:00",
+    "updated": "2026-04-14T09:32:24+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12509v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12509v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "利用次优控制器收集数据并结合离线强化学习实现全身移动操作。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "TU Darmstadt"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.8
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Mobile Manipulation",
+      "Offline Reinforcement Learning",
+      "Whole-Body Control",
+      "Diffusion Policies",
+      "Sim-to-Real Transfer"
+    ],
+    "journal_ref": null,
+    "comment": "PrePrint. Project website: sites.google.com/view/whole-moma",
+    "relevance_tier": "peripheral"
+  },
+  "2604.12474": {
+    "title": "From Kinematics to Dynamics: Learning to Refine Hybrid Plans for Physically Feasible Execution",
+    "authors": [
+      "Lidor Erez",
+      "Shahaf S. Shperberg",
+      "Ayal Taitler"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T09:00:08+00:00",
+    "updated": "2026-04-14T09:00:08+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12474v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12474v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于强化学习优化混合规划以生成满足物理约束的机器人轨迹。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Hybrid Planning",
+      "Kinodynamic Planning",
+      "Reinforcement Learning",
+      "Physical Feasibility",
+      "Sim-to-Real"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.12918": {
+    "title": "Radar-Camera BEV Multi-Task Learning with Cross-Task Attention Bridge for Joint 3D Detection and Segmentation",
+    "authors": [
+      "Ahmet İnanç",
+      "Özgür Erkent"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-14T16:00:53+00:00",
+    "updated": "2026-04-14T16:00:53+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12918v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12918v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出CTAB模块在BEV空间联合进行雷达-视觉3D检测与分割。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Bird's-eye-view (BEV)",
+      "Multi-Task Learning",
+      "Radar-Camera Fusion",
+      "Cross-Task Attention",
+      "3D Perception"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, 5 figures, 3 Tables, submitted to a venue for consideration",
+    "relevance_tier": "peripheral"
+  },
+  "2604.12857": {
+    "title": "Artificial Intelligence for Modeling and Simulation of Mixed Automated and Human Traffic",
+    "authors": [
+      "Saeed Rahmani",
+      "Shiva Rasouli",
+      "Daphne Cornelisse",
+      "Eugene Vinitsky",
+      "Bart van Arem",
+      "Simeon C. Calvert"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.RO",
+      "eess.SY"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-04-14T15:09:07+00:00",
+    "updated": "2026-04-14T15:09:07+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12857v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12857v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "综述了用于混合自动驾驶与人类交通仿真的AI方法及分类法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Delft University of Technology",
+      "New York University"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 3,
+      "reproducibility": 1,
+      "focus_relevance": 2,
+      "weighted": 2.45
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Traffic Simulation",
+      "Mixed Autonomy",
+      "Behavior Modeling",
+      "Survey",
+      "Environment-level Simulation"
+    ],
+    "journal_ref": null,
+    "comment": "This work has been submitted to the IEEE for possible publication",
+    "relevance_tier": "peripheral"
+  },
+  "2604.12628": {
+    "title": "A Comparison of Reinforcement Learning and Optimal Control Methods for Path Planning",
+    "authors": [
+      "Qiang Le",
+      "Yaguang Yang",
+      "Isaac E. Weintraub"
+    ],
+    "categories": [
+      "math.OC",
+      "cs.RO"
+    ],
+    "primary_category": "math.OC",
+    "published": "2026-04-14T11:55:15+00:00",
+    "updated": "2026-04-14T11:55:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12628v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12628v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "cross",
+    "direction": "autonomous_driving",
+    "one_line_summary": "比较强化学习与最优控制在自动驾驶路径规划中的优劣。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 2,
+      "reproducibility": 3,
+      "focus_relevance": 1,
+      "weighted": 2.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Path Planning",
+      "Reinforcement Learning",
+      "Optimal Control",
+      "DDPG",
+      "Pseudo-spectral Method"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, 9 figures, submitted to AAAI Conference",
+    "relevance_tier": "peripheral"
+  },
+  "2604.12418": {
+    "title": "RACF: A Resilient Autonomous Car Framework with Object Distance Correction",
+    "authors": [
+      "Chieh Tsai",
+      "Hossein Rastgoftar",
+      "Salim Hariri"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-14T08:06:09+00:00",
+    "updated": "2026-04-14T08:06:09+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.12418v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.12418v1",
+    "first_seen": "2026-04-15",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "融合多传感器与运动学的自动驾驶距离校正框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Arizona"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 2,
+      "reproducibility": 3,
+      "focus_relevance": 1,
+      "weighted": 2.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Resilient Perception",
+      "Sensor Fusion",
+      "Distance Correction",
+      "Autonomous Driving",
+      "Cyberphysical Systems"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, 9 figures, 5 tables. Submitted manuscript to IROS 2026",
     "relevance_tier": "peripheral"
   }
 }
