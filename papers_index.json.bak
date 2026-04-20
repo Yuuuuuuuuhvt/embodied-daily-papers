@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-04-16T07:13:39.826224+00:00",
-    "total_papers": 395
+    "last_updated": "2026-04-17T07:13:47.004795+00:00",
+    "total_papers": 407
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -21557,6 +21557,692 @@
     ],
     "journal_ref": null,
     "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.14785": {
+    "title": "MirrorBench: Evaluating Self-centric Intelligence in MLLMs by Introducing a Mirror",
+    "authors": [
+      "Shengyu Guo",
+      "Tongrui Ye",
+      "Jianbo Zhang",
+      "Zicheng Zhang",
+      "Chunyi Li",
+      "Guangtao Zhai"
+    ],
+    "categories": [
+      "cs.AI"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-04-16T08:45:34+00:00",
+    "updated": "2026-04-16T08:45:34+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.14785v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.14785v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "引入MirrorBench评估具身多模态大模型的自我中心智能。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Shanghai Jiao Tong University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied AI",
+      "Multimodal Large Language Models",
+      "Mirror Self-Recognition",
+      "Self-centric Intelligence",
+      "Benchmark"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.14732": {
+    "title": "World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems",
+    "authors": [
+      "Runze Li",
+      "Hongyin Zhang",
+      "Junxi Jin",
+      "Qixin Zeng",
+      "Zifeng Zhuang",
+      "Yiqi Tang",
+      "Shangke Lyu",
+      "Donglin Wang"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-16T07:46:05+00:00",
+    "updated": "2026-04-16T07:46:05+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.14732v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.14732v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出WAV模型，结合世界模型与价值函数实现VLA系统的隐式规划。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Westlake University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "World Models",
+      "Implicit Planning",
+      "Latent Space Inference",
+      "Trajectory Value Function"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.14811": {
+    "title": "Learning Ad Hoc Network Dynamics via Graph-Structured World Models",
+    "authors": [
+      "Can Karacelebi",
+      "Yusuf Talha Sahin",
+      "Elif Surer",
+      "Ertan Onur"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.MA",
+      "cs.NI"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-04-16T09:32:15+00:00",
+    "updated": "2026-04-16T09:32:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.14811v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.14811v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出图结构世界模型G-RSSM用于自组织网络动态学习与决策。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Middle East Technical University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Graph-Structured World Models",
+      "G-RSSM",
+      "Ad Hoc Networks",
+      "Imagined Rollouts",
+      "Model-Based RL"
+    ],
+    "journal_ref": null,
+    "comment": "6 pages, 4 figures. Submitted to the IEEE Global Communications Conference (GLOBECOM) 2026",
+    "relevance_tier": "core"
+  },
+  "2604.14268": {
+    "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+    "authors": [
+      "Team HY-World",
+      "Chenjie Cao",
+      "Xuhui Zuo",
+      "Zhenwei Wang",
+      "Yisu Zhang",
+      "Junta Wu",
+      "Zhenyang Liu",
+      "Yuning Gong",
+      "Yang Liu",
+      "Bo Yuan",
+      "Chao Zhang",
+      "Coopers Li",
+      "Dongyuan Guo",
+      "Fan Yang",
+      "Haiyu Zhang",
+      "Hang Cao",
+      "Jianchen Zhu",
+      "Jiaxin Lin",
+      "Jie Xiao",
+      "Jihong Zhang",
+      "Junlin Yu",
+      "Lei Wang",
+      "Lifu Wang",
+      "Lilin Wang",
+      "Linus",
+      "Minghui Chen",
+      "Peng He",
+      "Penghao Zhao",
+      "Qi Chen",
+      "Rui Chen",
+      "Rui Shao",
+      "Sicong Liu",
+      "Wangchen Qin",
+      "Xiaochuan Niu",
+      "Xiang Yuan",
+      "Yi Sun",
+      "Yifei Tang",
+      "Yifu Sun",
+      "Yihang Lian",
+      "Yonghao Tan",
+      "Yuhong Liu",
+      "Yuyang Yin",
+      "Zhiyuan Min",
+      "Tengfei Wang",
+      "Chunchao Guo"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-15T17:59:17+00:00",
+    "updated": "2026-04-15T17:59:17+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.14268v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.14268v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "腾讯开源HY-World 2.0：多模态3D世界生成与模拟框架。",
+    "tags": [
+      "Code",
+      "Demo",
+      "Industry",
+      "🟢 Code",
+      "🎮 Demo",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tencent Hunyuan"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 4,
+      "weighted": 4.1
+    },
+    "has_code": true,
+    "code_url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "3D Gaussian Splatting (3DGS)",
+      "Multi-Modal World Model",
+      "Trajectory Planning",
+      "Interactive Simulation",
+      "Scene Generation"
+    ],
+    "journal_ref": null,
+    "comment": "Project Page: https://3d-models.hunyuan.tencent.com/world/ ; Code: https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "relevance_tier": "core"
+  },
+  "2604.15308": {
+    "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
+    "authors": [
+      "Hao Gao",
+      "Shaoyu Chen",
+      "Yifan Zhu",
+      "Yuehao Song",
+      "Wenyu Liu",
+      "Qian Zhang",
+      "Xinggang Wang"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-16T17:59:44+00:00",
+    "updated": "2026-04-16T17:59:44+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.15308v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.15308v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出RAD-2框架，结合扩散模型与RL提升自动驾驶闭环规划性能。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Huazhong University of Science and Technology"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 3.2
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Diffusion-based Planner",
+      "Reinforcement Learning",
+      "Generator-Discriminator Framework",
+      "Closed-loop Planning",
+      "BEV-Warp"
+    ],
+    "journal_ref": null,
+    "comment": "Project page: https://hgao-cv.github.io/RAD-2",
+    "relevance_tier": "core"
+  },
+  "2604.15289": {
+    "title": "Abstract Sim2Real through Approximate Information States",
+    "authors": [
+      "Yunfu Deng",
+      "Yuhao Li",
+      "Josiah P. Hanna"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-16T17:53:16+00:00",
+    "updated": "2026-04-16T17:53:16+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.15289v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.15289v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于近似信息状态修正抽象仿真器动力学的Sim2Real方法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Wisconsin-Madison"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Sim2Real Transfer",
+      "State Abstraction",
+      "Dynamics Correction",
+      "Approximate Information States",
+      "Reinforcement Learning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.15013": {
+    "title": "DEX-Mouse: A Low-cost Portable and Universal Interface with Force Feedback for Data Collection of Dexterous Robotic Hands",
+    "authors": [
+      "Joonho Koh",
+      "Haechan Jung",
+      "Nayoung Kim",
+      "Wook Ko",
+      "Changjoo Nam"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-16T13:41:07+00:00",
+    "updated": "2026-04-16T13:41:07+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.15013v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.15013v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "一种低成本、便携且带力反馈的灵巧手数据收集接口。",
+    "tags": [
+      "Code",
+      "Demo",
+      "Academic",
+      "🟢 Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Sungkyunkwan University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 5,
+      "focus_relevance": 3,
+      "weighted": 3.3
+    },
+    "has_code": true,
+    "code_url": "https://dex-mouse.github.io/",
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Dexterous Manipulation",
+      "Teleoperation",
+      "Force Feedback",
+      "Data Collection",
+      "Hardware Interface"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.14944": {
+    "title": "HRDexDB: A Large-Scale Dataset of Dexterous Human and Robotic Hand Grasps",
+    "authors": [
+      "Jongbin Lim",
+      "Taeyun Ha",
+      "Mingi Choi",
+      "Jisoo Kim",
+      "Byungjun Kim",
+      "Subin Jeon",
+      "Hanbyul Joo"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-16T12:38:14+00:00",
+    "updated": "2026-04-16T12:38:14+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.14944v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.14944v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "包含人类与多款机械手的高保真多模态灵巧抓取数据集。",
+    "tags": [
+      "Dataset",
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Dexterous Manipulation",
+      "Multi-modal Dataset",
+      "Tactile Sensing",
+      "Cross-domain Imitation",
+      "Embodied AI"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.14834": {
+    "title": "Switch: Learning Agile Skills Switching for Humanoid Robots",
+    "authors": [
+      "Yuen-Fui Lau",
+      "Qihan Zhao",
+      "Yinhuai Wang",
+      "Runyi Yu",
+      "Hok Wai Tsui",
+      "Qifeng Chen",
+      "Ping Tan"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-16T10:11:28+00:00",
+    "updated": "2026-04-16T10:11:28+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.14834v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.14834v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "一种基于技能图和强化学习的人形机器人敏捷技能切换系统。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Hong Kong University of Science and Technology (HKUST)"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Humanoid Robots",
+      "Skill Switching",
+      "Deep Reinforcement Learning",
+      "Skill Graph",
+      "Whole-body Control"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.14565": {
+    "title": "Model-Based Reinforcement Learning Exploits Passive Body Dynamics for High-Performance Biped Robot Locomotion",
+    "authors": [
+      "Tomoya Kamimura",
+      "Haruka Washiyama",
+      "Akihito Sano"
+    ],
+    "categories": [
+      "cs.RO",
+      "eess.SY"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-16T02:54:00+00:00",
+    "updated": "2026-04-16T02:54:00+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.14565v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.14565v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于模型强化学习利用被动动力学实现高效双足运动。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Model-Based Reinforcement Learning",
+      "Passive Body Dynamics",
+      "Biped Locomotion",
+      "Limit Cycles",
+      "Morphological Computation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.15291": {
+    "title": "AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
+    "authors": [
+      "Fabrizio Genilotti",
+      "Arianna Stropeni",
+      "Gionata Grotto",
+      "Francesco Borsatti",
+      "Manuel Barusco",
+      "Davide Dalle Pezze",
+      "Gian Antonio Susto"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-16T17:54:53+00:00",
+    "updated": "2026-04-16T17:54:53+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.15291v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.15291v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "评估自动驾驶视觉异常检测模型的基准测试。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Padova"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 1,
+      "weighted": 2.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Visual Anomaly Detection (VAD)",
+      "Autonomous Driving",
+      "Edge Deployment",
+      "Benchmarking",
+      "AnoVox"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.14454": {
+    "title": "CooperDrive: Enhancing Driving Decisions Through Cooperative Perception",
+    "authors": [
+      "Deyuan Qu",
+      "Qi Chen",
+      "Takayuki Shimizu",
+      "Onur Altintas"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-15T22:15:50+00:00",
+    "updated": "2026-04-15T22:15:50+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.14454v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.14454v1",
+    "first_seen": "2026-04-17",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "基于轻量级协同感知的自动驾驶决策增强框架。",
+    "tags": [
+      "No Code",
+      "Industry",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Toyota"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.6
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Cooperative Perception",
+      "Bird's-Eye View (BEV)",
+      "Non-Line-of-Sight (NLOS)",
+      "V2V Communication",
+      "Motion Planning"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted at ICRA 2026",
     "relevance_tier": "peripheral"
   }
 }
