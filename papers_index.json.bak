@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-04-17T07:13:47.004795+00:00",
-    "total_papers": 407
+    "last_updated": "2026-04-20T07:29:35.821072+00:00",
+    "total_papers": 415
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -22243,6 +22243,436 @@
     ],
     "journal_ref": null,
     "comment": "Accepted at ICRA 2026",
+    "relevance_tier": "peripheral"
+  },
+  "2604.16067": {
+    "title": "AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning",
+    "authors": [
+      "Guransh Singh"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-04-17T13:49:57+00:00",
+    "updated": "2026-04-17T13:49:57+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.16067v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.16067v1",
+    "first_seen": "2026-04-20",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出AEGIS正交梯度投影框架实现无损VLA微调。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Catastrophic Forgetting",
+      "Gradient Projection",
+      "Flow-Matching",
+      "Orthogonal Fine-Tuning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.15938": {
+    "title": "VADF: Vision-Adaptive Diffusion Policy Framework for Efficient Robotic Manipulation",
+    "authors": [
+      "Xinglei Yu",
+      "Zhenyang Liu",
+      "Shufeng Nan",
+      "Simo Wu",
+      "Yanwei Fu"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-17T10:56:59+00:00",
+    "updated": "2026-04-17T10:56:59+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.15938v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.15938v1",
+    "first_seen": "2026-04-20",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "视觉自适应扩散策略框架VADF显著提升机器人操作效率。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Fudan University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Diffusion Policy",
+      "Robotic Manipulation",
+      "Hard Negative Mining",
+      "Adaptive Noise Schedule",
+      "Task Segmentation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.15805": {
+    "title": "From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation",
+    "authors": [
+      "Jasper Lu",
+      "Zhenhao Shen",
+      "Yuanfei Wang",
+      "Shugao Liu",
+      "Shengqiang Xu",
+      "Shawn Xie",
+      "Jingkai Xu",
+      "Feng Jiang",
+      "Jade Yang",
+      "Chen Xie",
+      "Ruihai Wu"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-17T08:06:26+00:00",
+    "updated": "2026-04-17T08:06:26+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.15805v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.15805v1",
+    "first_seen": "2026-04-20",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出基于全景图生成高保真仿真场景的框架，提升机器人泛化能力。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Generative Simulation",
+      "Sim-to-Real",
+      "Digital Cousins",
+      "Robot Learning",
+      "Data Augmentation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.15671": {
+    "title": "Long-Term Memory for VLA-based Agents in Open-World Task Execution",
+    "authors": [
+      "Xu Huang",
+      "Weixin Mao",
+      "Yinhao Li",
+      "Hua Chen",
+      "Jiabao Zhao"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-17T03:49:41+00:00",
+    "updated": "2026-04-17T03:49:41+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.15671v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.15671v1",
+    "first_seen": "2026-04-20",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "结合双层记忆与VLA模型提升长程化学实验任务执行能力。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "VLA Models",
+      "Long-Term Memory",
+      "Hierarchical Task Decomposition",
+      "Laboratory Automation",
+      "Asynchronous Inference"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.15395": {
+    "title": "Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions",
+    "authors": [
+      "Aggelos Psiris",
+      "Vasileios Argyriou",
+      "Evangelos K. Markakis",
+      "Panagiotis Sarigiannidis",
+      "Efstratios Gavves",
+      "Kostas Bekris",
+      "Arash Ajoudani adn Georgios Th. Papadopoulos"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-16T09:32:36+00:00",
+    "updated": "2026-04-16T09:32:36+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.15395v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.15395v1",
+    "first_seen": "2026-04-20",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "机器人领域基础模型（含VLA等）的全面系统综述。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Harokopio University",
+      "Kingston University",
+      "University of Amsterdam",
+      "Rutgers University",
+      "Istituto Italiano di Tecnologia"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 4,
+      "reproducibility": 1,
+      "focus_relevance": 4,
+      "weighted": 3.2
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Foundation Models",
+      "Vision-Language-Action (VLA)",
+      "Embodied AI",
+      "Robotic Datasets",
+      "Cross-embodiment Generalization"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.16201": {
+    "title": "DENALI: A Dataset Enabling Non-Line-of-Sight Spatial Reasoning with Low-Cost LiDARs",
+    "authors": [
+      "Nikhil Behari",
+      "Diego Rivero",
+      "Luke Apostolides",
+      "Suman Ghosh",
+      "Paul Pu Liang",
+      "Ramesh Raskar"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-17T16:12:16+00:00",
+    "updated": "2026-04-17T16:12:16+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.16201v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.16201v1",
+    "first_seen": "2026-04-20",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "首个用于低成本LiDAR非视距空间推理的大规模真实世界数据集。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "MIT",
+      "Carnegie Mellon University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 3.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Non-Line-of-Sight (NLOS)",
+      "Low-Cost LiDAR",
+      "Space-Time Histograms",
+      "Data-Driven Perception",
+      "Sim-to-Real Transfer"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.16022": {
+    "title": "SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems",
+    "authors": [
+      "Hikaru Shindo",
+      "Hanzhao Lin",
+      "Lukas Helff",
+      "Patrick Schramowski",
+      "Kristian Kersting"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-04-17T12:51:46+00:00",
+    "updated": "2026-04-17T12:51:46+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.16022v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.16022v1",
+    "first_seen": "2026-04-20",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "推出SocialGrid评估具身多智能体的规划与社交推理。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "TU Darmstadt"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied Multi-Agent Systems",
+      "Social Reasoning",
+      "LLM Agents",
+      "Planning Oracle",
+      "Deception Detection"
+    ],
+    "journal_ref": null,
+    "comment": "Preprint",
+    "relevance_tier": "peripheral"
+  },
+  "2604.15814": {
+    "title": "Continual Hand-Eye Calibration for Open-world Robotic Manipulation",
+    "authors": [
+      "Fazeng Li",
+      "Gan Sun",
+      "Chenxi Liu",
+      "Yao He",
+      "Wei Cong",
+      "Yang Cong"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-17T08:11:52+00:00",
+    "updated": "2026-04-17T08:11:52+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.15814v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.15814v1",
+    "first_seen": "2026-04-20",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出一种用于开放世界机器人操作的持续手眼标定框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.65
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Hand-Eye Calibration",
+      "Continual Learning",
+      "Robotic Manipulation",
+      "Catastrophic Forgetting",
+      "Knowledge Distillation"
+    ],
+    "journal_ref": null,
+    "comment": null,
     "relevance_tier": "peripheral"
   }
 }
