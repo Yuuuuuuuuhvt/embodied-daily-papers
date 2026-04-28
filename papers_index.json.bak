@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-04-24T07:30:46.863503+00:00",
-    "total_papers": 519
+    "last_updated": "2026-04-27T07:50:59.827511+00:00",
+    "total_papers": 530
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -28650,6 +28650,652 @@
     ],
     "journal_ref": null,
     "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.22615": {
+    "title": "GazeVLA: Learning Human Intention for Robotic Manipulation",
+    "authors": [
+      "Chengyang Li",
+      "Kaiyi Xiong",
+      "Yuan Xu",
+      "Lei Qian",
+      "Yizhou Wang",
+      "Wentao Zhu"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-24T14:46:03+00:00",
+    "updated": "2026-04-24T14:46:03+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22615v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22615v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "利用视线预测作为意图思维链，提升机器人VLA模型性能。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Peking University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Human Intention",
+      "Gaze Prediction",
+      "Chain-of-Thought (CoT)",
+      "Cross-embodiment Transfer"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.22591": {
+    "title": "RedVLA: Physical Red Teaming for Vision-Language-Action Models",
+    "authors": [
+      "Yuhao Zhang",
+      "Borong Zhang",
+      "Jiaming Fan",
+      "Jiachen Shen",
+      "Yishuai Cai",
+      "Yaodong Yang",
+      "Jiaming Ji"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-24T14:18:23+00:00",
+    "updated": "2026-04-24T14:18:23+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22591v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22591v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "首个针对视觉语言动作(VLA)模型的物理红队测试框架。",
+    "tags": [
+      "Code",
+      "Dataset",
+      "Academic",
+      "🟢 Code",
+      "📊 Dataset",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Peking University",
+      "Beijing Academy of Artificial Intelligence"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 4,
+      "weighted": 4.1
+    },
+    "has_code": true,
+    "code_url": "https://redvla.github.io",
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Red Teaming",
+      "Physical Safety",
+      "Risk Scenario Synthesis",
+      "Embodied AI Safety"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.22409": {
+    "title": "SpaMEM: Benchmarking Dynamic Spatial Reasoning via Perception-Memory Integration in Embodied Environments",
+    "authors": [
+      "Chih-Ting Liao",
+      "Xi Xiao",
+      "Chunlei Meng",
+      "Zhangquan Chen",
+      "Yitong Qiao",
+      "Weilin Zhou",
+      "Tianyang Wang",
+      "Xu Zheng",
+      "Xin Cao"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-24T10:06:41+00:00",
+    "updated": "2026-04-24T10:06:41+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22409v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22409v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "具身环境中动态空间推理与感知记忆整合的大规模基准测试。",
+    "tags": [
+      "Dataset",
+      "No Code",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.8
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Spatial Reasoning",
+      "Embodied AI",
+      "Visual Memory",
+      "Belief Revision",
+      "Multimodal Large Language Models"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.22238": {
+    "title": "CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models",
+    "authors": [
+      "Khoa Vo",
+      "Sieu Tran",
+      "Taisei Hanyu",
+      "Yuki Ikebe",
+      "Duy Nguyen",
+      "Bui Duy Quoc Nghi",
+      "Minh Vu",
+      "Anthony Gunderman",
+      "Chase Rainwater",
+      "Anh Nguyen",
+      "Ngan Le"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-24T05:27:27+00:00",
+    "updated": "2026-04-24T05:27:27+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22238v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22238v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "结合语义图与代码规划器提升VLA模型长程非马尔可夫任务性能。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Arkansas",
+      "Auburn University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Code-as-Planner",
+      "Semantic-Graph State",
+      "Non-Markovian Tasks",
+      "Long-horizon Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.22748": {
+    "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+    "authors": [
+      "Meng Chu",
+      "Xuan Billy Zhang",
+      "Kevin Qinghong Lin",
+      "Lingdong Kong",
+      "Jize Zhang",
+      "Teng Tu",
+      "Weijian Ma",
+      "Ziqi Huang",
+      "Senqiao Yang",
+      "Wei Huang",
+      "Yeying Jin",
+      "Zhefan Rao",
+      "Jinhui Ye",
+      "Xinyu Lin",
+      "Xichen Zhang",
+      "Qisheng Hu",
+      "Shuai Yang",
+      "Leyang Shen",
+      "Wei Chow",
+      "Yifei Dong",
+      "Fengyi Wu",
+      "Quanyu Long",
+      "Bin Xia",
+      "Shaozuo Yu",
+      "Mingkang Zhu",
+      "Wenhu Zhang",
+      "Jiehui Huang",
+      "Haokun Gui",
+      "Haoxuan Che",
+      "Long Chen",
+      "Qifeng Chen",
+      "Wenxuan Zhang",
+      "Wenya Wang",
+      "Xiaojuan Qi",
+      "Yang Deng",
+      "Yanwei Li",
+      "Mike Zheng Shou",
+      "Zhi-Qi Cheng",
+      "See-Kiong Ng",
+      "Ziwei Liu",
+      "Philip Torr",
+      "Jiaya Jia"
+    ],
+    "categories": [
+      "cs.AI"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-04-24T17:48:47+00:00",
+    "updated": "2026-04-24T17:48:47+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22748v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22748v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出“层级×规律”分类法，全面综述智能体世界模型。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Nanyang Technological University",
+      "National University of Singapore",
+      "The Chinese University of Hong Kong",
+      "University of Oxford"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 5,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.5
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Agentic World Models",
+      "Levels x Laws Taxonomy",
+      "Environment Dynamics",
+      "Model-based RL",
+      "Decision-centric Evaluation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.22240": {
+    "title": "OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space",
+    "authors": [
+      "Zhuding Liang",
+      "Tianyi Yan",
+      "Dubing Chen",
+      "Jiasen Zheng",
+      "Huan Zheng",
+      "Cheng-zhong Xu",
+      "Yida Wang",
+      "Kun Zhan",
+      "Jianbing Shen"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-24T05:30:35+00:00",
+    "updated": "2026-04-24T05:30:35+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22240v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22240v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于自然语言的4D占据空间自动驾驶世界模型。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Macau",
+      "Beijing Institute of Technology"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Generative World Models",
+      "4D Occupancy",
+      "Language-Guided Generation",
+      "Spatio-Temporal MMDiT",
+      "Autonomous Driving Simulation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.22068": {
+    "title": "TRACE: Topology-aware Reconstruction of Accidents in CARLA for AV Evaluation",
+    "authors": [
+      "Nahian Salsabil",
+      "Sebastian Elbaum"
+    ],
+    "categories": [
+      "cs.SE",
+      "cs.RO"
+    ],
+    "primary_category": "cs.SE",
+    "published": "2026-04-23T20:48:30+00:00",
+    "updated": "2026-04-23T20:48:30+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22068v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22068v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "cross",
+    "direction": "autonomous_driving",
+    "one_line_summary": "基于真实拓扑与LLM的CARLA自动驾驶事故自动重建系统。",
+    "tags": [
+      "Academic",
+      "Accepted",
+      "Dataset",
+      "No Code",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Virginia"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 1,
+      "weighted": 2.6
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Autonomous Vehicles",
+      "Scenario Generation",
+      "CARLA Simulation",
+      "Crash Reconstruction",
+      "Large Language Models"
+    ],
+    "journal_ref": null,
+    "comment": "FSE'26 Tool Demonstration Track",
+    "relevance_tier": "core"
+  },
+  "2604.22715": {
+    "title": "ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization",
+    "authors": [
+      "Jiajun Yu",
+      "Guodong Liu",
+      "Li Wang",
+      "Pengxiang Zhou",
+      "Wentao Liu",
+      "Yin He",
+      "Chao Xu",
+      "Fei Gao",
+      "Yanjun Cao"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-24T16:58:14+00:00",
+    "updated": "2026-04-24T16:58:14+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22715v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22715v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "结合共享强化学习策略的自适应ADMM轨迹优化框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Zhejiang University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "ADMM",
+      "Trajectory Optimization",
+      "Deep Reinforcement Learning",
+      "Motion Planning",
+      "Multi-Agent MDP"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, submitted to IEEE Robotics and Automation Letters",
+    "relevance_tier": "peripheral"
+  },
+  "2604.22551": {
+    "title": "QDTraj: Exploration of Diverse Trajectory Primitives for Articulated Objects Robotic Manipulation",
+    "authors": [
+      "Mathilde Kappel",
+      "Mahdi Khoramshahi",
+      "Louis Annabi",
+      "Faiz Ben Amar",
+      "Stéphane Doncieux"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-24T13:45:04+00:00",
+    "updated": "2026-04-24T13:45:04+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22551v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22551v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于质量多样性算法生成多样化铰接物体操作轨迹。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "ISIR, Sorbonne Université"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 4,
+      "focus_relevance": 3,
+      "weighted": 3.2
+    },
+    "has_code": true,
+    "code_url": "https://kappel.web.isir.upmc.fr/trajectory_primitive_website",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Quality-Diversity algorithms",
+      "Trajectory primitives",
+      "Articulated objects",
+      "Robotic manipulation",
+      "Sparse reward exploration"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, 7 figures, webpage: https://kappel.web.isir.upmc.fr/trajectory_primitive_website",
+    "relevance_tier": "peripheral"
+  },
+  "2604.22196": {
+    "title": "V-STC: A Time-Efficient Multi-Vehicle Coordinated Trajectory Planning Approach",
+    "authors": [
+      "Pengfei Liu",
+      "Jialing Zhou",
+      "Yuezu Lv",
+      "Guanghui Wen",
+      "Tingwen Huang"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.MA"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-24T03:55:32+00:00",
+    "updated": "2026-04-24T03:55:32+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22196v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22196v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出一种基于可变时间步长时空走廊的多车协同轨迹规划方法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Southeast University",
+      "Texas A&M University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Multi-vehicle coordination",
+      "Trajectory planning",
+      "Spatio-temporal corridor",
+      "Variable time-step",
+      "Optimization"
+    ],
+    "journal_ref": null,
+    "comment": "12 pages, 23 figures",
+    "relevance_tier": "peripheral"
+  },
+  "2604.22040": {
+    "title": "Robust Localization for Autonomous Vehicles in Highway Scenes",
+    "authors": [
+      "Daqian Cheng",
+      "Xuchu Ding",
+      "Yujia Wu",
+      "Xiang Zhang",
+      "Lei Wang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-23T19:54:21+00:00",
+    "updated": "2026-04-23T19:54:21+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.22040v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.22040v1",
+    "first_seen": "2026-04-27",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "针对高速公路场景提出基于双似然激光雷达与控制EKF的鲁棒定位系统。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Accepted",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 1,
+      "weighted": 2.5
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Highway Localization",
+      "LiDAR Front End",
+      "Control-EKF",
+      "Autonomous Driving",
+      "Sensor Fusion"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted to 2026 IEEE International Conference on Robotics and Automation (ICRA)",
     "relevance_tier": "peripheral"
   }
 }
