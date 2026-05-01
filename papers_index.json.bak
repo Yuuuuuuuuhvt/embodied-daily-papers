@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-04-29T07:40:30.907170+00:00",
-    "total_papers": 578
+    "last_updated": "2026-04-30T07:44:46.454591+00:00",
+    "total_papers": 588
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -31897,6 +31897,564 @@
       "Bird's-Eye View (BEV)",
       "Point Cloud Priors",
       "Autonomous Driving Perception"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.26848": {
+    "title": "STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation",
+    "authors": [
+      "Yuxuan Tian",
+      "Yurun Jin",
+      "Bin Yu",
+      "Yukun Shi",
+      "Hao Wu",
+      "Chi Harold Liu",
+      "Kai Chen",
+      "Cong Huang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-29T16:13:39+00:00",
+    "updated": "2026-04-29T16:13:39+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26848v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26848v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出STARRY：基于时空动作中心世界模型的机器人操作策略。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Robotic Manipulation",
+      "Joint Denoising",
+      "VLA Policies",
+      "Spatial-Temporal Reasoning"
+    ],
+    "journal_ref": null,
+    "comment": "19 pages",
+    "relevance_tier": "core"
+  },
+  "2604.26839": {
+    "title": "Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance",
+    "authors": [
+      "Lingfeng Zhang",
+      "Xiaoshuai Hao",
+      "Xizhou Bu",
+      "Yingbo Tang",
+      "Hongsheng Li",
+      "Jinghui Lu",
+      "Xiu-shen Wei",
+      "Jiayi Ma",
+      "Yu Liu",
+      "Jing Zhang",
+      "Hangjun Ye",
+      "Xiaojun Liang",
+      "Long Chen",
+      "Wenbo Ding"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-29T16:02:13+00:00",
+    "updated": "2026-04-29T16:02:13+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26839v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26839v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出基于VLM与VLA的无地图长程户外社交导航框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University",
+      "Shanghai AI Laboratory"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Vision-Language Model (VLM)",
+      "Long-Horizon Navigation",
+      "Social Navigation",
+      "Map-free Planning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.26509": {
+    "title": "3D Generation for Embodied AI and Robotic Simulation: A Survey",
+    "authors": [
+      "Tianwei Ye",
+      "Yifan Mao",
+      "Minwen Liao",
+      "Jian Liu",
+      "Chunchao Guo",
+      "Dazhao Du",
+      "Quanxin Shou",
+      "Fangqi Zhu",
+      "Song Guo"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-29T10:17:55+00:00",
+    "updated": "2026-04-29T10:17:55+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26509v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26509v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "首篇面向具身智能与机器人仿真的3D生成技术全面综述。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.5
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "3D Generation",
+      "Embodied AI",
+      "Robotic Simulation",
+      "Sim-to-Real",
+      "Interactive Environments"
+    ],
+    "journal_ref": null,
+    "comment": "26 pages, 11 figures, 8 tables. Project Page: https://3dgen4robot.github.io",
+    "relevance_tier": "core"
+  },
+  "2604.26934": {
+    "title": "World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning",
+    "authors": [
+      "Wanyue Zhang",
+      "Wenxiang Wu",
+      "Wang Xu",
+      "Jiaxin Luo",
+      "Helu Zhi",
+      "Yibin Huang",
+      "Shuo Ren",
+      "Zitao Liu",
+      "Jiajun Zhang"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-29T17:48:01+00:00",
+    "updated": "2026-04-29T17:48:01+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26934v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26934v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "将世界模型的空间想象力蒸馏到VLM中以提升动态空间推理能力。",
+    "tags": [
+      "Code",
+      "Dataset",
+      "Academic",
+      "🟢 Code",
+      "📊 Dataset",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": true,
+    "code_url": "https://github.com/WanyueZhang-ai/World2VLM",
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Vision-Language Models (VLMs)",
+      "Knowledge Distillation",
+      "Dynamic Spatial Reasoning",
+      "Action-to-Outcome Prediction"
+    ],
+    "journal_ref": null,
+    "comment": "The code is available at https://github.com/WanyueZhang-ai/World2VLM. The dataset is available at https://huggingface.co/datasets/WanyueZhang/World2VLM",
+    "relevance_tier": "core"
+  },
+  "2604.26694": {
+    "title": "Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising",
+    "authors": [
+      "Jun Guo",
+      "Qiwei Li",
+      "Peiyan Li",
+      "Zilong Chen",
+      "Nan Sun",
+      "Yifei Su",
+      "Heyun Wang",
+      "Yuan Zhang",
+      "Xinghang Li",
+      "Huaping Liu"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-29T14:01:54+00:00",
+    "updated": "2026-04-29T14:01:54+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26694v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26694v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出X-WAM：结合异步去噪的统一4D世界模型与动作执行框架。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "4D World Model",
+      "Asynchronous Denoising",
+      "Diffusion Transformer",
+      "Vision-Language-Action",
+      "RGB-D Generation"
+    ],
+    "journal_ref": null,
+    "comment": "Project website: https://sharinka0715.github.io/X-WAM/",
+    "relevance_tier": "core"
+  },
+  "2604.26182": {
+    "title": "Lifting Embodied World Models for Planning and Control",
+    "authors": [
+      "Alex N. Wang",
+      "Trevor Darrell",
+      "Pavel Izmailov",
+      "Yutong Bai",
+      "Amir Bar"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-28T23:59:19+00:00",
+    "updated": "2026-04-28T23:59:19+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26182v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26182v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出提升具身世界模型，通过高层动作空间实现高效规划与控制。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "UC Berkeley"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied World Models",
+      "Action Space Abstraction",
+      "Planning and Control",
+      "Cross-Entropy Method (CEM)",
+      "High-DoF Control"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.26261": {
+    "title": "Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding",
+    "authors": [
+      "Yufei Yin",
+      "Jie Zheng",
+      "Qianke Meng",
+      "Zhou Yu",
+      "Minghao Chen",
+      "Jiajun Ding",
+      "Min Tan",
+      "Yuling Xi",
+      "Zhiwen Chen",
+      "Chengfei Lv"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-29T03:38:56+00:00",
+    "updated": "2026-04-29T03:38:56+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26261v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26261v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "通过多重一致的2D-3D映射实现鲁棒的零样本3D视觉定位。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "3D Visual Grounding",
+      "Zero-shot Learning",
+      "2D-3D Mapping",
+      "Vision-Language Models",
+      "Embodied Perception"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2604.26637": {
+    "title": "ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation",
+    "authors": [
+      "Sergej Stanovcic",
+      "Daniel Sliwowski",
+      "Dongheui Lee"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-29T13:03:58+00:00",
+    "updated": "2026-04-29T13:03:58+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26637v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26637v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "一款支持多模态数据同步的长程机器人动作分割标注工具。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 2,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.45
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Action Segmentation",
+      "Annotation Tool",
+      "Multi-modal Visualization",
+      "RLDS",
+      "Robotic Demonstrations"
+    ],
+    "journal_ref": null,
+    "comment": "7 pages, 2 figures, 2 tables",
+    "relevance_tier": "peripheral"
+  },
+  "2604.26836": {
+    "title": "Uncertainty-Aware Predictive Safety Filters for Probabilistic Neural Network Dynamics",
+    "authors": [
+      "Bernd Frauenknecht",
+      "Lukas Kesper",
+      "Daniel Mayfrank",
+      "Henrik Hose",
+      "Sebastian Trimpe"
+    ],
+    "categories": [
+      "cs.LG",
+      "eess.SY"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-04-29T16:01:59+00:00",
+    "updated": "2026-04-29T16:01:59+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26836v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26836v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出基于概率集成动力学模型的不确定性感知预测安全滤波器。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "RWTH Aachen University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.1
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Predictive Safety Filters",
+      "Model-Based RL",
+      "Probabilistic Ensembles",
+      "Uncertainty Quantification",
+      "Reachable Sets"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2604.26910": {
+    "title": "Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots",
+    "authors": [
+      "Ruben Malacarne",
+      "Ioannis Tsikelis",
+      "Enrico Mingo Hoffman",
+      "Michele Focchi"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-29T17:18:29+00:00",
+    "updated": "2026-04-29T17:18:29+00:00",
+    "abs_url": "http://arxiv.org/abs/2604.26910v1",
+    "pdf_url": "https://arxiv.org/pdf/2604.26910v1",
+    "first_seen": "2026-04-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出用于绳索辅助腿足机器人攀爬的双层优化运动规划框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Istituto Italiano di Tecnologia (IIT)",
+      "University of Trento"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.5
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Bi-Level Optimization",
+      "Motion Planning",
+      "Contact Planning",
+      "Cross-Entropy Method",
+      "Legged Robots"
     ],
     "journal_ref": null,
     "comment": null,
