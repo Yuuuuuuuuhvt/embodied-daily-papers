@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-05-01T07:48:40.541796+00:00",
-    "total_papers": 610
+    "last_updated": "2026-05-04T08:10:44.118716+00:00",
+    "total_papers": 616
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -33681,6 +33681,350 @@
       "Parameterized Deep Q-Network",
       "V2X Communication",
       "Multi-Agent Systems"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2605.00412": {
+    "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
+    "authors": [
+      "Sen Cui",
+      "Jingheng Ma"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.RO"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-05-01T05:09:32+00:00",
+    "updated": "2026-05-01T05:09:32+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.00412v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.00412v1",
+    "first_seen": "2026-05-04",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出基于哈密顿动力学的物理原生世界模型框架。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 1,
+      "focus_relevance": 5,
+      "weighted": 3.6
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Hamiltonian Dynamics",
+      "World Models",
+      "Latent Phase Space",
+      "Physics-informed AI",
+      "Embodied Planning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.00080": {
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "authors": [
+      "Bohan Hou",
+      "Gen Li",
+      "Jindou Jia",
+      "Tuo An",
+      "Xinying Guo",
+      "Sicong Leng",
+      "Haoran Geng",
+      "Yanjie Ze",
+      "Tatsuya Harada",
+      "Philip Torr",
+      "Oier Mees",
+      "Marc Pollefeys",
+      "Zhuang Liu",
+      "Jiajun Wu",
+      "Pieter Abbeel",
+      "Jitendra Malik",
+      "Yilun Du",
+      "Jianfei Yang"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-30T14:35:31+00:00",
+    "updated": "2026-04-30T14:35:31+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.00080v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.00080v1",
+    "first_seen": "2026-05-04",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "机器人学习中世界模型的全面综述。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 1,
+    "affiliation_names": [
+      "UC Berkeley",
+      "Stanford University",
+      "University of Oxford",
+      "ETH Zurich",
+      "Meta FAIR"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 5,
+      "reproducibility": 4,
+      "focus_relevance": 5,
+      "weighted": 4.3
+    },
+    "has_code": true,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Robot Learning",
+      "Embodied AI",
+      "Learned Simulators",
+      "Video Generation"
+    ],
+    "journal_ref": null,
+    "comment": "43 pages, 6 figures",
+    "relevance_tier": "core"
+  },
+  "2605.00078": {
+    "title": "Being-H0.7: A Latent World-Action Model from Egocentric Videos",
+    "authors": [
+      "Hao Luo",
+      "Wanpeng Zhang",
+      "Yicheng Feng",
+      "Sipeng Zheng",
+      "Haiweng Xu",
+      "Chaoyi Xu",
+      "Ziheng Xi",
+      "Yuhui Fu",
+      "Zongqing Lu"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-30T14:16:15+00:00",
+    "updated": "2026-04-30T14:16:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.00078v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.00078v1",
+    "first_seen": "2026-05-04",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出隐式世界动作模型，无需生成未来帧即可提升VLA未来感知力。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Peking University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Latent World-Action Model",
+      "Vision-Language-Action (VLA)",
+      "Future-aware Reasoning",
+      "Dual-branch Alignment",
+      "Egocentric Videos"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.00244": {
+    "title": "Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation",
+    "authors": [
+      "Yajvan Ravan",
+      "Adam Rashid",
+      "Alan Yu",
+      "Kai McClennen",
+      "Gio Huh",
+      "Kevin Yang",
+      "Zhutian Yang",
+      "Qinxi Yu",
+      "Xiaolong Wang",
+      "Phillip Isola",
+      "Ge Yang"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-04-30T21:25:20+00:00",
+    "updated": "2026-04-30T21:25:20+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.00244v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.00244v1",
+    "first_seen": "2026-05-04",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于XR和生成式AI的机器人操作数据引擎。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "MIT",
+      "UC San Diego"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Extended-Reality (XR)",
+      "Data Engine",
+      "Sim-to-Real Transfer",
+      "Video Generation",
+      "Robotic Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": "Project website: https://lucidxr.github.io",
+    "relevance_tier": "peripheral"
+  },
+  "2605.00595": {
+    "title": "Robust Fusion of Object-Level V2X for Learned 3D Object Detection",
+    "authors": [
+      "Lukas Ostendorf",
+      "Lennart Reiher",
+      "Onn Haran",
+      "Lutz Eckstein"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-01T12:06:07+00:00",
+    "updated": "2026-05-01T12:06:07+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.00595v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.00595v1",
+    "first_seen": "2026-05-04",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出一种鲁棒的V2X对象级信息与3D目标检测融合方法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "RWTH Aachen University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 1,
+      "weighted": 2.6
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "V2X Communication",
+      "3D Object Detection",
+      "BEVFusion",
+      "Cooperative Perception",
+      "Noise-aware Training"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted at IEEE VTC 2026-Spring, 7 pages",
+    "relevance_tier": "peripheral"
+  },
+  "2605.00291": {
+    "title": "An End-to-End Decision-Aware Multi-Scale Attention-Based Model for Explainable Autonomous Driving",
+    "authors": [
+      "Maryam Sadat Hosseini Azad",
+      "Shahriar Baradaran Shokouhi",
+      "Amir Abbas Hamidi Imani",
+      "Shahin Atakishiyev",
+      "Randy Goebel"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-04-30T23:27:39+00:00",
+    "updated": "2026-04-30T23:27:39+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.00291v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.00291v1",
+    "first_seen": "2026-05-04",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出一种用于自动驾驶决策解释的多尺度注意力端到端模型。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Alberta",
+      "Iran University of Science and Technology"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Explainable AI (XAI)",
+      "Autonomous Driving",
+      "Multi-Scale Attention",
+      "Decision-Aware Reasoning",
+      "Joint F1 Score"
     ],
     "journal_ref": null,
     "comment": null,
