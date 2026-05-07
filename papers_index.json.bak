@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-05-05T07:41:32.285800+00:00",
-    "total_papers": 660
+    "last_updated": "2026-05-06T07:57:35.814269+00:00",
+    "total_papers": 671
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -36365,6 +36365,671 @@
       "Pseudo-label Denoising",
       "Adverse Weather",
       "Data Augmentation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2605.03821": {
+    "title": "RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models",
+    "authors": [
+      "Hao Wu",
+      "Yuqi Li",
+      "Yuan Gao",
+      "Fan Xu",
+      "Fan Zhang",
+      "Kun Wang",
+      "Penghao Zhao",
+      "Qiufeng Wang",
+      "Yizhou Zhao",
+      "Weiyan Wang",
+      "Yingli Tian",
+      "Xian Wu",
+      "Xiaomeng Huang"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-05T14:49:00+00:00",
+    "updated": "2026-05-05T14:49:00+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03821v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03821v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于多模态奖励对齐与滑动窗口重编码提升机器人视频世界模型。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Robot Video World Models",
+      "Reward Alignment",
+      "Reinforcement Learning Post-training",
+      "Sliding Window Re-encoding",
+      "Long-horizon Prediction"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.03269": {
+    "title": "RLDX-1 Technical Report",
+    "authors": [
+      "Dongyoung Kim",
+      "Huiwon Jang",
+      "Myungkyu Koo",
+      "Suhyeok Jang",
+      "Taeyoung Kim",
+      "Beomjun Kim",
+      "Byungjun Yoon",
+      "Changsung Jang",
+      "Daewon Choi",
+      "Dongsu Han",
+      "Donguk Lee",
+      "Heeseung Kwon",
+      "Hojin Jeon",
+      "Jaehyun Kang",
+      "Jaekyoung Bae",
+      "Jihyuk Lee",
+      "Jimin Lee",
+      "John Won",
+      "Joonwoo Ahn",
+      "Junhyeong Park",
+      "Junyoung Sung",
+      "Kyungmin Lee",
+      "Minseong Han",
+      "Minsung Yoon",
+      "Sejune Joo",
+      "Seonil Son",
+      "Seungcheol Park",
+      "Seunggeun Cho",
+      "Seungjun Moon",
+      "Seungku Kim",
+      "Yonghoon Dong",
+      "Yongjin Cho",
+      "Youngchan Kim",
+      "Chang Hwan Kim",
+      "Dohyeon Kim",
+      "Hazel Lee",
+      "Heecheol Kim",
+      "Hensen Ahn",
+      "Hyungkyu Ryu",
+      "Hyunsoo Choi",
+      "Hyunsoo Shin",
+      "Jaeheon Jung",
+      "Jaewoo Kim",
+      "Jinwook Kim",
+      "Joochul Chang",
+      "Joonsoo Kim",
+      "Junghun Park",
+      "Jungwoo Park",
+      "Junho Cho",
+      "Junhyeok Park",
+      "Junwon Lee",
+      "Kangwook Lee",
+      "Kwanghoon Kim",
+      "Kyoungwhan Choe",
+      "Manoj Bhadu",
+      "Nayoung Oh",
+      "Sangjun Kim",
+      "Sangwoo Kim",
+      "Seunghoon Shim",
+      "Seunghyun Kim",
+      "Seungjun Lee",
+      "Seungyup Ka",
+      "Sungryol Yang",
+      "Wook Jung",
+      "Yashu Shukla",
+      "Yeonjae Lee",
+      "Yeonwoo Bae",
+      "Jinwoo Shin"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-05T01:40:15+00:00",
+    "updated": "2026-05-05T01:40:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03269v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03269v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "RLDX-1：基于多流动作Transformer的通用灵巧操作VLA模型",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Industry",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "RLWRLD"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Multi-Stream Action Transformer",
+      "Dexterous Manipulation",
+      "Humanoid Robot Control",
+      "Cross-modal Attention"
+    ],
+    "journal_ref": null,
+    "comment": "Project page: https://rlwrld.ai/rldx-1",
+    "relevance_tier": "core"
+  },
+  "2605.03941": {
+    "title": "A Benchmark for Interactive World Models with a Unified Action Generation Framework",
+    "authors": [
+      "Jianjie Fang",
+      "Yingshan Lei",
+      "Qin Wan",
+      "Ziyou Wang",
+      "Yuchao Huang",
+      "Yongyan Xu",
+      "Baining Zhao",
+      "Weichen Zhang",
+      "Chen Gao",
+      "Xinlei Chen",
+      "Yong Li"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-05T16:30:03+00:00",
+    "updated": "2026-05-05T16:30:03+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03941v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03941v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出了一个用于评估交互式世界模型的统一基准和数据集。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "Accepted",
+      "🔴 No Code",
+      "📊 Dataset",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University",
+      "Meta FAIR"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 4,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Interactive World Models",
+      "Action Generation Framework",
+      "Physical Interaction Benchmark",
+      "Embodied AI"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted at ICML 2026",
+    "relevance_tier": "core"
+  },
+  "2605.03782": {
+    "title": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity",
+    "authors": [
+      "Haoxi Li",
+      "Qinglin Hou",
+      "Jianfei Ma",
+      "Jinxiang Lai",
+      "Tao Han",
+      "Sikai Bai",
+      "Jingcai Guo",
+      "Jie Zhang",
+      "Song Guo"
+    ],
+    "categories": [
+      "cs.AI"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-05-05T14:08:54+00:00",
+    "updated": "2026-05-05T14:08:54+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03782v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03782v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "利用视语预测差异作为好奇心驱动VLM智能体探索的世界模型。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Visual-Linguistic Curiosity",
+      "World Models",
+      "VLM Agents",
+      "Intrinsic Motivation",
+      "Reinforcement Learning"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted to ICML 2026 (Spotlight)",
+    "relevance_tier": "core"
+  },
+  "2605.03413": {
+    "title": "Learning to Theorize the World from Observation",
+    "authors": [
+      "Doojin Baek",
+      "Gyubin Lee",
+      "Junyeob Baek",
+      "Hosung Lee",
+      "Sungjin Ahn"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-05-05T06:39:12+00:00",
+    "updated": "2026-05-05T06:39:12+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03413v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03413v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出NEO模型，通过从原始观察中推导潜在程序来构建世界模型。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "KAIST"
+    ],
+    "scores": {
+      "novelty": 5,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Language of Thought",
+      "Latent Programs",
+      "Neuro-symbolic AI",
+      "Physical Understanding"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2603.28489": {
+    "title": "Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms",
+    "authors": [
+      "Muyang He",
+      "Hanzhong Guo",
+      "Junxiong Lin",
+      "Yizhou Yu"
+    ],
+    "categories": [
+      "eess.IV",
+      "cs.CV"
+    ],
+    "primary_category": "eess.IV",
+    "published": "2026-03-30T14:23:45+00:00",
+    "updated": "2026-05-04T04:34:54+00:00",
+    "abs_url": "http://arxiv.org/abs/2603.28489v2",
+    "pdf_url": "https://arxiv.org/pdf/2603.28489v2",
+    "first_seen": "2026-05-06",
+    "announce_type": "cross",
+    "direction": "multiple",
+    "one_line_summary": "综述了高效视频生成作为世界模型的范式、架构与算法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "University of Hong Kong"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Video Generation",
+      "World Models",
+      "Efficient Architectures",
+      "Spatiotemporal Modeling",
+      "Embodied AI"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.03855": {
+    "title": "Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior",
+    "authors": [
+      "Shinas Shaji",
+      "Teena Chakkalayil Hassan",
+      "Sebastian Houben",
+      "Alex Mitrevski"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-05T15:20:15+00:00",
+    "updated": "2026-05-05T15:20:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03855v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03855v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "评估大语言模型在2D协作游戏中的涌现协作行为。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Hochschule Bonn-Rhein-Sieg",
+      "Ruhr University Bochum"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Human-AI Collaboration",
+      "Embodied Agents",
+      "Theory of Mind",
+      "Emergent Behavior",
+      "Large Language Models"
+    ],
+    "journal_ref": null,
+    "comment": "Under review",
+    "relevance_tier": "peripheral"
+  },
+  "2605.03846": {
+    "title": "SigLoMa: Learning Open-World Quadrupedal Loco-Manipulation from Ego-Centric Vision",
+    "authors": [
+      "Shiyi Chen",
+      "Haiyi Liu",
+      "Mingye Yang",
+      "Jiaqi Zhang",
+      "Debing Zhang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-05T15:13:15+00:00",
+    "updated": "2026-05-05T15:13:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03846v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03846v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出基于自我中心视觉的四足机器人移动操作框架SigLoMa。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.45
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Loco-manipulation",
+      "Ego-centric Vision",
+      "Sim-to-real",
+      "Sigma Points",
+      "Kalman Filter"
+    ],
+    "journal_ref": null,
+    "comment": "Project website: https://11chens.github.io/SigLoMa/",
+    "relevance_tier": "peripheral"
+  },
+  "2605.03363": {
+    "title": "Learning Reactive Dexterous Grasping via Hierarchical Task-Space RL Planning and Joint-Space QP Control",
+    "authors": [
+      "Ho Jae Lee",
+      "Yonghyeon Lee",
+      "Alexander Alexiev",
+      "Tzu-Yuan Lin",
+      "Se Hwan Jeon",
+      "Sangbae Kim"
+    ],
+    "categories": [
+      "cs.RO",
+      "eess.SY"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-05T04:49:38+00:00",
+    "updated": "2026-05-05T04:49:38+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03363v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03363v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "结合多智能体强化学习与二次规划实现反应式灵巧抓取。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "MIT"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.1
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Dexterous Grasping",
+      "Hierarchical Control",
+      "Multi-Agent RL",
+      "Quadratic Programming",
+      "Sim-to-Real"
+    ],
+    "journal_ref": null,
+    "comment": "18 pages",
+    "relevance_tier": "peripheral"
+  },
+  "2605.03650": {
+    "title": "Rethinking Temporal Consistency in Video Object-Centric Learning: From Prediction to Correspondence",
+    "authors": [
+      "Zhiyuan Li",
+      "Rongzhen Zhao",
+      "Wenyan Yang",
+      "Wenshuai Zhao",
+      "Pekka Marttinen",
+      "Joni Pajarinen"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-05T11:29:43+00:00",
+    "updated": "2026-05-05T11:29:43+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03650v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03650v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "用确定性二分图匹配替代预测模块实现视频对象中心化学习。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "Demo",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Aalto University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.3
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Object-Centric Learning",
+      "Temporal Consistency",
+      "Bipartite Matching",
+      "Slot Attention"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2605.03662": {
+    "title": "Feasibility-aware Hybrid Control for Motion Planning under Signal Temporal Logics",
+    "authors": [
+      "Panagiotis Rousseas",
+      "Dimos V. Dimarogonas"
+    ],
+    "categories": [
+      "cs.RO",
+      "eess.SY"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-05T11:42:38+00:00",
+    "updated": "2026-05-05T11:42:38+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.03662v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.03662v1",
+    "first_seen": "2026-05-06",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出基于混合控制与控制障碍函数的信号时序逻辑运动规划方法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "KTH Royal Institute of Technology"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Signal Temporal Logic (STL)",
+      "Hybrid Control",
+      "Control Barrier Functions (CBFs)",
+      "Task and Motion Planning",
+      "Deadlock Avoidance"
     ],
     "journal_ref": null,
     "comment": null,
