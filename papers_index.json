@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-05-07T08:12:38.781265+00:00",
-    "total_papers": 676
+    "last_updated": "2026-05-08T07:09:03.362041+00:00",
+    "total_papers": 685
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -37271,6 +37271,483 @@
       "Adaptive Thresholds",
       "Scene Understanding",
       "Cross-Cultural Driving"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2605.06388": {
+    "title": "Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models",
+    "authors": [
+      "Nilaksh",
+      "Saurav Jha",
+      "Artem Zholus",
+      "Sarath Chandar"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.LG",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-07T15:05:26+00:00",
+    "updated": "2026-05-07T15:05:26+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.06388v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.06388v1",
+    "first_seen": "2026-05-08",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "语义潜空间比像素重建潜空间更适合训练机器人世界模型。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Mila"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Robotic World Models",
+      "Latent Diffusion Models",
+      "Semantic Latent Space",
+      "Policy Evaluation",
+      "V-JEPA"
+    ],
+    "journal_ref": null,
+    "comment": "9 pages",
+    "relevance_tier": "core"
+  },
+  "2605.06298": {
+    "title": "Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement",
+    "authors": [
+      "Roussel Desmond Nzoyem",
+      "Mauro Comi"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-07T14:02:00+00:00",
+    "updated": "2026-05-07T14:02:00+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.06298v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.06298v1",
+    "first_seen": "2026-05-08",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "基于隐式神经表示权重的无解码器世界模型。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Implicit Neural Representations (INR)",
+      "Weight-Space Models",
+      "Latent Disentanglement",
+      "Action-Conditioned Forecasting"
+    ],
+    "journal_ref": null,
+    "comment": "35 pages, 30 figures, 8 tables",
+    "relevance_tier": "core"
+  },
+  "2605.06222": {
+    "title": "When to Trust Imagination: Adaptive Action Execution for World Action Models",
+    "authors": [
+      "Rui Wang",
+      "Yue Zhang",
+      "Jiehong Lin",
+      "Kuncheng Luo",
+      "Jianan Wang",
+      "Zhongrui Wang",
+      "Xiaojuan Qi"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-07T13:18:28+00:00",
+    "updated": "2026-05-07T13:18:28+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.06222v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.06222v1",
+    "first_seen": "2026-05-08",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出FFDC验证器实现世界动作模型的自适应动作执行。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "The University of Hong Kong"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Action Models (WAMs)",
+      "Adaptive Action Execution",
+      "Future-Reality Verification",
+      "Action Chunking",
+      "Robotic Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.06192": {
+    "title": "EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields",
+    "authors": [
+      "Zhaoyang Yang",
+      "Yurun Jin",
+      "Lizhe Qi",
+      "Cong Huang",
+      "Kai Chen"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-07T13:06:19+00:00",
+    "updated": "2026-05-07T13:06:19+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.06192v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.06192v1",
+    "first_seen": "2026-05-08",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "结合运动学视觉动作场与事件感知的生成式世界模型。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Generative World Model",
+      "Kinematic-to-Visual Action Fields",
+      "Event-Aware Fusion",
+      "Video Diffusion Models",
+      "Robotic Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": "Preprint. 22 pages, 10 figures",
+    "relevance_tier": "core"
+  },
+  "2605.05951": {
+    "title": "HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning",
+    "authors": [
+      "Haoyun Tang",
+      "Haodong Cui",
+      "Keyao Xu",
+      "Kun Wang",
+      "Zhandong Mei"
+    ],
+    "categories": [
+      "cs.AI"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-05-07T09:58:18+00:00",
+    "updated": "2026-05-07T09:58:18+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.05951v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.05951v1",
+    "first_seen": "2026-05-08",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "结合哈密顿动力学与Mamba记忆的稳定规划世界模型。",
+    "tags": [
+      "Code",
+      "🟢 Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 4,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": true,
+    "code_url": "https://github.com/HaoyunT/HaM_World",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Hamiltonian Dynamics",
+      "Mamba",
+      "Model-based Planning",
+      "Out-of-Distribution Generalization"
+    ],
+    "journal_ref": null,
+    "comment": "22 pages, 5 figures. Code: https://github.com/HaoyunT/HaM_World",
+    "relevance_tier": "core"
+  },
+  "2605.06593": {
+    "title": "ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting",
+    "authors": [
+      "David Müller",
+      "Agon Serifi",
+      "Sammy Christen",
+      "Ruben Grandia",
+      "Espen Knoop",
+      "Moritz Bächer"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.GR",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-07T17:20:15+00:00",
+    "updated": "2026-05-07T17:20:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.06593v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.06593v1",
+    "first_seen": "2026-05-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于双层优化的强化学习框架，实现物理感知的跨形态动作重定向。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Industry",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "ETH Zurich",
+      "Disney Research"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.55
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Motion Retargeting",
+      "Bilevel Optimization",
+      "Reinforcement Learning",
+      "Imitation Learning",
+      "Physics Simulation"
+    ],
+    "journal_ref": null,
+    "comment": "SIGGRAPH 2026",
+    "relevance_tier": "peripheral"
+  },
+  "2605.06246": {
+    "title": "Structure-Preserving Gaussian Processes Via Discrete Euler-Lagrange Equations",
+    "authors": [
+      "Jan-Hendrik Ewering",
+      "Kathrin Flaßkamp",
+      "Niklas Wahlström",
+      "Thomas B. Schön",
+      "Thomas Seel"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.RO"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-05-07T13:26:47+00:00",
+    "updated": "2026-05-07T13:26:47+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.06246v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.06246v1",
+    "first_seen": "2026-05-08",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于离散欧拉-拉格朗日方程的保结构高斯过程动力学学习。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Uppsala University",
+      "FAU Erlangen-Nürnberg"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Gaussian Processes",
+      "Euler-Lagrange Equations",
+      "Dynamics Learning",
+      "Physical Consistency",
+      "Soft Robotics"
+    ],
+    "journal_ref": null,
+    "comment": "30 pages",
+    "relevance_tier": "peripheral"
+  },
+  "2605.05960": {
+    "title": "Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation",
+    "authors": [
+      "Zhixuan Shen",
+      "Yijie Zeng",
+      "Shengxiang Luo",
+      "Tianrui Li",
+      "Haonan Luo"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-07T10:06:40+00:00",
+    "updated": "2026-05-07T10:06:40+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.05960v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.05960v1",
+    "first_seen": "2026-05-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于扩散模型的即插即用地图补全方法，用于目标导向导航。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Goal-Oriented Navigation",
+      "Map Completion",
+      "Diffusion Models",
+      "Bird's-Eye-View (BEV)",
+      "Spatial World Models"
+    ],
+    "journal_ref": null,
+    "comment": "21 pages, 10 figures, Extended Version of accepted ICML 2026 Paper",
+    "relevance_tier": "peripheral"
+  },
+  "2605.05897": {
+    "title": "Generating Roadside LiDAR Datasets from Vehicle-Side Datasets via Novel View Synthesis",
+    "authors": [
+      "Yuhan Xia",
+      "Runxin Zhao",
+      "Hanyang Zhuang",
+      "Chunxiang Wang",
+      "Ming Yang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-07T09:10:18+00:00",
+    "updated": "2026-05-07T09:10:18+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.05897v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.05897v1",
+    "first_seen": "2026-05-08",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "基于新视角合成从车端数据生成路端LiDAR数据集。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Shanghai Jiao Tong University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.6
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Novel View Synthesis",
+      "LiDAR Synthesis",
+      "V2X Perception",
+      "Point Cloud Completion",
+      "3D Object Detection"
     ],
     "journal_ref": null,
     "comment": null,

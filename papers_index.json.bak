@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-05-06T07:57:35.814269+00:00",
-    "total_papers": 671
+    "last_updated": "2026-05-07T08:12:38.781265+00:00",
+    "total_papers": 676
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -37030,6 +37030,247 @@
       "Control Barrier Functions (CBFs)",
       "Task and Motion Planning",
       "Deadlock Avoidance"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2605.04475": {
+    "title": "Information Coordination as a Bridge: A Neuro-Symbolic Architecture for Reliable Autonomous Driving Scene Understanding",
+    "authors": [
+      "Shuo Liu",
+      "Lei Shi",
+      "Haowen Liu",
+      "Jing Xu",
+      "Yufei Gao",
+      "Yucheng Shi"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-06T03:55:04+00:00",
+    "updated": "2026-05-06T03:55:04+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.04475v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.04475v1",
+    "first_seen": "2026-05-07",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "神经符号架构提升自动驾驶场景理解的可靠性与一致性。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Neuro-Symbolic Architecture",
+      "Scene Understanding",
+      "Hallucination Reduction",
+      "Information Coordination",
+      "BEV Perception"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.05072": {
+    "title": "Height-Guided Projection Reparameterization for Camera-LiDAR Occupancy",
+    "authors": [
+      "Yuan Wu",
+      "Zhiqiang Yan",
+      "Jiawei Lian",
+      "Zhengxue Wang",
+      "Jian Yang"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-06T16:09:13+00:00",
+    "updated": "2026-05-06T16:09:13+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.05072v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.05072v1",
+    "first_seen": "2026-05-07",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "Height-Guided Projection Reparameterization for Camera-LiDAR Occupancy",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2605.04421": {
+    "title": "FLUID: Continuous-Time Hyperconnected Sparse Transformer for Sink-Free Learning",
+    "authors": [
+      "Waleed Razzaq",
+      "Yun-Bo Zhao"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-05-06T02:27:25+00:00",
+    "updated": "2026-05-06T02:27:25+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.04421v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.04421v1",
+    "first_seen": "2026-05-07",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "FLUID: Continuous-Time Hyperconnected Sparse Transformer for Sink-Free Learning",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2605.04366": {
+    "title": "Conditional Flow-VAE for Safety-Critical Traffic Scenario Generation",
+    "authors": [
+      "Zimu Gong",
+      "Brian Zhaoning Zhang",
+      "Chris Zhang",
+      "Kelvin Wong",
+      "Raquel Urtasun"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-06T00:08:25+00:00",
+    "updated": "2026-05-06T00:08:25+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.04366v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.04366v1",
+    "first_seen": "2026-05-07",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "基于条件流匹配的安全关键交通场景生成方法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Industry",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Toronto",
+      "Waabi"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Flow Matching",
+      "Safety-Critical Scenarios",
+      "Scenario Generation",
+      "Autonomous Driving",
+      "Latent VAE"
+    ],
+    "journal_ref": null,
+    "comment": "ICRA 2026",
+    "relevance_tier": "peripheral"
+  },
+  "2605.04299": {
+    "title": "Beyond Fixed Thresholds and Domain-Specific Benchmarks for Explainable Multi-Task Classification in Autonomous Vehicles",
+    "authors": [
+      "Maryam Sadat Hosseini Azad",
+      "Shahriar Baradaran Shokouhi"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-05T21:07:11+00:00",
+    "updated": "2026-05-05T21:07:11+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.04299v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.04299v1",
+    "first_seen": "2026-05-07",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出自适应阈值与新数据集以增强自动驾驶多任务分类的可解释性",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Iran University of Science and Technology"
+    ],
+    "scores": {
+      "novelty": 2,
+      "impact": 2,
+      "reproducibility": 3,
+      "focus_relevance": 1,
+      "weighted": 2.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Explainable AI (XAI)",
+      "Multi-Task Classification",
+      "Adaptive Thresholds",
+      "Scene Understanding",
+      "Cross-Cultural Driving"
     ],
     "journal_ref": null,
     "comment": null,
