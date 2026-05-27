@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-05-22T08:44:10.658153+00:00",
-    "total_papers": 962
+    "last_updated": "2026-05-25T09:18:52.089669+00:00",
+    "total_papers": 980
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -53001,6 +53001,993 @@
       "Water Hazard Detection",
       "Autonomous Driving Perception",
       "Sensor Fusion"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2605.23861": {
+    "title": "Leveraging Foundation Models for Causal Generative Modeling",
+    "authors": [
+      "Aneesh Komanduri",
+      "Xintao Wu"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-05-22T17:20:17+00:00",
+    "updated": "2026-05-22T17:20:17+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23861v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23861v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出利用基础模型进行零样本视觉因果推理与反事实生成的框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Arkansas"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Causal Generative Modeling",
+      "Counterfactual Generation",
+      "Visual Causal Reasoning",
+      "Foundation Models",
+      "Diffusion Models"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.23856": {
+    "title": "Point Tracking Improves World Action Models",
+    "authors": [
+      "Jiarui Guan",
+      "Wenshuai Zhao",
+      "Yue Pei",
+      "Ziliang Chen",
+      "Arno Solin",
+      "Juho Kannala"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-22T17:08:37+00:00",
+    "updated": "2026-05-22T17:08:37+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23856v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23856v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "结合点追踪与像素预测的世界模型提升了机器人策略学习。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Aalto University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World-Action Models",
+      "Point Tracking",
+      "Diffusion Transformer",
+      "Robot Policy Learning",
+      "Embodied AI"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.23847": {
+    "title": "Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion",
+    "authors": [
+      "Remko Proesmans",
+      "Thomas Lips",
+      "Francis wyffels"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-22T16:59:55+00:00",
+    "updated": "2026-05-22T16:59:55+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23847v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23847v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "物体内置传感器增强扩散策略，提升机器人衣架插入性能。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "Accepted",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Ghent University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Imitation Learning",
+      "Diffusion Policies",
+      "Robotic Manipulation",
+      "Sensor Instrumentation",
+      "Privileged Information"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted for presentation at ICRA2026",
+    "relevance_tier": "core"
+  },
+  "2605.23845": {
+    "title": "Learning a Particle Dynamics Model with Real-world Videos",
+    "authors": [
+      "Chanho Kim",
+      "Suhas V. Sumukh",
+      "Li Fuxin"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-22T16:56:27+00:00",
+    "updated": "2026-05-22T16:56:27+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23845v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23845v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "基于高斯溅射从无标签真实视频中学习粒子动力学世界模型。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "Accepted",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Oregon State University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Particle Dynamics",
+      "World Models",
+      "Gaussian Splatting",
+      "Rendering Supervision",
+      "Sim-to-Real"
+    ],
+    "journal_ref": null,
+    "comment": "CVPR 2026 Findings",
+    "relevance_tier": "core"
+  },
+  "2605.23523": {
+    "title": "ComPose: When to Trust Hands for Object Pose Tracking",
+    "authors": [
+      "Jisu Shin",
+      "Junoh Lee",
+      "JunGyu Lee",
+      "Inhwan Bae",
+      "Dohyeon Lee",
+      "Hokyun Im",
+      "Youngwoon Lee",
+      "Hae-Gon Jeon"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-22T11:39:49+00:00",
+    "updated": "2026-05-22T11:39:49+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23523v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23523v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "利用手部运动作为补充线索的抗遮挡6DoF物体位姿跟踪框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Gwangju Institute of Science and Technology",
+      "Yonsei University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.2
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "6DoF Pose Tracking",
+      "Hand-Object Interaction",
+      "RGB Video Tracking",
+      "Robot Manipulation",
+      "Motion Reconstruction"
+    ],
+    "journal_ref": null,
+    "comment": "22 pages, 10 figures",
+    "relevance_tier": "core"
+  },
+  "2605.23477": {
+    "title": "Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation",
+    "authors": [
+      "Chengyu Deng",
+      "Guanqi Chen",
+      "Yizhou Chen",
+      "Zejia Liu",
+      "Zhiwen Ruan",
+      "Guanhua Chen",
+      "Jia Pan"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-22T10:38:59+00:00",
+    "updated": "2026-05-22T10:38:59+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23477v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23477v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出语义结构化MoE扩散策略，提升机器人操作效率与泛化性。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "Accepted",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Hong Kong"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.8
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Diffusion Policy",
+      "Mixture-of-Experts (MoE)",
+      "Vision-Language Models (VLMs)",
+      "Robotic Manipulation",
+      "Compositional Generalization"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted to Robotics: Science and Systems (RSS) 2026",
+    "relevance_tier": "core"
+  },
+  "2605.23270": {
+    "title": "ChainFlow-VLA: Causal Flow Planning with Vision-Language Models",
+    "authors": [
+      "Xiyang Wang",
+      "Xinlin Wang",
+      "Tingguang Zhou",
+      "Gong Chen",
+      "Xingtai Gui",
+      "Zhi Xu",
+      "Xiaolei Wu",
+      "Feiyang Tan",
+      "Hangning Zhou",
+      "Mu Yang"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-22T06:17:35+00:00",
+    "updated": "2026-05-22T06:17:35+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23270v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23270v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "融合自回归与扩散模型，提出ChainFlow-VLA优化自动驾驶规划。",
+    "tags": [
+      "Code",
+      "🟢 Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "AFARI-Research"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": true,
+    "code_url": "https://github.com/AFARI-Research/ChainFlow-VLA",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Autoregressive Models",
+      "Diffusion Models",
+      "Trajectory Planning",
+      "End-to-End Autonomous Driving"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.23128": {
+    "title": "$π_0$-EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control",
+    "authors": [
+      "Huanming Liu",
+      "Congsheng Xu",
+      "Jianmin Ji",
+      "Yao Mu"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-22T01:07:07+00:00",
+    "updated": "2026-05-22T01:07:07+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23128v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23128v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出π0-EqM，用平衡匹配替换流匹配解码器提升VLA控制性能。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Equilibrium Matching (EqM)",
+      "Flow-Matching",
+      "Closed-Loop Control",
+      "Action Generation"
+    ],
+    "journal_ref": null,
+    "comment": "Preprint. 5 pages, 3 figures",
+    "relevance_tier": "core"
+  },
+  "2605.22896": {
+    "title": "Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models",
+    "authors": [
+      "Ruofan Jin",
+      "Zaixi Zhang"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-21T15:24:21+00:00",
+    "updated": "2026-05-21T15:24:21+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.22896v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.22896v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出Agentic-VLA框架，实现视觉语言动作模型的高效在线适应。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Online Adaptation",
+      "Adaptive Reward Synthesis",
+      "Language-Guided Exploration",
+      "Continuous Learning"
+    ],
+    "journal_ref": null,
+    "comment": "Total 15 pages",
+    "relevance_tier": "core"
+  },
+  "2605.22882": {
+    "title": "GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation",
+    "authors": [
+      "Kaichen Zhou",
+      "Yuzhen Chen",
+      "Fangneng Zhan",
+      "Hang Hua",
+      "Grace Chen",
+      "Xinhai Chang",
+      "Ao Qu",
+      "Yilun Du",
+      "Zhuang Liu",
+      "Paul Pu Liang",
+      "Mengyu Wang"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-20T21:36:44+00:00",
+    "updated": "2026-05-20T21:36:44+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.22882v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.22882v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "结合4D几何监督的视频世界模型，显著提升机器人操作成功率。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 1,
+    "affiliation_names": [
+      "MIT",
+      "Meta FAIR",
+      "Carnegie Mellon University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Video World Models",
+      "4D Correspondence",
+      "Robot Manipulation",
+      "Inverse Dynamics",
+      "Geometry-grounded Generation"
+    ],
+    "journal_ref": null,
+    "comment": "Robotic World Model, Video Generative Model",
+    "relevance_tier": "core"
+  },
+  "2605.23699": {
+    "title": "CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models",
+    "authors": [
+      "León Begiristain",
+      "Olaf Dünkel",
+      "Adam Kortylewski"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-22T14:51:22+00:00",
+    "updated": "2026-05-22T14:51:22+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23699v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23699v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "评估视频生成模型反事实物理一致性的新基准CRONOS。",
+    "tags": [
+      "Code",
+      "Dataset",
+      "Academic",
+      "🟢 Code",
+      "📊 Dataset",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Freiburg",
+      "Max Planck Institute for Informatics"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": true,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Video Prediction",
+      "Counterfactual Consistency",
+      "Physical Understanding",
+      "Benchmarking"
+    ],
+    "journal_ref": null,
+    "comment": "27 pages, 12 figures",
+    "relevance_tier": "core"
+  },
+  "2605.23345": {
+    "title": "SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models",
+    "authors": [
+      "Zizhao Tong",
+      "Hongfeng Lai",
+      "Zeqing Wang",
+      "Zhaohu Xing",
+      "Kexu Cheng",
+      "Haoran Xu",
+      "Zhao Pu",
+      "Shangwen Zhu",
+      "Ruili Feng",
+      "Jian Zhao",
+      "Yan Zhang",
+      "Hao Tang",
+      "Yeying Jin",
+      "Ling Shao"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-22T08:06:37+00:00",
+    "updated": "2026-05-22T08:06:37+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23345v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23345v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出SCOPE模型与数据集，实现跨FPS游戏的交互式世界模型。",
+    "tags": [
+      "Code",
+      "Dataset",
+      "Demo",
+      "Academic",
+      "🟢 Code",
+      "📊 Dataset",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 4,
+      "weighted": 3.9
+    },
+    "has_code": true,
+    "code_url": "https://github.com/z2tong/SCOPE",
+    "has_dataset": true,
+    "has_demo": true,
+    "key_terms": [
+      "Interactive World Models",
+      "Action-Conditioned Video Generation",
+      "Spatial Action Injection",
+      "FPS Games",
+      "Cross-domain Generalization"
+    ],
+    "journal_ref": null,
+    "comment": "Project page: https://z2tong.github.io/SCOPE/. Code is available at https://github.com/z2tong/SCOPE",
+    "relevance_tier": "core"
+  },
+  "2605.23220": {
+    "title": "WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents",
+    "authors": [
+      "Zhixiang Guo",
+      "Siyuan Liang",
+      "Shi Fu",
+      "Cheng Guo",
+      "Andras Balogh",
+      "Mark Jelasity",
+      "Dacheng Tao"
+    ],
+    "categories": [
+      "cs.LG"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-05-22T04:31:09+00:00",
+    "updated": "2026-05-22T04:31:09+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23220v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23220v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出WMAttack框架自动化评估世界模型智能体的对抗鲁棒性。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University",
+      "University of Szeged"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Adversarial Robustness",
+      "Automated Attack Search",
+      "Closed-loop Rollouts",
+      "DreamerV3"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2605.23089": {
+    "title": "Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics",
+    "authors": [
+      "Romil V. Sonigra",
+      "P. R. Kumar"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-05-21T22:40:40+00:00",
+    "updated": "2026-05-21T22:40:40+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23089v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23089v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "引入梯度惩罚正则化提升DreamerV3的平滑性与采样效率",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Texas A&M University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 4,
+      "focus_relevance": 5,
+      "weighted": 3.8
+    },
+    "has_code": true,
+    "code_url": "https://github.com/romils9/gpld-mbrl",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "DreamerV3",
+      "Gradient Penalty",
+      "Latent Dynamics",
+      "Sample Efficiency"
+    ],
+    "journal_ref": null,
+    "comment": "17 pages and 9 figures",
+    "relevance_tier": "core"
+  },
+  "2605.23863": {
+    "title": "Robotic Strawberry Harvesting with Robust Vision and Deep Reinforcement Learning based Sim-to-Real Control",
+    "authors": [
+      "Al Bashir",
+      "Shao-Yang Chang",
+      "Partho Ghose",
+      "Prem Raj",
+      "Chen-Kang Huang",
+      "Azlan Zahid"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-22T17:21:06+00:00",
+    "updated": "2026-05-22T17:21:06+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23863v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23863v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于改进YOLO与PPO强化学习的Sim-to-Real草莓采摘系统。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Texas A&M University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Sim-to-Real",
+      "Deep Reinforcement Learning",
+      "Instance Segmentation",
+      "Robotic Harvesting",
+      "Isaac Lab"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2605.23568": {
+    "title": "TactileReflex: Noise-Statistics-Driven Vision-Tactile Reflex Control for Force-Sensitive Manipulation",
+    "authors": [
+      "Ziyan Feng",
+      "Yulong Fu",
+      "Zheng Li",
+      "Yuxin He",
+      "Jieji Ren",
+      "Lujia Wang",
+      "Jinni Zhou",
+      "Yudong Zhong",
+      "Qiang Nie"
+    ],
+    "categories": [
+      "cs.RO",
+      "eess.SY"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-05-22T12:35:28+00:00",
+    "updated": "2026-05-22T12:35:28+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23568v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23568v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于噪声统计的视触觉反射控制，实现对易碎物体的力敏感抓取。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Tactile Sensing",
+      "Reflex Control",
+      "Force-Sensitive Manipulation",
+      "Noise Statistics",
+      "Visuo-Tactile Sensors"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, 4 figures, 6 tables",
+    "relevance_tier": "peripheral"
+  },
+  "2605.23878": {
+    "title": "LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation",
+    "authors": [
+      "Bo Jiang",
+      "Depu Meng",
+      "Yihan Hu",
+      "Yichen Xie",
+      "Tianshuo Xu",
+      "Wei Zhan"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-05-22T17:34:42+00:00",
+    "updated": "2026-05-22T17:34:42+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23878v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23878v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "利用自监督潜在运动先验提升视频生成的物理真实感。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "UC Berkeley"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Latent Motion Prior",
+      "Video Diffusion Models",
+      "Physical Realism",
+      "World Simulators",
+      "Self-Supervised Learning"
+    ],
+    "journal_ref": null,
+    "comment": "Project Page: https://lamo-ai.github.io/",
+    "relevance_tier": "peripheral"
+  },
+  "2605.23025": {
+    "title": "World Machine: Towards Generative World Modeling for Time-Series",
+    "authors": [
+      "Elton Cardoso do Nascimento",
+      "Alexandre da Silva Simões",
+      "Esther Luna Colombini",
+      "Ricardo Ribeiro Gudwin",
+      "Paula Dornhofer Paro Costa"
+    ],
+    "categories": [
+      "cs.LG"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-05-21T20:48:51+00:00",
+    "updated": "2026-05-21T20:48:51+00:00",
+    "abs_url": "http://arxiv.org/abs/2605.23025v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.23025v1",
+    "first_seen": "2026-05-25",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出一种用于时间序列的生成式世界模型架构World Machine。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Campinas",
+      "São Paulo State University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Time-Series",
+      "Latent States",
+      "Transformer",
+      "Generative AI"
     ],
     "journal_ref": null,
     "comment": null,
