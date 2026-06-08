@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-06-04T09:14:17.794233+00:00",
-    "total_papers": 1153
+    "last_updated": "2026-06-08T10:11:39.191097+00:00",
+    "total_papers": 1178
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -63307,6 +63307,1133 @@
     "key_terms": [],
     "journal_ref": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026",
     "comment": "Accepted to the CVPR 2026 OpenSUN3D Workshop. Official version available at CVF Open Access. https://openaccess.thecvf.com/content/CVPR2026W/OpenSUN3D/html/Du_A_Cookbook_of_3D_Vision_Data_Learning_Paradigms_and_Application_CVPRW_2026_paper.html",
+    "relevance_tier": "peripheral"
+  },
+  "2606.07386": {
+    "title": "Spline Policy: A Structured Representation for Robot Policies",
+    "authors": [
+      "Mengze Tian",
+      "Yiming Li",
+      "Sichao Liu",
+      "Auke Ijspeert",
+      "Sylvain Calinon"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T15:23:54+00:00",
+    "updated": "2026-06-05T15:23:54+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07386v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07386v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Spline Policy: A Structured Representation for Robot Policies",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": "This work has been submitted to the IEEE for possible publication",
+    "relevance_tier": "core"
+  },
+  "2606.07383": {
+    "title": "RhinoVLA Technical Report",
+    "authors": [
+      "Huixi Intelligence",
+      " :",
+      "Chen Zhang",
+      "Chenyang Zhou",
+      "Guanglei Ding",
+      "Guanghui He",
+      "Haibin Gao",
+      "Jiajia Chen",
+      "Jianyong Zhang",
+      "Lianyi Yu",
+      "Ningyi Xu",
+      "Ping Xu",
+      "Qingchen Li",
+      "Yingjun Hu",
+      "Yijia Zhang",
+      "Yuxi Liu"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T15:21:41+00:00",
+    "updated": "2026-06-05T15:21:41+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07383v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07383v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "RhinoVLA Technical Report",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2606.07217": {
+    "title": "Robotic Policy Adaptation via Weight-Space Meta-Learning",
+    "authors": [
+      "Christian Bianchi",
+      "Siamak Yousefi",
+      "Alessio Sampieri",
+      "Andrea Roberti",
+      "Luca Rigazio",
+      "Fabio Galasso",
+      "Luca Franco"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T12:29:28+00:00",
+    "updated": "2026-06-05T12:29:28+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07217v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07217v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Robotic Policy Adaptation via Weight-Space Meta-Learning",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2606.07107": {
+    "title": "Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models",
+    "authors": [
+      "Jinhao Wu",
+      "Shiduo Zhang",
+      "Yicheng Liu",
+      "Xiaopeng Yu",
+      "Sixian Li",
+      "Siyin Wang",
+      "Hang Zhao",
+      "Jing Huo",
+      "Yang Gao",
+      "Jingjing Gong",
+      "Xipeng Qiu",
+      "Yu-Gang Jiang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T10:01:37+00:00",
+    "updated": "2026-06-05T10:01:37+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07107v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07107v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2606.07100": {
+    "title": "LARA: Latent Action Representation Alignment for Vision-Language-Action Models",
+    "authors": [
+      "Mengya Liu",
+      "Baoxiong Jia",
+      "Jiangyong Huang",
+      "Jingze Zhang",
+      "Siyuan Huang"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-06-05T09:51:25+00:00",
+    "updated": "2026-06-05T09:51:25+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07100v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07100v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "LARA: Latent Action Representation Alignment for Vision-Language-Action Models",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2606.07017": {
+    "title": "The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective",
+    "authors": [
+      "Xiaoou Liu",
+      "Tiejin Chen",
+      "Weibo Li",
+      "Xiyang Hu",
+      "Hua Wei"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.ET"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-06-05T08:00:25+00:00",
+    "updated": "2026-06-05T08:00:25+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07017v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07017v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": "7 pages, 2 figures, 2 tables. Accepted by KDD 2026 Blue Sky Ideas Track",
+    "relevance_tier": "core"
+  },
+  "2606.06904": {
+    "title": "ActionMap: Robot Policy Learning via Voxel Action Heatmap",
+    "authors": [
+      "Pei Yang",
+      "Hai Ci",
+      "Yanzhe Chen",
+      "Qi Lv",
+      "Han Cai",
+      "Mike Zheng Shou"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T04:42:56+00:00",
+    "updated": "2026-06-05T04:42:56+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.06904v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.06904v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "ActionMap: Robot Policy Learning via Voxel Action Heatmap",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2606.06836": {
+    "title": "Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation",
+    "authors": [
+      "Xiangyi Zheng",
+      "Xiangyu Wang",
+      "Qinan Liao",
+      "Zimu Tang",
+      "Yue Liao",
+      "Dongyue Lyu",
+      "Guodong Wang",
+      "Junjie Liu",
+      "Si Liu"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T02:23:05+00:00",
+    "updated": "2026-06-05T02:23:05+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.06836v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.06836v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2606.06627": {
+    "title": "What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?",
+    "authors": [
+      "Richard Li",
+      "Aditya Prakash",
+      "Andrew Wen",
+      "Saurabh Gupta",
+      "Yilun Du",
+      "Pulkit Agrawal"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-04T18:24:23+00:00",
+    "updated": "2026-06-04T18:24:23+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.06627v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.06627v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": "The project website is here: https://richardrl.github.io/what-matters-cotraining-human-videos/index.html",
+    "relevance_tier": "core"
+  },
+  "2606.07326": {
+    "title": "AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization",
+    "authors": [
+      "Yu Li",
+      "Menghan Xia",
+      "Gongye Liu",
+      "Xintao Wang",
+      "Conglang Zhang",
+      "Lei Ke",
+      "Yuxuan Lin",
+      "Ruihang Chu",
+      "Pengfei Wan",
+      "Kun Gai",
+      "Yujiu Yang"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-06-05T14:43:13+00:00",
+    "updated": "2026-06-05T14:43:13+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07326v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07326v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2606.07303": {
+    "title": "Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models",
+    "authors": [
+      "Jacques Raynal",
+      "Pierre Slangen",
+      "Elsa Raynal",
+      "Jacques Margerit"
+    ],
+    "categories": [
+      "cs.LG"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-06-05T14:21:08+00:00",
+    "updated": "2026-06-05T14:21:08+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07303v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07303v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": "24 pages, 25 references. Theoretical framework relating representation learning, representational emergence, and world models",
+    "relevance_tier": "core"
+  },
+  "2606.07127": {
+    "title": "Learning Explicit Behavioral Models with Adaptive Questions and World-Model Probes",
+    "authors": [
+      "Hikaru Shindo",
+      "Yu Deng",
+      "Teng Cao",
+      "Quentin Delfosse",
+      "Christopher Tauchmann",
+      "Jannis Blüml",
+      "Gopika Sudhakaran",
+      "Kristian Kersting"
+    ],
+    "categories": [
+      "cs.LG"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-06-05T10:34:55+00:00",
+    "updated": "2026-06-05T10:34:55+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07127v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07127v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "Learning Explicit Behavioral Models with Adaptive Questions and World-Model Probes",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2606.07464": {
+    "title": "Planning-aligned Token Compression for Long-Context Autonomous Driving",
+    "authors": [
+      "Zhixuan Liang",
+      "Yuxiao Chen",
+      "Yurong You",
+      "Peter Karkus",
+      "Wenhao Ding",
+      "Boyi Li",
+      "Alexander Popov",
+      "Yan Wang",
+      "Maximilian Igl",
+      "Yiming Li",
+      "Danfei Xu",
+      "Nikolai Smolyanskiy",
+      "Boris Ivanovic",
+      "Ping Luo",
+      "Marco Pavone"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T17:16:21+00:00",
+    "updated": "2026-06-05T17:16:21+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07464v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07464v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "Planning-aligned Token Compression for Long-Context Autonomous Driving",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": "9 pages",
+    "relevance_tier": "core"
+  },
+  "2606.07506": {
+    "title": "Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation",
+    "authors": [
+      "Tuba Girgin",
+      "Jose Castelblanco",
+      "Gabriel Rodriguez",
+      "Emre Girgin",
+      "Cagri Kilic"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T17:56:42+00:00",
+    "updated": "2026-06-05T17:56:42+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07506v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07506v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": "This paper is submitted to Wiley Journal of Field Robotics",
+    "relevance_tier": "peripheral"
+  },
+  "2606.07424": {
+    "title": "Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists",
+    "authors": [
+      "Ankit Sinha",
+      "Nitish Sontakke",
+      "Dennis Hong",
+      "Yusuke Tanaka",
+      "Sehoon Ha"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T16:18:15+00:00",
+    "updated": "2026-06-05T16:18:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07424v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07424v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": "Submitted to RA-L",
+    "relevance_tier": "peripheral"
+  },
+  "2606.07389": {
+    "title": "Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping",
+    "authors": [
+      "Kaijie Shi",
+      "Wanglong Lu",
+      "Huiling Chen",
+      "Vinicius Prado da Fonseca",
+      "Ting Zou",
+      "Hanli Zhao",
+      "Xianta Jiang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T15:26:26+00:00",
+    "updated": "2026-06-05T15:26:26+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07389v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07389v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2606.07193": {
+    "title": "Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering",
+    "authors": [
+      "Aditya Shirwatkar",
+      "Sebastian Sanokowski",
+      "Shishir Kolathaya",
+      "Aaron Johnson",
+      "Majid Khadiv"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T11:59:43+00:00",
+    "updated": "2026-06-05T11:59:43+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07193v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07193v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2606.07118": {
+    "title": "QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation",
+    "authors": [
+      "Yuxiang Chen",
+      "Yuanhao Wang",
+      "Ziheng Zhang",
+      "Meng Zhang",
+      "Yu Liu",
+      "Yufei Jia",
+      "Tiancai Wang",
+      "Erjin Zhou",
+      "Jin Xie"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T10:18:24+00:00",
+    "updated": "2026-06-05T10:18:24+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07118v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07118v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2606.07083": {
+    "title": "Predictive Style Matching: Natural and Robust Humanoid Locomotion",
+    "authors": [
+      "Simeon Nedelchev",
+      "Ekaterina Chaikovskaia",
+      "Egor Davydenko",
+      "Eduard Zaliaev",
+      "Roman Gorbachev"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T09:21:20+00:00",
+    "updated": "2026-06-05T09:21:20+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07083v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07083v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Predictive Style Matching: Natural and Robust Humanoid Locomotion",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2606.06967": {
+    "title": "GenPO++: Generative Policy Optimization with Jacobian-free Likelihood Ratios",
+    "authors": [
+      "Ke Hu",
+      "Shutong Ding",
+      "Panxin Tao",
+      "Jingya Wang",
+      "Ye Shi"
+    ],
+    "categories": [
+      "cs.LG"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-06-05T06:54:09+00:00",
+    "updated": "2026-06-05T06:54:09+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.06967v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.06967v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "GenPO++: Generative Policy Optimization with Jacobian-free Likelihood Ratios",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2606.06944": {
+    "title": "T-GMP: Terrain-conditioned Generative Motion Priors for Versatile and Natural Humanoid Locomotion",
+    "authors": [
+      "Junhong Guo",
+      "Hao Hu",
+      "Chen Chen",
+      "Haoxuan Han",
+      "Linao Gong",
+      "Xin Yang",
+      "Zhicheng He",
+      "Yao Su",
+      "Fenghua He"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T06:15:42+00:00",
+    "updated": "2026-06-05T06:15:42+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.06944v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.06944v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "T-GMP: Terrain-conditioned Generative Motion Priors for Versatile and Natural Humanoid Locomotion",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2606.06569": {
+    "title": "PhyRoGen: Synthetic Generation of Physical Robot Manipulation Puzzles Using Procedural Content Generation",
+    "authors": [
+      "Lennart Julian Droß",
+      "Andreas Orthey",
+      "Marc Toussaint"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-04T17:48:31+00:00",
+    "updated": "2026-06-04T17:48:31+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.06569v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.06569v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "PhyRoGen: Synthetic Generation of Physical Robot Manipulation Puzzles Using Procedural Content Generation",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": "8 pages, accepted at CASE 2026",
+    "relevance_tier": "peripheral"
+  },
+  "2606.07186": {
+    "title": "A Causal Probabilistic Framework for Perception-Informed Closed-Loop Simulation of Autonomous Driving",
+    "authors": [
+      "Zhennan Fei",
+      "Rickard Johansson",
+      "Mikael Andersson",
+      "Matthias Eng",
+      "Mattias Eriksson",
+      "Kaveh Kianfar",
+      "Sadegh Rahrovani",
+      "Chris van der Ploeg",
+      "Michael Borth",
+      "Maren Buermann",
+      "Michiel Braat",
+      "Henk Goossens",
+      "Zijian Han",
+      "Majid Khorsand Vakilzadeh",
+      "Gabriel Rodrigues de Campos"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.SE"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T11:53:43+00:00",
+    "updated": "2026-06-05T11:53:43+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07186v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07186v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "A Causal Probabilistic Framework for Perception-Informed Closed-Loop Simulation of Autonomous Driving",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2606.07170": {
+    "title": "Test-Time Trajectory Optimization for Autonomous Driving",
+    "authors": [
+      "Yihong Xu",
+      "Eloi Zablocki",
+      "Yuan Yin",
+      "Elias Ramzi",
+      "Ellington Kirby",
+      "Alexandre Boulch",
+      "Matthieu Cord"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T11:39:27+00:00",
+    "updated": "2026-06-05T11:39:27+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.07170v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.07170v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "Test-Time Trajectory Optimization for Autonomous Driving",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2606.06996": {
+    "title": "Mission-Level Runtime Assurance Framework for Autonomous Driving",
+    "authors": [
+      "Chieh Tsai",
+      "Salim Hariri"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.DC"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-06-05T07:35:10+00:00",
+    "updated": "2026-06-05T07:35:10+00:00",
+    "abs_url": "http://arxiv.org/abs/2606.06996v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.06996v1",
+    "first_seen": "2026-06-08",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "Mission-Level Runtime Assurance Framework for Autonomous Driving",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": null,
     "relevance_tier": "peripheral"
   }
 }
