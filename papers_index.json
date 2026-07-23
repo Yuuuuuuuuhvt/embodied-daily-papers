@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-07-22T08:00:33.220890+00:00",
-    "total_papers": 2329
+    "last_updated": "2026-07-23T08:02:42.820668+00:00",
+    "total_papers": 2349
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -124393,6 +124393,1062 @@
     ],
     "journal_ref": null,
     "comment": "Accepted to ECCV 2026. 17 pages, 8 figures, 6 tables. Code: https://github.com/Megalo-f/CoGoal3D",
+    "relevance_tier": "peripheral"
+  },
+  "2607.20345": {
+    "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+    "authors": [
+      "Roger Sala Sisó",
+      "Tiago Silvério",
+      "Jakob Sand",
+      "Tran Nguyen Le"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T16:30:51+00:00",
+    "updated": "2026-07-22T16:30:51+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.20345v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.20345v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出DEED框架提升VLA人形机器人真实世界表现。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.65
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "VLA Models",
+      "Humanoid Robots",
+      "Post-Training",
+      "Experience-Driven Learning",
+      "Sim-to-Real"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages. This work has been submitted to the IEEE for possible publication",
+    "relevance_tier": "core"
+  },
+  "2607.20061": {
+    "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
+    "authors": [
+      "Hanjing Ye",
+      "Tianle Zeng",
+      "Jiazhao Zhang",
+      "Shaoan Wang",
+      "Zibo Zhang",
+      "Weisi Situ",
+      "Yuchen Zhou",
+      "Yonggen Ling",
+      "Hong Zhang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T12:05:13+00:00",
+    "updated": "2026-07-22T12:05:13+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.20061v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.20061v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出先指代后跟踪的ReferTrack范式，提升具身视觉跟踪性能。",
+    "tags": [
+      "Code",
+      "Dataset",
+      "Academic",
+      "🟢 Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 4,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": true,
+    "code_url": "https://github.com/MedlarTea/referTrack",
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied Visual Tracking",
+      "Vision-Language-Action (VLA)",
+      "Referring-then-Tracking",
+      "Sim-to-Real Transfer",
+      "TVBI Tokens"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.19919": {
+    "title": "Diffusion ReRoll: Revisable Denoising for Robotic Sequential Prediction",
+    "authors": [
+      "Seonsoo Kim",
+      "Seongil Hong",
+      "Jun-Gill Kang"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T08:50:40+00:00",
+    "updated": "2026-07-22T08:50:40+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19919v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19919v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出Diffusion ReRoll，通过选择性加噪优化机器人序列预测。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Diffusion Policy",
+      "Revisable Denoising",
+      "Sequential Prediction",
+      "Video-Action Modeling",
+      "Long-horizon Planning"
+    ],
+    "journal_ref": null,
+    "comment": "Project Page: https://seonsoo-p1.github.io/DiffusionReRoll/",
+    "relevance_tier": "core"
+  },
+  "2607.19876": {
+    "title": "KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding",
+    "authors": [
+      "Zeyu Liu",
+      "Zhangzhe Zhu",
+      "Yang Zhang",
+      "Chenyou Fan",
+      "Chenjia Bai",
+      "Xuelong Li"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T08:04:17+00:00",
+    "updated": "2026-07-22T08:04:17+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19876v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19876v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出KineBench：一个免IDM的具身世界模型闭环评估基准。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied World Models",
+      "Closed-loop Evaluation",
+      "Kinematic Grounding",
+      "IDM-Free",
+      "ManiSkill3"
+    ],
+    "journal_ref": null,
+    "comment": "Accept to ECCV2026",
+    "relevance_tier": "core"
+  },
+  "2607.19701": {
+    "title": "SafeGen: Goal-Conditioned Video Diffusion of Safety-Critical Scenarios for VLM-Based Autonomous Driving",
+    "authors": [
+      "Jiangfan Liu",
+      "Zexuan Cui",
+      "Tianyuan Zhang",
+      "Zonglei Jing",
+      "Zonghao Ying",
+      "Yaoyuan Zhang",
+      "Jiakai Wang",
+      "Xiaoqi Jiang",
+      "Aishan Liu",
+      "Xianglong Liu"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-22T03:05:32+00:00",
+    "updated": "2026-07-22T03:05:32+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19701v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19701v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "基于目标条件视频扩散的VLM自动驾驶安全关键场景生成。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Beihang University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Goal-Conditioned Diffusion",
+      "VLM-Based Autonomous Driving",
+      "Safety-Critical Scenarios",
+      "Video Generation",
+      "Sim-to-Real Gap"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.19695": {
+    "title": "NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation",
+    "authors": [
+      "Junzhe Wu",
+      "Yue Hu",
+      "Zeyu Han",
+      "Po-Hsun Chang",
+      "Yinan Dong",
+      "Behrad Rabiei",
+      "Maani Ghaffari"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T02:53:46+00:00",
+    "updated": "2026-07-22T02:53:46+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19695v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19695v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出NavVerse：首个室内到室外连续物理仿真的具身导航基准。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Michigan"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.45
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied Navigation",
+      "Continuous Simulation",
+      "Indoor-to-Outdoor",
+      "VLA Models",
+      "Physics-enabled Benchmark"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.19633": {
+    "title": "LENS: LLM-guided Environment Simplification for Planning and Control in Clutter",
+    "authors": [
+      "Aileen Liao",
+      "Rachel Holladay",
+      "Dinesh Jayaraman",
+      "Michael Posa"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T00:05:00+00:00",
+    "updated": "2026-07-22T00:05:00+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19633v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19633v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "LLM引导的环境简化提升机器人在杂乱场景的规划与控制。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "University of Pennsylvania"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Environment Simplification",
+      "LLM-guided Planning",
+      "Vision-Language-Action (VLA)",
+      "Robotic Manipulation",
+      "Clutter Handling"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.20175": {
+    "title": "PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving",
+    "authors": [
+      "Yushan Liu",
+      "Tianxiong Lv",
+      "Bohua Wang",
+      "Hangqi Fan",
+      "Chenxu Zhao",
+      "He Zheng",
+      "Xuchang Zhong",
+      "Yifan Xie",
+      "Congyang Zhao",
+      "Zhihao Liao",
+      "Leigang Luo",
+      "Yang Cai",
+      "Xiao-Ping Zhang",
+      "Wenbo Ding"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-22T14:09:15+00:00",
+    "updated": "2026-07-22T14:09:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.20175v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.20175v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于自适应专家路由与世界模型的端到端自动驾驶框架。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World-Action Modeling",
+      "Adaptive Expert Routing",
+      "Flow-matching Actor",
+      "End-to-End Autonomous Driving",
+      "Perception Priors"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.19889": {
+    "title": "LAVIFT: Latent-Action-Guided Vision Fine-Tuning for Surgical Interaction Recognition",
+    "authors": [
+      "Jiajun Cheng",
+      "Subarna Tripathi",
+      "Sainan Liu",
+      "Xiaofan Yu",
+      "Shan Lin"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-22T08:20:52+00:00",
+    "updated": "2026-07-22T08:20:52+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19889v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19889v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "结合世界模型与逆动力学的微调框架提升手术交互识别。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language Models",
+      "Forward World Model",
+      "Inverse Dynamics",
+      "Surgical Interaction Recognition",
+      "Representation Learning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.19809": {
+    "title": "Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning",
+    "authors": [
+      "Taisuke Takayama",
+      "Naoto Yoshida",
+      "Tadahiro Taniguchi"
+    ],
+    "categories": [
+      "cs.MA",
+      "cs.LG"
+    ],
+    "primary_category": "cs.MA",
+    "published": "2026-07-22T06:42:03+00:00",
+    "updated": "2026-07-22T06:42:03+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19809v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19809v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "结合DreamerV3世界模型与CPC的多智能体通信强化学习方法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Ritsumeikan University",
+      "Kyoto University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Multi-agent Reinforcement Learning",
+      "DreamerV3",
+      "Collective Predictive Coding",
+      "Partial Observability"
+    ],
+    "journal_ref": null,
+    "comment": "15 pages, 6 figures. Under review at ICONIP 2026",
+    "relevance_tier": "core"
+  },
+  "2607.19749": {
+    "title": "The World Model Remembers, the Actor Forgets: Dream Rehearsal for Continual Model-Based RL",
+    "authors": [
+      "Gurp Nijjer"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-07-22T04:46:49+00:00",
+    "updated": "2026-07-22T04:46:49+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19749v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19749v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "揭示世界模型不遗忘而Actor遗忘，提出梦境排练解决持续学习。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 4,
+      "weighted": 3.9
+    },
+    "has_code": true,
+    "code_url": "https://github.com/gurpnijjer/dream-rehearsal",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Continual RL",
+      "Catastrophic Forgetting",
+      "DreamerV3",
+      "Dream Rehearsal"
+    ],
+    "journal_ref": null,
+    "comment": "11 pages, 2 figures. Code, pre-registration trail, and run data: https://github.com/gurpnijjer/dream-rehearsal",
+    "relevance_tier": "core"
+  },
+  "2607.19719": {
+    "title": "Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination",
+    "authors": [
+      "Jiaqi Li",
+      "Xinglong Zhang",
+      "Haibin Xie",
+      "Yixing Lan",
+      "Wei Pan",
+      "Xin Xu"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.RO"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-07-22T03:38:15+00:00",
+    "updated": "2026-07-22T03:38:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19719v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19719v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于Koopman理论的谱约束世界模型，提升长程想象稳定性。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Koopman Operator",
+      "World Models",
+      "Latent Dynamics",
+      "Long-horizon Rollouts",
+      "Continuous Control"
+    ],
+    "journal_ref": null,
+    "comment": "20 pages, 13 figures, 11 tables",
+    "relevance_tier": "core"
+  },
+  "2607.20399": {
+    "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
+    "authors": [
+      "Nicolas Kosanovic",
+      "Jordan Dowdy",
+      "Jean Chagas Vaz"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.HC",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T17:35:43+00:00",
+    "updated": "2026-07-22T17:35:43+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.20399v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.20399v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于VR和强化学习的微型人形机器人遥操作与移动控制框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Tele-loco-manipulation",
+      "Miniature humanoids",
+      "Virtual Reality (VR)",
+      "Reinforcement Learning",
+      "ROBOTIS OP3"
+    ],
+    "journal_ref": "2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids), pp. 1233-1240 (2025)",
+    "comment": "8 pages, 6 figures. Accepted manuscript. Published in the 2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids), pp. 1233-1240",
+    "relevance_tier": "peripheral"
+  },
+  "2607.19880": {
+    "title": "EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness",
+    "authors": [
+      "Jialu Zhang",
+      "Yong Du",
+      "Xianda Guo",
+      "Shunwang Sun",
+      "Xinqi Liu",
+      "Yue Sun",
+      "Guodong Lu",
+      "Wei Sui",
+      "Jituo Li"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T08:10:49+00:00",
+    "updated": "2026-07-22T08:10:49+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19880v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19880v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出结合具身几何特征的跨具身视觉导航模仿学习框架。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.65
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Cross-embodiment navigation",
+      "Imitation learning",
+      "Embodiment geometry",
+      "Trajectory augmentation",
+      "Safe navigation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2607.19479": {
+    "title": "ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation",
+    "authors": [
+      "Joshua Citron",
+      "Renee Zbizika",
+      "Zeyi Liu",
+      "Shuran Song"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-21T18:02:20+00:00",
+    "updated": "2026-07-21T18:02:20+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19479v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19479v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "一种用于双臂移动操作的模块化可扩展遥操作接口系统。",
+    "tags": [
+      "Code",
+      "Demo",
+      "Academic",
+      "🟢 Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Stanford University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 3,
+      "weighted": 3.65
+    },
+    "has_code": true,
+    "code_url": "https://modpack-robotics.github.io/",
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Teleoperation",
+      "Bimanual Manipulation",
+      "Mobile Manipulation",
+      "Hardware Design",
+      "Data Collection"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2607.20352": {
+    "title": "Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats",
+    "authors": [
+      "Alejandro Gonzalez-Garcia",
+      "Wei Wang",
+      "Wei Xiao",
+      "Wilm Decre",
+      "Jan Swevers",
+      "Carlo Ratti",
+      "Daniela Rus"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T16:37:05+00:00",
+    "updated": "2026-07-22T16:37:05+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.20352v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.20352v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "结合分布式MPC与CBF的水面多智能体安全重构规划框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "MIT",
+      "KU Leuven"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 1,
+      "weighted": 2.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Model Predictive Control (MPC)",
+      "Control Barrier Functions (CBF)",
+      "Multi-agent Systems",
+      "Motion Planning",
+      "ADMM"
+    ],
+    "journal_ref": null,
+    "comment": "Submitted to IEEE",
+    "relevance_tier": "peripheral"
+  },
+  "2607.20071": {
+    "title": "GaussianSeed: Hierarchical Gaussian Seeding for High-Resolution 3D Occupancy Prediction",
+    "authors": [
+      "Xinzhuo Li",
+      "Xianghui Pan",
+      "Jiayuan Du",
+      "Wei Wei",
+      "Liuyi Wang",
+      "Chengju Liu",
+      "Qijun Chen"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-22T12:18:30+00:00",
+    "updated": "2026-07-22T12:18:30+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.20071v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.20071v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出分层高斯播种框架，实现高分辨率且实时的3D占用预测。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Tongji University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.5
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "3D Occupancy Prediction",
+      "Gaussian Splatting",
+      "Hierarchical Representation",
+      "Autonomous Driving Perception",
+      "High-Resolution"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2607.19774": {
+    "title": "Defer to Plan: Adaptive Multi-Agent Fusion for End-to-End V2X Driving",
+    "authors": [
+      "Nuoran Li",
+      "Zhang Zhang",
+      "Yueran Zhao",
+      "Tianze Wang",
+      "Chao Sun"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-22T05:44:47+00:00",
+    "updated": "2026-07-22T05:44:47+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19774v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19774v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出一种面向规划的端到端V2X自动驾驶多智能体融合系统。",
+    "tags": [
+      "No Code",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "V2X Autonomous Driving",
+      "End-to-End Planning",
+      "Multi-Agent Fusion",
+      "Mixture-of-Experts (MoE)",
+      "Autoregressive Decoder"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted at IEEE ICME 2026",
+    "relevance_tier": "peripheral"
+  },
+  "2607.19617": {
+    "title": "EGRNet: A Lightweight Semantic Segmentation Network with Edge-Gated Refinement and Adversarial Sensing",
+    "authors": [
+      "Bareera Qaseem",
+      "Mohsin Kamal",
+      "Muhammad Naveed Aman"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-21T22:54:37+00:00",
+    "updated": "2026-07-21T22:54:37+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19617v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19617v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出用于自动驾驶的轻量级语义分割网络EGRNet。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 2,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 1.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Semantic Segmentation",
+      "Lightweight Network",
+      "Edge-Gated Refinement",
+      "Adversarial Sensing",
+      "Autonomous Driving"
+    ],
+    "journal_ref": null,
+    "comment": "14 pages, 8 figures, 3 tables and 1 algorithm",
+    "relevance_tier": "peripheral"
+  },
+  "2607.19530": {
+    "title": "Milo, a Fully Autonomous Indoor/Outdoor Robotic Guide Dog",
+    "authors": [
+      "Florian Golemo",
+      "Joanna Wolski",
+      "Joel Ruben Antony Moniz",
+      "Christopher Pal"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-21T19:19:23+00:00",
+    "updated": "2026-07-21T19:19:23+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.19530v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.19530v1",
+    "first_seen": "2026-07-23",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "Milo, a Fully Autonomous Indoor/Outdoor Robotic Guide Dog",
+    "tags": [
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [],
+    "journal_ref": null,
+    "comment": "Submitted to CoRL 2026. The Milo project website is available here: https://fgolemo.github.io/milo",
     "relevance_tier": "peripheral"
   }
 }
