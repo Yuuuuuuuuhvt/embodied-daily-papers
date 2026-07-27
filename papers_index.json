@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-07-24T07:58:58.764168+00:00",
-    "total_papers": 2369
+    "last_updated": "2026-07-27T08:59:54.026952+00:00",
+    "total_papers": 2383
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -126522,6 +126522,726 @@
       "BEV Perception",
       "V2X",
       "Pose Estimation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2607.22530": {
+    "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
+    "authors": [
+      "Yunao Huang",
+      "Shiyu Sang",
+      "Haotao Lu",
+      "Suting Ni",
+      "Shijie Wu",
+      "Ziyang Guo",
+      "Ye Shi",
+      "Jingya Wang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-24T17:59:33+00:00",
+    "updated": "2026-07-24T17:59:33+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.22530v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.22530v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "首个用于接触丰富机器人操作的视觉-触觉世界模型。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Visuo-Tactile World Model",
+      "Contact-Rich Manipulation",
+      "Trajectory Generation",
+      "Policy Evaluation",
+      "Sim-to-Real"
+    ],
+    "journal_ref": null,
+    "comment": "18 pages, 6 figures, 5 tables. Project page: https://vitacworld.github.io/",
+    "relevance_tier": "core"
+  },
+  "2607.22014": {
+    "title": "Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents",
+    "authors": [
+      "Suman Navaratnarajah",
+      "Taehyoung Kim",
+      "Jona Ruthardt",
+      "Ishaan Bhimwal",
+      "Ryousuke Yamada",
+      "Yannik Blei",
+      "Wolfram Burgard",
+      "Yuki M Asano"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-07-24T06:22:50+00:00",
+    "updated": "2026-07-24T06:22:50+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.22014v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.22014v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出了评估MLLM在无人机长视野任务中零样本能力的基准。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Technology Nuremberg",
+      "University of Amsterdam"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.1
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Multimodal Large Language Models",
+      "Embodied AI",
+      "Zero-Shot Evaluation",
+      "Long-Horizon Planning",
+      "Aerial Agents"
+    ],
+    "journal_ref": null,
+    "comment": "Preprint",
+    "relevance_tier": "core"
+  },
+  "2607.21725": {
+    "title": "Addressing the Orchestration Gap in Generalist Robots via Physical Agency",
+    "authors": [
+      "Liane Galanti",
+      "Dhruv Shah",
+      "Tri Dao"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-23T18:18:32+00:00",
+    "updated": "2026-07-23T18:18:32+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.21725v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.21725v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "物理智能体编排器弥合通用机器人推理与控制鸿沟。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "UC Berkeley",
+      "Stanford University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Physical Agency",
+      "Orchestration Gap",
+      "Closed-loop Planning",
+      "Robotic Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.22535": {
+    "title": "Robot-Factored World Models via Robot Rendering",
+    "authors": [
+      "Byungjun Kim",
+      "Taeksoo Kim",
+      "Hyunsoo Cha",
+      "Hanbyul Joo"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-24T17:59:57+00:00",
+    "updated": "2026-07-24T17:59:57+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.22535v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.22535v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "通过渲染机器人轨迹解耦运动学，构建跨具身泛化的世界模型。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "Demo",
+      "🔴 No Code",
+      "🎮 Demo",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Seoul National University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Robot-Factored World Models",
+      "Robot Rendering",
+      "Action-Conditioned Video Generation",
+      "Cross-Embodiment Generalization",
+      "URDF"
+    ],
+    "journal_ref": null,
+    "comment": "Project Page: https://bjkim95.github.io/rofacto/",
+    "relevance_tier": "core"
+  },
+  "2607.22430": {
+    "title": "On the Identifiability of Controlled World Models",
+    "authors": [
+      "Xiangteng Zhang",
+      "Yang Guan",
+      "Bo Zhang",
+      "Ya-Qin Zhang",
+      "Shengbo Eben Li"
+    ],
+    "categories": [
+      "cs.LG"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-07-24T15:49:12+00:00",
+    "updated": "2026-07-24T15:49:12+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.22430v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.22430v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "确立受控世界模型（JEPA）的联合可识别性理论。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Controlled World Models",
+      "Identifiability",
+      "JEPA",
+      "Latent Space Planning",
+      "Counterfactual Prediction"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.21910": {
+    "title": "TRW: TRACE-RealWorld---An Auditable Consistency Contract for World Models as Materialized Views",
+    "authors": [
+      "Edward Y. Chang"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.DB"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-07-24T02:31:10+00:00",
+    "updated": "2026-07-24T02:31:10+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.21910v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.21910v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "将世界模型作为物化视图的审计一致性契约。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 2.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Materialized Views",
+      "Consistency Contract",
+      "Provenance",
+      "Transaction Recovery",
+      "World Models"
+    ],
+    "journal_ref": null,
+    "comment": "50 pages, 22 tables, 10 figures",
+    "relevance_tier": "core"
+  },
+  "2607.21686": {
+    "title": "Persistent Computational State: A Session-Centric Runtime for Generative World Models",
+    "authors": [
+      "Zhen Lin"
+    ],
+    "categories": [
+      "cs.AI"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-07-23T14:39:46+00:00",
+    "updated": "2026-07-23T14:39:46+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.21686v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.21686v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出会话中心运行时与持久计算状态，解决世界模型模拟回溯问题。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Generative World Models",
+      "Persistent Computational State (PCS)",
+      "Session-Centric Runtime",
+      "State Backtracking",
+      "Planning Simulators"
+    ],
+    "journal_ref": null,
+    "comment": "29 pages, 8 figures, 10 tables",
+    "relevance_tier": "core"
+  },
+  "2607.21645": {
+    "title": "Multi-Horizon Consistency as Geometry: When Latent Dynamics Contract, and When They Do Not",
+    "authors": [
+      "Kavya Bhand",
+      "Aadi Joshi"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-07-21T23:50:10+00:00",
+    "updated": "2026-07-21T23:50:10+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.21645v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.21645v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "诊断多步潜在一致性对世界模型潜在动力学几何收缩性的影响。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.45
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Latent Dynamics",
+      "Multi-Horizon Consistency",
+      "Transition Geometry",
+      "Stochastic-Forcing Law"
+    ],
+    "journal_ref": null,
+    "comment": "22 pages, 9 figures. Diagnostic study of multi-horizon latent consistency, expansion proxies (L20), and a stochastic-forcing law for world-model geometry. Code and experiment logs to be released publicly",
+    "relevance_tier": "core"
+  },
+  "2607.21644": {
+    "title": "Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations",
+    "authors": [
+      "Jonathan Gallagher",
+      "Roberto Guglielmi"
+    ],
+    "categories": [
+      "cs.LG",
+      "eess.SY"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-07-21T20:49:07+00:00",
+    "updated": "2026-07-21T20:49:07+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.21644v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.21644v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "基于JEPA的偏微分方程目标无关预测控制框架",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "JEPA",
+      "World Models",
+      "PDE Control",
+      "MPPI",
+      "Latent Dynamics"
+    ],
+    "journal_ref": null,
+    "comment": "Associated code will be open sourced alongside the V2 submission",
+    "relevance_tier": "core"
+  },
+  "2607.22078": {
+    "title": "CommandLM: Data driven behavior level descriptor for ego vehicles",
+    "authors": [
+      "Boris Tokic",
+      "Constantin Selzer",
+      "Fabian B. Flohr"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-24T08:23:07+00:00",
+    "updated": "2026-07-24T08:23:07+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.22078v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.22078v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "基于多模态大语言模型的自动驾驶自车行为描述生成框架。",
+    "tags": [
+      "Code",
+      "Dataset",
+      "Academic",
+      "🟢 Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 5,
+      "focus_relevance": 2,
+      "weighted": 2.95
+    },
+    "has_code": true,
+    "code_url": "https://github.com/b-tok/CommandLM",
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Multimodal Large Language Model",
+      "Autonomous Driving",
+      "Behavior Description",
+      "Bird's-Eye View (BEV)",
+      "Q-Former"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.22434": {
+    "title": "Robot Learning to Communicate through Projected Visual Abstractions",
+    "authors": [
+      "Danyang Yan",
+      "Boyuan Wang",
+      "Jiaxun Liu",
+      "Boyuan Chen"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-24T15:52:36+00:00",
+    "updated": "2026-07-24T15:52:36+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.22434v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.22434v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "机器人通过学习可微阴影自模型进行视觉抽象通信。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Duke University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.3
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Projected Visual Abstractions",
+      "Shadow Self-Model",
+      "Dexterous Manipulation",
+      "Differentiable Forward Model",
+      "Robot Communication"
+    ],
+    "journal_ref": null,
+    "comment": "Our project website is at:https://generalroboticslab.com/shadow",
+    "relevance_tier": "peripheral"
+  },
+  "2607.22249": {
+    "title": "Design and Human Evaluation of Tactile Withdrawal Reflexes for a Skin-Covered Robot Arm",
+    "authors": [
+      "Laura Babayeva",
+      "Lukas Rustler",
+      "Matej Hoffmann"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-24T12:31:44+00:00",
+    "updated": "2026-07-24T12:31:44+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.22249v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.22249v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "评估带皮肤机械臂的三种触觉回撤反射策略及其人类感知。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Czech Technical University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Artificial Nociception",
+      "Tactile Sensing",
+      "Withdrawal Reflex",
+      "Physical Human-Robot Interaction",
+      "Embodiment Gap"
+    ],
+    "journal_ref": null,
+    "comment": "Submitted to IEEE Humanoids 2026",
+    "relevance_tier": "peripheral"
+  },
+  "2607.21960": {
+    "title": "Adaptive Undulatory Locomotion of Snake-like Robots in Dynamic Viscous Environments via Deep Reinforcement Learning",
+    "authors": [
+      "Tsuyoshi Kimoto",
+      "Akio Yamano",
+      "Kohei Honda",
+      "Takashi Iwasa"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-24T04:14:36+00:00",
+    "updated": "2026-07-24T04:14:36+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.21960v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.21960v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "强化学习结合特权信息蒸馏实现蛇形机器人的自适应运动。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Deep Reinforcement Learning",
+      "Snake-like Robots",
+      "Privileged Information Distillation",
+      "Adaptive Locomotion",
+      "Sim-to-Real"
+    ],
+    "journal_ref": null,
+    "comment": "23 pages, 6 figures. Submitted to a journal",
+    "relevance_tier": "peripheral"
+  },
+  "2607.21896": {
+    "title": "Learning Adaptive Semantic Gaussian Allocation for 3D Occupancy",
+    "authors": [
+      "Kanglin Ning",
+      "Yiran Zhao",
+      "Wenrui Li",
+      "Houde Quan",
+      "Qifan Li",
+      "Xingtao Wang",
+      "Xiaopeng Fan"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-24T01:52:49+00:00",
+    "updated": "2026-07-24T01:52:49+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.21896v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.21896v1",
+    "first_seen": "2026-07-27",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出SAGFormer优化3D语义高斯分配以提升占据预测。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "3D Semantic Occupancy",
+      "3D Gaussian Splatting",
+      "Capacity Allocation",
+      "SAGFormer",
+      "Autonomous Driving Perception"
     ],
     "journal_ref": null,
     "comment": null,
