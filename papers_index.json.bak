@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-07-29T08:10:58.975715+00:00",
-    "total_papers": 2438
+    "last_updated": "2026-07-30T08:04:41.135517+00:00",
+    "total_papers": 2467
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -130220,6 +130220,1600 @@
     ],
     "journal_ref": null,
     "comment": "11 pages, 12 figures, 3 tables. Dataset and supplementary information available from the project website",
+    "relevance_tier": "peripheral"
+  },
+  "2607.27205": {
+    "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+    "authors": [
+      "Hengyi Xie",
+      "Chenfei Yao",
+      "Xianjin Wu",
+      "Xuanyang Xi",
+      "Yiping Tang",
+      "Di Xu",
+      "Yingying Zhu",
+      "Dingkang Liang",
+      "Xiang Bai",
+      "Han Ding"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-29T17:59:58+00:00",
+    "updated": "2026-07-29T17:59:58+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.27205v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.27205v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于V+L直接映射的轻量级VLA模型，实现32Hz实时推理。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Huazhong University of Science and Technology"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": true,
+    "code_url": "https://github.com/H-EmbodVis/TurboVLA",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Real-Time Inference",
+      "Action Chunking",
+      "Bidirectional Interaction",
+      "Embodied AI"
+    ],
+    "journal_ref": null,
+    "comment": "Code is available at https://github.com/H-EmbodVis/TurboVLA",
+    "relevance_tier": "core"
+  },
+  "2607.27138": {
+    "title": "DLAM: Distributional Latent Actions with Temporal Constraints",
+    "authors": [
+      "Zuojin Tang",
+      "Feifan Luo",
+      "Haoyun Liu",
+      "Botai Yuan",
+      "Dekang Qi",
+      "Ronghan Chen",
+      "Yandan Yang",
+      "Tong Lin",
+      "Xinyuan Chang",
+      "Mu Xu",
+      "Bin Liu",
+      "De Ma",
+      "Zhiheng Ma"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T17:09:48+00:00",
+    "updated": "2026-07-29T17:09:48+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.27138v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.27138v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出分布式潜在动作模型DLAM，通过时序约束提升VLA策略学习。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Latent Action Models",
+      "Vision-Language-Action (VLA)",
+      "Flow-Matching Policy",
+      "Distributional Dynamics",
+      "Temporal Constraints"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.26991": {
+    "title": "RL$^2$-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models",
+    "authors": [
+      "Derek Ming Siang Tan",
+      "Shailesh Shailesh",
+      "Srikrishna Iyer",
+      "William Wei Jie Teo",
+      "Yuanliang Ju",
+      "Qiao Gu",
+      "Guillaume Sartoretti"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T14:49:56+00:00",
+    "updated": "2026-07-29T14:49:56+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26991v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26991v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于强化学习隐变量的VLA模型自适应测试时引导框架",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "National University of Singapore"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 5,
+      "weighted": 4.35
+    },
+    "has_code": true,
+    "code_url": "https://rl2-vla.github.io",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Test-Time Steering",
+      "Offline Reinforcement Learning",
+      "Latent Composition",
+      "Out-of-Domain Generalization"
+    ],
+    "journal_ref": null,
+    "comment": "Code and models are available at https://rl2-vla.github.io",
+    "relevance_tier": "core"
+  },
+  "2607.26903": {
+    "title": "From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence",
+    "authors": [
+      "Jia Luo"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.RO"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-07-29T13:35:23+00:00",
+    "updated": "2026-07-29T13:35:23+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26903v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26903v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于物理约束的图结构框架将人类视频转化为机器人数据。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Cross-embodiment",
+      "Physics verifier",
+      "Affordance graph",
+      "Video generation",
+      "Data synthesis"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.26807": {
+    "title": "Route by Kinematics, Act by Observation: Kinematics-Supervised Expert Routing in MoE-Augmented VLA",
+    "authors": [
+      "Tianhang Yang",
+      "Yanze Zheng",
+      "Junjie Wang",
+      "Wei-Bin Kou",
+      "Ruotong Li",
+      "Yujiu Yang"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T11:48:45+00:00",
+    "updated": "2026-07-29T11:48:45+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26807v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26807v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于运动学监督的MoE路由机制显著提升了VLA模型性能。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 4,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": true,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Mixture of Experts (MoE)",
+      "Kinematics-supervised Routing",
+      "Robot Manipulation",
+      "Knowledge Distillation"
+    ],
+    "journal_ref": null,
+    "comment": "9 pages",
+    "relevance_tier": "core"
+  },
+  "2607.26789": {
+    "title": "CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation",
+    "authors": [
+      "Yushan Liu",
+      "Peibo Sun",
+      "Xintao Chao",
+      "Zhenyang Yang",
+      "Yifan Xie",
+      "Lingfeng Zhang",
+      "Shoujie Li",
+      "Chenyu Tang",
+      "Fang Chen",
+      "Xiao-Ping Zhang",
+      "Wenbo Ding"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T11:31:33+00:00",
+    "updated": "2026-07-29T11:31:33+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26789v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26789v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于动作条件世界模型验证VLA长程执行的移动操作框架。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Action-Conditioned World Model",
+      "Action Chunking",
+      "Execution-Time Verification",
+      "Conformal Calibration"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2505.09305": {
+    "title": "Embodied intelligent industrial robotics: Framework and techniques",
+    "authors": [
+      "Chaoran Zhang",
+      "Chenhao Zhang",
+      "Zhaobo Xu",
+      "Qinghongbing Xie",
+      "Jinliang Hou",
+      "Pingfa Feng",
+      "Long Zeng"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2025-05-14T11:41:55+00:00",
+    "updated": "2026-07-29T08:36:44+00:00",
+    "abs_url": "http://arxiv.org/abs/2505.09305v6",
+    "pdf_url": "https://arxiv.org/pdf/2505.09305v6",
+    "first_seen": "2026-07-30",
+    "announce_type": null,
+    "direction": "multiple",
+    "one_line_summary": "提出基于世界模型的具身智能工业机器人新框架。",
+    "tags": [
+      "Code",
+      "Academic",
+      "Accepted",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.8
+    },
+    "has_code": true,
+    "code_url": "https://github.com/jackyzengl/EIIR",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied Intelligence",
+      "Industrial Robotics",
+      "World Models",
+      "Task Planning",
+      "Intelligent Manufacturing"
+    ],
+    "journal_ref": "Journal of Manufacturing Systems 88 (2026) 158-189",
+    "comment": "70 pages, 13 figures. The associated project can be found at https://github.com/jackyzengl/EIIR",
+    "relevance_tier": "core"
+  },
+  "2607.26567": {
+    "title": "Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots",
+    "authors": [
+      "Hung Nguyen",
+      "Kim Nhat Minh Nguyen",
+      "Van Duc Vu",
+      "Van-Danh Le",
+      "Hoang Huy Le",
+      "Dinh Tuan Nguyen",
+      "Pham Tuyen Le",
+      "Van-Truong Nguyen",
+      "Quan Nguyen"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T07:40:00+00:00",
+    "updated": "2026-07-29T07:40:00+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26567v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26567v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出Speech2Grasp，将文本条件抓取模型高效迁移至语音指令。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Speech-conditioned Grasping",
+      "Humanoid Robots",
+      "Multi-modal Alignment",
+      "Vision-Language-Action",
+      "Data-efficient Transfer"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.26513": {
+    "title": "Explicit Kinematic Guidance from Analytic Concepts for Vision-Language-Action Models",
+    "authors": [
+      "Mingyang Sun",
+      "Jiude Wei",
+      "Xiujian Liang",
+      "Qichen He",
+      "Donglin Wang",
+      "Cewu Lu",
+      "Jianhua Sun"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T06:24:25+00:00",
+    "updated": "2026-07-29T06:24:25+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26513v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26513v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "引入解析概念为VLA模型提供显式3D运动学指导。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Shanghai Jiao Tong University",
+      "Westlake University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.8
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Analytic Concepts",
+      "Kinematic Guidance",
+      "3D Physical Understanding",
+      "Concept Expert"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.26452": {
+    "title": "CG-World: A Large-Scale World-State Dataset and Protocol for World Models",
+    "authors": [
+      "Yiming Cai",
+      "Fangjie Yu",
+      "Meiqing Yu",
+      "Ziyue Shi",
+      "Pengfei Yuan",
+      "Yong Guo"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.GR"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-07-29T04:06:28+00:00",
+    "updated": "2026-07-29T04:06:28+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26452v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26452v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出用于世界模型的大规模CG世界状态数据集与协议。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "🔴 No Code",
+      "📊 Dataset",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Physical AI",
+      "VLA Policies",
+      "Counterfactual Reasoning",
+      "Computer Graphics Pipeline"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.26148": {
+    "title": "Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation",
+    "authors": [
+      "Jian Zhou",
+      "Xunyi Zhao",
+      "Gengze Zhou",
+      "Zerui Li",
+      "Sihao Lin",
+      "Jiajun Liu",
+      "Qi Wu"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-28T18:00:34+00:00",
+    "updated": "2026-07-28T18:00:34+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26148v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26148v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "极简接口的零样本通用智能体在视觉语言导航中媲美工业级策略。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Adelaide"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.5
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-and-Language Navigation",
+      "Zero-Shot Agents",
+      "Agentic Embodied Control",
+      "Minimal-Interface",
+      "Software-Engineering Harnesses"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.27036": {
+    "title": "Mitigating Compounding Error via Video Representation Regularization",
+    "authors": [
+      "Taiye Chen",
+      "Qi Zhang",
+      "Yisen Wang"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-29T15:29:39+00:00",
+    "updated": "2026-07-29T15:29:39+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.27036v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.27036v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "通过视频表示正则化缓解视频世界模型自回归生成的复合误差。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Peking University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Compounding Error",
+      "Video World Models",
+      "Dimensional Collapse",
+      "Representation Regularization",
+      "Autoregressive Generation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.27017": {
+    "title": "What Can Latent World Models Know? Physical Parameter Identifiability in Multimodal Predictive Representations",
+    "authors": [
+      "Kaizhen Tan",
+      "Xin Xu",
+      "Siru Tao",
+      "Hanzhe Hong",
+      "Yang Feng",
+      "Heqing Du"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.RO"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-07-29T15:15:30+00:00",
+    "updated": "2026-07-29T15:15:30+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.27017v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.27017v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "预测目标决定世界模型对物理参数的学习。",
+    "tags": [
+      "No Code",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Latent World Models",
+      "Physical Parameter Identifiability",
+      "Multimodal Predictive Representations",
+      "Embodied AI"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.26924": {
+    "title": "Temporally Centered SIGReg Improves Multi-Task LeWorldModel Learning: From Analysis to Method",
+    "authors": [
+      "Chang Liu",
+      "Fei Suo",
+      "Yanzhou Jin",
+      "Yusuke Iwasawa",
+      "Yutaka Matsuo",
+      "Yaonan Zhu"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.RO"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-07-29T13:54:52+00:00",
+    "updated": "2026-07-29T13:54:52+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26924v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26924v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "改进SIGReg正则化提升多任务端到端世界模型性能",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "University of Tokyo"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "LeWorldModel",
+      "SIGReg",
+      "Multi-Task Learning",
+      "Representation Collapse",
+      "Temporally Centered Residuals"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.26754": {
+    "title": "StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation",
+    "authors": [
+      "Zijun Lin",
+      "Zeqing Wang",
+      "Cheston Tan",
+      "Bihan Wen",
+      "Yeying Jin"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-29T10:49:30+00:00",
+    "updated": "2026-07-29T10:49:30+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26754v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26754v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出StatePlay：联合预测视觉与内部状态的游戏世界模型。",
+    "tags": [
+      "Academic",
+      "Demo",
+      "No Code",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Nanyang Technological University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.2
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Game World Models",
+      "State-Aware Generation",
+      "Mechanics-Consistent",
+      "Mixture-of-Transformers",
+      "Cross-modal Interaction"
+    ],
+    "journal_ref": null,
+    "comment": "Project Page: https://jimntu.github.io/stateplay_page/",
+    "relevance_tier": "core"
+  },
+  "2607.26579": {
+    "title": "ContactFlow: A video action conditioning that transfers across embodiments",
+    "authors": [
+      "Sami Azirar",
+      "Enrico Pallotta",
+      "Jan Nogga",
+      "Jürgen Gall",
+      "Sven Behnke",
+      "Hermann Blum"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T07:59:47+00:00",
+    "updated": "2026-07-29T07:59:47+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26579v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26579v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出跨具身接触流表示，用于训练物理合理的视频世界模型。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Bonn"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 4.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "Cross-Embodiment",
+      "Contact Flow",
+      "Video Generation",
+      "Robot Planning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2607.26336": {
+    "title": "Learning Implicit Causal World Models from Multi-Agent Demonstrations",
+    "authors": [
+      "Jasorsi Ghosh"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.MA",
+      "cs.RO"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-07-28T23:18:38+00:00",
+    "updated": "2026-07-28T23:18:38+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26336v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26336v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出隐式因果世界模型，从多智能体离线演示中恢复环境动力学。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Causal World Models",
+      "Multi-Agent Systems",
+      "Offline Demonstrations",
+      "Sequential Backdoor Condition",
+      "Distribution Shift"
+    ],
+    "journal_ref": null,
+    "comment": "Preprint",
+    "relevance_tier": "core"
+  },
+  "2607.27145": {
+    "title": "Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications",
+    "authors": [
+      "Piyush Jain",
+      "Kousik Dasgupta",
+      "Rajarshi Roy",
+      "Subarna Tripathi"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-29T17:20:56+00:00",
+    "updated": "2026-07-29T17:20:56+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.27145v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.27145v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "注入空间关系谓词提升多模态大模型在具身AI中的空间推理。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Spatial Reasoning",
+      "Multimodal LLMs",
+      "Embodied AI",
+      "Training-free Prompting",
+      "Object Hallucination"
+    ],
+    "journal_ref": null,
+    "comment": "14 pages",
+    "relevance_tier": "peripheral"
+  },
+  "2607.26985": {
+    "title": "SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception",
+    "authors": [
+      "Gabe Everett",
+      "Brice Gunter",
+      "Ryan Vander Stelt",
+      "Cleiver Ruiz-Martinez",
+      "Blake Hull",
+      "Juan Rojas"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T14:41:02+00:00",
+    "updated": "2026-07-29T14:41:02+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26985v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26985v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于并行对称变换的框架大幅加速真实机器人强化学习。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "Demo",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "On-robot learning",
+      "Data augmentation",
+      "Parallelized symmetries",
+      "Homography",
+      "Robot manipulation"
+    ],
+    "journal_ref": null,
+    "comment": "9 pages, 7 figures, 1 table",
+    "relevance_tier": "peripheral"
+  },
+  "2607.26914": {
+    "title": "BioVLN: A Simulation Platform for Visual Language Navigation in Biomedical Laboratories",
+    "authors": [
+      "Zhe Liu",
+      "Quan Lu",
+      "Zhaohui Du",
+      "Zhe Wang",
+      "Huanbo Jin",
+      "Jiaming Gu",
+      "Qi Wang",
+      "Ting Xiao",
+      "Minting Pan",
+      "Dongzhan Zhou"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T13:44:46+00:00",
+    "updated": "2026-07-29T13:44:46+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26914v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26914v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "针对生物医学实验室的视觉语言导航仿真平台BioVLN。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 1,
+      "weighted": 2.5
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Visual Language Navigation",
+      "Simulation Platform",
+      "Biomedical Laboratories",
+      "Embodied AI"
+    ],
+    "journal_ref": null,
+    "comment": "17 pages, 4 figures",
+    "relevance_tier": "peripheral"
+  },
+  "2607.26434": {
+    "title": "Reinforcement Learning on Cost-Constrained Quadrupedal Hardware",
+    "authors": [
+      "Javier C. Weddington",
+      "Bence P. Ölveczky",
+      "Stephen A. Baccus"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T03:22:12+00:00",
+    "updated": "2026-07-29T03:22:12+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26434v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26434v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "结合前向模型与时间感知网络解决低成本四足机器人的延迟问题。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Stanford University",
+      "Harvard University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Sim-to-real transfer",
+      "Forward model",
+      "Central Pattern Generator (CPG)",
+      "Quadrupedal locomotion",
+      "Time-aware neural network"
+    ],
+    "journal_ref": null,
+    "comment": "Sim-to-real transfer, locomotion, reinforcement learning, central pattern generator",
+    "relevance_tier": "peripheral"
+  },
+  "2607.26315": {
+    "title": "MoMo: Dial Motion Mode in Robot Manipulation with Spatiotemporal Action Tokenization",
+    "authors": [
+      "Yuhan Hu",
+      "Hugues Thomas",
+      "Peide Huang",
+      "Mouli Sivapurapu",
+      "Benoit Landry",
+      "Arto Kivila"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-28T22:25:10+00:00",
+    "updated": "2026-07-28T22:25:10+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26315v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26315v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于时空动作分词的机器人运动模式控制框架MoMo。",
+    "tags": [
+      "No Code",
+      "Industry",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Toyota Research Institute"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.35
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Spatiotemporal Action Tokenization",
+      "Imitation Learning",
+      "Motion Mode",
+      "Compositional Generalization",
+      "Behavior Cloning"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2607.26121": {
+    "title": "Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels",
+    "authors": [
+      "Xinyu Yang",
+      "Tianxing Chen",
+      "Honghao Su",
+      "Minxuan Wang",
+      "Chenze Yu",
+      "Zhangzheng Tu",
+      "Yue Chen",
+      "Yuxiao Huo",
+      "Lingfeng Zhang",
+      "Yan Huang",
+      "Yan Qin",
+      "Shaolong Zhu",
+      "Qiwei Liang",
+      "Hekun Tian",
+      "Shujia Liu",
+      "Guangyu Chen",
+      "Junhao Gong",
+      "Zixuan Li",
+      "Wenwei Lin",
+      "Zijian Lin",
+      "Wenxuan Zhu",
+      "Eric J Chen",
+      "Yue Yuan",
+      "Qize Yu",
+      "Jiaqi Liang",
+      "Haowen Yan",
+      "Hengfei Zhao",
+      "Weijie Wan",
+      "Zikun Xiao",
+      "Junyuan Tang",
+      "Baijun Chen",
+      "Kai-Chong Lei",
+      "Kaixuan Wang",
+      "Kailun Su",
+      "Zanxin Chen",
+      "Yao Mu",
+      "Renjing Xu",
+      "Chuqiao Lyu",
+      "Qi Xiong",
+      "Ping Luo",
+      "Wenbo Ding"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CY"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-28T17:50:44+00:00",
+    "updated": "2026-07-28T17:50:44+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26121v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26121v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出具身智能可信度四层系统框架及分级标准。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Tsinghua University",
+      "The University of Hong Kong",
+      "Shanghai AI Laboratory"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 3.2
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Trustworthy Embodied Intelligence",
+      "Systems Framework",
+      "Safety Assurance",
+      "Trustworthiness Levels",
+      "Sustained Safe Success"
+    ],
+    "journal_ref": null,
+    "comment": "Website: https://xsparkai.com/sparklab/towards-trustworthy-eai",
+    "relevance_tier": "peripheral"
+  },
+  "2607.26345": {
+    "title": "MetaKoopman: Bayesian Meta-Learning of Koopman Operators for Modeling Structured Dynamics under Distribution Shifts",
+    "authors": [
+      "Mahmoud Selim",
+      "Sriharsha Bhat",
+      "Karl H. Johansson"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.RO",
+      "eess.SY"
+    ],
+    "primary_category": "cs.LG",
+    "published": "2026-07-28T23:37:55+00:00",
+    "updated": "2026-07-28T23:37:55+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26345v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26345v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "提出MetaKoopman：用于分布偏移下动力学建模的贝叶斯元学习框架。",
+    "tags": [
+      "Academic",
+      "Accepted",
+      "Demo",
+      "No Code",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "KTH Royal Institute of Technology"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 4,
+      "weighted": 3.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Koopman Operator",
+      "Bayesian Meta-Learning",
+      "Dynamics Modeling",
+      "Distribution Shifts",
+      "Motion Planning"
+    ],
+    "journal_ref": "Advances in Neural Information Processing Systems 38 (2025), 29551-29584",
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2607.27058": {
+    "title": "Object Detection for Autonomous Driving in Chinese Rural Scenes: An Experimental Study on Real-Synthetic Data Mixing and Model Evaluation",
+    "authors": [
+      "Danning Zhu",
+      "Ziyan Lin",
+      "Jing Wu"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-29T15:49:02+00:00",
+    "updated": "2026-07-29T15:49:02+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.27058v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.27058v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "针对中国乡村自动驾驶的虚实混合目标检测数据集及评估。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 2,
+      "impact": 2,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 1.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Object Detection",
+      "Synthetic Data",
+      "Autonomous Driving",
+      "Domain Shift",
+      "YOLO"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2607.26802": {
+    "title": "Risk-Aware Motion Planning with Learned Trajectory Primitives and Probabilistic Safety Assessment",
+    "authors": [
+      "Marc Kaufeld",
+      "Dian Zhuang",
+      "Johannes Betz"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-07-29T11:41:00+00:00",
+    "updated": "2026-07-29T11:41:00+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26802v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26802v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "结合RBFN与MPC的城市自动驾驶风险感知运动规划框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 1,
+      "weighted": 2.4
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Radial Basis Function Network",
+      "Model Predictive Control",
+      "Motion Planning",
+      "Probabilistic Safety Assessment",
+      "Trajectory Primitives"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, submitted to IEEE ITSC 2026, Naples, Italy",
+    "relevance_tier": "peripheral"
+  },
+  "2607.26645": {
+    "title": "FPSGen: Flexible Point Cloud Scene Generation with BEV-Supported Transport Flows",
+    "authors": [
+      "Wenzhe He",
+      "Meng Wang",
+      "JiaWei Qian",
+      "Jinfeng Xu",
+      "Ying Liu",
+      "Ruihui Li"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-29T09:06:01+00:00",
+    "updated": "2026-07-29T09:06:01+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26645v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26645v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "基于BEV先验与最优传输流的灵活点云场景生成框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.65
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Point Cloud Generation",
+      "Bird's-Eye-View (BEV)",
+      "Optimal Transport",
+      "Scene Completion",
+      "Flow Matching"
+    ],
+    "journal_ref": null,
+    "comment": "34 pages, 16 figures",
+    "relevance_tier": "peripheral"
+  },
+  "2607.26283": {
+    "title": "HeteroPROPMT: A Real-time and Privacy-Preserving Heterogeneous Collaborative Perception Framework",
+    "authors": [
+      "Armin Maleki",
+      "Hayder Radha"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-28T21:24:43+00:00",
+    "updated": "2026-07-28T21:24:43+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26283v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26283v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "提出一种实时且保护隐私的异构协同感知提示学习框架。",
+    "tags": [
+      "Code",
+      "Academic",
+      "Accepted",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Michigan State University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 4,
+      "focus_relevance": 1,
+      "weighted": 2.7
+    },
+    "has_code": true,
+    "code_url": "https://github.com/arminmaleki007/HeteroPROMPT",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Collaborative Perception",
+      "Heterogeneous Agents",
+      "Visual Prompt Tuning",
+      "Privacy-Preserving",
+      "V2X"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted to 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 9 pages, 4 figures, 5 tables",
+    "relevance_tier": "peripheral"
+  },
+  "2607.26165": {
+    "title": "DVPSFormer: Efficient Online Depth-aware Video Panoptic Segmentation for Autonomous Driving",
+    "authors": [
+      "Yung-Hsu Yang",
+      "Luigi Piccinelli",
+      "Siyuan Li",
+      "Mattia Segu",
+      "Lei Ke",
+      "Martin Danelljan",
+      "Yuqian Fu",
+      "Zuria Bauer",
+      "Fisher Yu",
+      "Hermann Blum",
+      "Marc Pollefeys"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-07-28T18:16:00+00:00",
+    "updated": "2026-07-28T18:16:00+00:00",
+    "abs_url": "http://arxiv.org/abs/2607.26165v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26165v1",
+    "first_seen": "2026-07-30",
+    "announce_type": "new",
+    "direction": "autonomous_driving",
+    "one_line_summary": "面向自动驾驶的高效在线深度感知视频全景分割框架。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "ETH Zurich"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 4,
+      "focus_relevance": 1,
+      "weighted": 2.8
+    },
+    "has_code": true,
+    "code_url": "https://royyang0714.github.io/DVPSFormer",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Depth-aware Video Panoptic Segmentation",
+      "Explicit Scene Discretization",
+      "Discrete-to-Continuous depth",
+      "Online Instance Tracking",
+      "4D Scene Understanding"
+    ],
+    "journal_ref": null,
+    "comment": null,
     "relevance_tier": "peripheral"
   }
 }
