@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-08-28T17:48:11.074727+00:00",
-    "total_papers": 2950
+    "last_updated": "2026-08-31T11:49:50.869697+00:00",
+    "total_papers": 2966
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -158296,6 +158296,859 @@
       "Cross-Modal Alignment",
       "Camera Pose Estimation",
       "Sensor Fusion"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2608.28518": {
+    "title": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
+    "authors": [
+      "Sihan Jia",
+      "Oliver Lemon"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.RO"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-08-28T16:55:32+00:00",
+    "updated": "2026-08-28T16:55:32+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28518v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28518v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "揭示语音识别错误对具身智能系统造成的安全风险。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Heriot-Watt University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied AI Safety",
+      "Automatic Speech Recognition (ASR)",
+      "Robustness",
+      "Instruction Following",
+      "Safety Alignment"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2608.28266": {
+    "title": "CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning",
+    "authors": [
+      "Yang Chen",
+      "Ye-Xin Xie",
+      "Lirong Che",
+      "Danyang Peng",
+      "Yuzhe Yang",
+      "Peiwen Lin",
+      "Xu Cao",
+      "Chuang Wang",
+      "Lei Yuan",
+      "Jian Su",
+      "Lan-Zhe Guo"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-08-28T12:29:23+00:00",
+    "updated": "2026-08-28T12:29:23+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28266v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28266v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出CoCoBench：评估具身多智能体任务规划与协作的基准。",
+    "tags": [
+      "No Code",
+      "Dataset",
+      "Academic",
+      "🔴 No Code",
+      "📊 Dataset"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "Embodied AI",
+      "Multi-Agent Coordination",
+      "Task Planning",
+      "MLLMs",
+      "Benchmark"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2608.28108": {
+    "title": "DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA",
+    "authors": [
+      "Kango Yanagida",
+      "Tatsuya Aoki",
+      "Yuichiro Yoshikawa",
+      "Takato Horii"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-08-28T09:14:09+00:00",
+    "updated": "2026-08-28T09:14:09+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28108v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28108v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "统一语言与指示手势的单一VLA模型。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Osaka University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.5
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Deictic Gestures",
+      "Visual Prompting",
+      "Multimodal Instruction",
+      "Robotic Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2608.28075": {
+    "title": "Plan Along the Way: Event-Triggered Foundation-Model Planning for TAMP Execution in Partially Observable Manipulation",
+    "authors": [
+      "Puru Ojha",
+      "Narendhiran Vijayakumar",
+      "Nav Singhal",
+      "Girish Varma",
+      "Antony Thomas"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-08-28T08:44:47+00:00",
+    "updated": "2026-08-28T08:44:47+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28075v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28075v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "针对部分可观测环境的事件触发式大模型TAMP框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "IIIT Hyderabad"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Task and Motion Planning (TAMP)",
+      "Partially Observable Manipulation",
+      "Event-Triggered Replanning",
+      "Vision-Language Models (VLMs)",
+      "Reactive Planning"
+    ],
+    "journal_ref": null,
+    "comment": "8 pages, 4 figures",
+    "relevance_tier": "core"
+  },
+  "2608.27996": {
+    "title": "Should I Use This Synthetic Dataset for Training? How to Test with Minimal Real Data",
+    "authors": [
+      "Zhenyu Tao",
+      "Wei Xu",
+      "Xiaohu You",
+      "Petar Popovski",
+      "Osvaldo Simeone"
+    ],
+    "categories": [
+      "cs.AI"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-08-28T07:05:38+00:00",
+    "updated": "2026-08-28T07:05:38+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.27996v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.27996v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "提出用极少量真实数据评估合成数据训练有效性的自适应检验方法。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Southeast University",
+      "Aalborg University",
+      "King's College London"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Synthetic Data Evaluation",
+      "Sim-to-Real Gap",
+      "Sequential Testing",
+      "Adaptive e-process",
+      "World Models"
+    ],
+    "journal_ref": null,
+    "comment": "Submitted to IEEE",
+    "relevance_tier": "core"
+  },
+  "2608.27609": {
+    "title": "PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models",
+    "authors": [
+      "Davood Soleymanzadeh",
+      "Kaidi Zhang",
+      "Zhiyuan Zhang",
+      "Bihao Zhang",
+      "Xiao Liang",
+      "Yu She",
+      "Minghui Zheng"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-08-27T18:42:35+00:00",
+    "updated": "2026-08-27T18:42:35+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.27609v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.27609v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "通过对齐未来动态的潜在表示，提升VLA模型的规划与前瞻推理能力。",
+    "tags": [
+      "Academic",
+      "No Code",
+      "Demo",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 3.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Planning Horizon Reasoning",
+      "Latent Dynamics",
+      "Privileged Information",
+      "Robotic Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2608.27550": {
+    "title": "Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models",
+    "authors": [
+      "Senqiao Yang",
+      "Chengyao Wang",
+      "Yuxin Chen",
+      "Zixuan Wang",
+      "Longxiang Tang",
+      "Haokun Gui",
+      "Jinhui Ye",
+      "Changsheng Lu",
+      "Xiaoyang Wu",
+      "Mingkang Zhu",
+      "Pengguang Chen",
+      "Shu Liu",
+      "Zhuotao Tian",
+      "Hengshuang Zhao",
+      "Bei Yu",
+      "Jiaya Jia"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-08-27T17:59:40+00:00",
+    "updated": "2026-08-27T17:59:40+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.27550v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.27550v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "提出VLAct：一种以表征为中心的VLA模型持续预训练方法。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Chinese University of Hong Kong",
+      "University of Hong Kong",
+      "SmartMore"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": true,
+    "code_url": "https://starvla.github.io/VLAct",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Continued Pre-training",
+      "Cross-embodiment",
+      "Representation Learning",
+      "Robot Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": "All models and training pipelines are publicly available at https://starvla.github.io/VLAct",
+    "relevance_tier": "core"
+  },
+  "2608.28491": {
+    "title": "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction",
+    "authors": [
+      "Yafei Zhang",
+      "Nan Wu"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.RO"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-08-28T16:19:24+00:00",
+    "updated": "2026-08-28T16:19:24+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28491v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28491v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于粒子世界模型解耦运动与外观的文本辅助机器人视频预测。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.7
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Particle World Modeling",
+      "Robot Video Prediction",
+      "Object-centric Motion",
+      "Spatio-temporal Transformer",
+      "Embodied AI"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2608.28216": {
+    "title": "WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes",
+    "authors": [
+      "Kishor Datta Gupta",
+      "Ahmed Rafi Hasan",
+      "Md. Mahfuzur Rahman",
+      "Md. Sadman Haque",
+      "Mohd Ariful Haque"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-08-28T11:33:46+00:00",
+    "updated": "2026-08-28T11:33:46+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28216v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28216v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "multiple",
+    "one_line_summary": "基于世界模型特征的轻量级单样本目标检测方法。",
+    "tags": [
+      "No Code",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 3.0
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "World Models",
+      "One-Shot Object Detection",
+      "V-JEPA",
+      "Exemplar-Conditioned",
+      "Embodied Perception"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2608.28578": {
+    "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+    "authors": [
+      "Nan Wang",
+      "Mohit Yadav",
+      "Jonathan Wulff",
+      "Aidan Rosenbaum",
+      "Kezhou Chen",
+      "Yuvan Sharma",
+      "Xu Dong",
+      "Yiwei Tao"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-08-28T17:53:48+00:00",
+    "updated": "2026-08-28T17:53:48+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28578v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28578v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "开源支持仿真的线驱动仿人手，实现零样本仿真到现实迁移。",
+    "tags": [
+      "Code",
+      "Demo",
+      "🟢 Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 5,
+      "focus_relevance": 3,
+      "weighted": 3.45
+    },
+    "has_code": true,
+    "code_url": "https://tetheria.github.io/aero-hand-open/",
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Tendon-driven hand",
+      "Dexterous manipulation",
+      "Sim-to-real transfer",
+      "Underactuated transmission",
+      "Reinforcement learning"
+    ],
+    "journal_ref": null,
+    "comment": "20 pages, 9 figures. Project page: https://tetheria.github.io/aero-hand-open/",
+    "relevance_tier": "peripheral"
+  },
+  "2608.28213": {
+    "title": "PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots",
+    "authors": [
+      "Yan Pan",
+      "Lingfan Bao",
+      "Tianhu Peng",
+      "Chengxu Zhou"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-08-28T11:32:33+00:00",
+    "updated": "2026-08-28T11:32:33+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28213v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28213v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于扩散模型的人形机器人实时参数化情感动作生成。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 3,
+      "weighted": 2.9
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Affective Motion Generation",
+      "Humanoid Robots",
+      "Diffusion Models",
+      "Valence-Arousal (V-A)",
+      "Autoregressive Generation"
+    ],
+    "journal_ref": null,
+    "comment": "Under Review of IEEE Robotics and Automation Letters, 8 pages",
+    "relevance_tier": "peripheral"
+  },
+  "2608.28090": {
+    "title": "Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters",
+    "authors": [
+      "Kango Yanagida",
+      "Kazuki Miyazawa",
+      "Takato Horii"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-08-28T08:58:20+00:00",
+    "updated": "2026-08-28T08:58:20+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28090v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28090v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于强化学习的轮式座椅上人形机器人全向移动控制。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Osaka University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 3.05
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Humanoid Locomotion",
+      "Sim-to-Real",
+      "Reinforcement Learning",
+      "Seated Loco-manipulation",
+      "Asymmetric Actor-Critic"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2608.27562": {
+    "title": "VidParse: Online Parsing of Egocentric Procedures Like a Pro",
+    "authors": [
+      "Anubhav Gupta",
+      "Archit Kambhamettu",
+      "Vatsal Agarwal",
+      "Pulkit Kumar",
+      "Abhinav Shrivastava"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-08-27T18:00:02+00:00",
+    "updated": "2026-08-27T18:00:02+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.27562v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.27562v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "一种免训练的在线第一人称视频动作解析框架。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "Accepted",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "University of Maryland"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 2.85
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Egocentric Video Parsing",
+      "Training-free Framework",
+      "Graph-constrained Inference",
+      "Procedural Task Graph",
+      "Hand-object Interactions"
+    ],
+    "journal_ref": null,
+    "comment": "Accepted at ECCV 2026",
+    "relevance_tier": "peripheral"
+  },
+  "2608.28549": {
+    "title": "Video Generative Models as Geometry Learner",
+    "authors": [
+      "Haosen Yang",
+      "Jifei Song",
+      "Zhensong Zhang",
+      "Xiatian Zhu",
+      "Jiankang Deng"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-08-28T17:25:31+00:00",
+    "updated": "2026-08-28T17:25:31+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28549v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28549v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "将视频生成模型重构为高效的统一几何估计器",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 3,
+      "weighted": 3.45
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Video Generative Models",
+      "Geometry Estimation",
+      "Monocular Depth",
+      "Surface Normal",
+      "Next-frames Prediction"
+    ],
+    "journal_ref": null,
+    "comment": "19 pages, 4 figures, 5 tables. Project page: https://happy-hsy.github.io/projects/GeoNeXt/",
+    "relevance_tier": "peripheral"
+  },
+  "2608.28069": {
+    "title": "VersaGauss: A Versatile Framework for Generating Multiphase Dynamics with 3D Gaussians",
+    "authors": [
+      "Ruijie Su",
+      "Lingxiao Yang",
+      "Xiaohua Xie",
+      "Jianhuang Lai"
+    ],
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "primary_category": "cs.CV",
+    "published": "2026-08-28T08:38:03+00:00",
+    "updated": "2026-08-28T08:38:03+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.28069v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.28069v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "world_models",
+    "one_line_summary": "基于3D高斯的多相物理动力学统一生成与仿真框架。",
+    "tags": [
+      "Code",
+      "Academic",
+      "🟢 Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Sun Yat-sen University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 4,
+      "focus_relevance": 4,
+      "weighted": 3.9
+    },
+    "has_code": true,
+    "code_url": "https://github.com/Elowen-surj/VersaGauss",
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "3D Gaussian Splatting",
+      "Multiphase Dynamics",
+      "Physical Simulation",
+      "Coupled Multiphase Point Method",
+      "Physical Understanding"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "peripheral"
+  },
+  "2608.27726": {
+    "title": "Coordinated Motion Planning for Multi-Arm Systems via Iterative LQ Games",
+    "authors": [
+      "Junyoung Kim",
+      "Hanwen Ren",
+      "Lei Zhang",
+      "Ahmed H. Qureshi"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-08-27T21:33:38+00:00",
+    "updated": "2026-08-27T21:33:38+00:00",
+    "abs_url": "http://arxiv.org/abs/2608.27726v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.27726v1",
+    "first_seen": "2026-08-31",
+    "announce_type": "new",
+    "direction": "embodied_ai",
+    "one_line_summary": "基于迭代LQ博弈的多机械臂协同运动规划方法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Purdue University"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Iterative LQ Games",
+      "Multi-Arm Systems",
+      "Motion Planning",
+      "Feedback Nash Strategies",
+      "Differentiable Collision Penalty"
     ],
     "journal_ref": null,
     "comment": null,
