@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-09",
+  "query_mode": "submitted-date-utc",
+  "email_sent": false,
+  "candidates": 64,
+  "new_papers": 64,
+  "status": "completed",
+  "core": 32,
+  "peripheral": 19
+}
