@@ -2,6 +2,9 @@
   "date": "2026-10-14",
   "query_mode": "submitted-date-utc",
   "email_sent": false,
-  "candidates": 0,
-  "status": "no_candidates"
+  "candidates": 57,
+  "new_papers": 11,
+  "status": "completed",
+  "core": 6,
+  "peripheral": 1
 }
