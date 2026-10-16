@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "last_updated": "2026-10-15T05:46:43.129772+00:00",
-    "total_papers": 4234
+    "last_updated": "2026-10-15T06:15:20.431655+00:00",
+    "total_papers": 4241
   },
   "2603.22280": {
     "title": "DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models",
@@ -228988,6 +228988,413 @@
     ],
     "journal_ref": null,
     "comment": "Accepted to ACCV 2026. 18 pages main paper and 14 pages supplementary material",
+    "relevance_tier": "peripheral"
+  },
+  "2610.19594": {
+    "title": "RoboSpan: Learning Modular Coordination Policies for High-DoF Whole-Body Mobile Manipulation with Teleoperation",
+    "authors": [
+      "Keqiang Ren",
+      "Xuecheng Ye",
+      "Hanyu Liu",
+      "Zhihua Wang",
+      "Tao Jian",
+      "Yunsheng Ma",
+      "Jiayi Wen",
+      "Xinran Li",
+      "Zhigong Song"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-10-14T05:10:48+00:00",
+    "updated": "2026-10-14T05:10:48+00:00",
+    "abs_url": "http://arxiv.org/abs/2610.19594v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.19594v1",
+    "release_pdf_url": "https://git.luonto.me/yurun/arxiv-daily-papers-workflow/releases/download/v2026-10-14/2610.19594.pdf",
+    "first_seen": "2026-10-15",
+    "announce_type": null,
+    "direction": "embodied_ai",
+    "one_line_summary": "提出RoboSpan平台与HMF框架实现高自由度全身移动操作。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 2,
+      "focus_relevance": 4,
+      "weighted": 3.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Whole-body mobile manipulation",
+      "Teleoperation",
+      "Vision-Language Models (VLM)",
+      "Tactile sensing",
+      "Action space decoupling"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2610.19579": {
+    "title": "Back on Track: Deployment-time Policy Improvement via World Model Planning",
+    "authors": [
+      "Colton Crosby",
+      "Hao Wang",
+      "Mac Schwager",
+      "Somil Bansal"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-10-14T04:48:08+00:00",
+    "updated": "2026-10-14T04:48:08+00:00",
+    "abs_url": "http://arxiv.org/abs/2610.19579v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.19579v1",
+    "release_pdf_url": "https://git.luonto.me/yurun/arxiv-daily-papers-workflow/releases/download/v2026-10-14/2610.19579.pdf",
+    "first_seen": "2026-10-15",
+    "announce_type": null,
+    "direction": "multiple",
+    "one_line_summary": "基于世界模型规划的具身策略部署期干预与改进框架。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "🔴 No Code",
+      "🎮 Demo",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Stanford University",
+      "University of Southern California"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "World Model Planning",
+      "Visuomotor Policy",
+      "Vision-Language-Action (VLA)",
+      "Policy Intervention",
+      "Diffusion Policy"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2610.19517": {
+    "title": "VLRLA: Deployment-Time Adaptation of Vision-Language-Action Models through In-Context Reinforcement Learning",
+    "authors": [
+      "Diyuan Shi",
+      "Yiqi Tang",
+      "Hongyin Zhang",
+      "You Wu",
+      "Donglin Wang"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.RO"
+    ],
+    "primary_category": "cs.AI",
+    "published": "2026-10-14T03:35:08+00:00",
+    "updated": "2026-10-14T03:35:08+00:00",
+    "abs_url": "http://arxiv.org/abs/2610.19517v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.19517v1",
+    "release_pdf_url": "https://git.luonto.me/yurun/arxiv-daily-papers-workflow/releases/download/v2026-10-14/2610.19517.pdf",
+    "first_seen": "2026-10-15",
+    "announce_type": null,
+    "direction": "embodied_ai",
+    "one_line_summary": "通过上下文强化学习实现VLA模型部署时自适应。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 3,
+    "affiliation_names": [
+      "Westlake University"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 2,
+      "focus_relevance": 5,
+      "weighted": 3.95
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "In-Context Reinforcement Learning",
+      "Deployment-Time Adaptation",
+      "Robot Manipulation"
+    ],
+    "journal_ref": null,
+    "comment": null,
+    "relevance_tier": "core"
+  },
+  "2610.19495": {
+    "title": "Robota-Embed: Unified VLA Embeddings for Robot In-Context Learning and Evolution",
+    "authors": [
+      "Yunze Liu",
+      "Jing Wang",
+      "Shenrui Wu",
+      "Wenkun He",
+      "Guanqi Zhan",
+      "Xianzheng Ma",
+      "Junyu Chen",
+      "Wenhang Ge",
+      "Haozhan Tang",
+      "Yuchao Gu",
+      "Zhuoyang Zhang",
+      "Zekai Wang",
+      "Dantong Niu",
+      "Zhen Dong",
+      "Yuke Zhu",
+      "Trevor Darrell",
+      "Linxi \"Jim\" Fan",
+      "Song Han",
+      "Han Cai"
+    ],
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-10-14T03:15:23+00:00",
+    "updated": "2026-10-14T03:15:23+00:00",
+    "abs_url": "http://arxiv.org/abs/2610.19495v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.19495v1",
+    "release_pdf_url": "https://git.luonto.me/yurun/arxiv-daily-papers-workflow/releases/download/v2026-10-14/2610.19495.pdf",
+    "first_seen": "2026-10-15",
+    "announce_type": null,
+    "direction": "embodied_ai",
+    "one_line_summary": "首个统一视觉-语言-动作的机器人嵌入模型，赋能上下文学习。",
+    "tags": [
+      "Dataset",
+      "Industry",
+      "Academic",
+      "No Code",
+      "🔴 No Code",
+      "📊 Dataset",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 1,
+    "affiliation_names": [
+      "NVIDIA Research",
+      "UC Berkeley",
+      "MIT"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.25
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": true,
+    "has_demo": false,
+    "key_terms": [
+      "VLA Embeddings",
+      "In-Context Learning",
+      "Predictive Retrieval",
+      "Robot Evolution",
+      "Robota-Embed"
+    ],
+    "journal_ref": null,
+    "comment": "34 pages, 14 figures. Project page: https://robota-ai.github.io/robota-embed/",
+    "relevance_tier": "core"
+  },
+  "2610.19479": {
+    "title": "Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training",
+    "authors": [
+      "Liqian Ma",
+      "Vaibhav Saxena",
+      "Utkarsh Aashu Mishra",
+      "Shuo Cheng",
+      "Yongxin Chen",
+      "Danfei Xu"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-10-14T02:57:04+00:00",
+    "updated": "2026-10-14T02:57:04+00:00",
+    "abs_url": "http://arxiv.org/abs/2610.19479v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.19479v1",
+    "release_pdf_url": "https://git.luonto.me/yurun/arxiv-daily-papers-workflow/releases/download/v2026-10-14/2610.19479.pdf",
+    "first_seen": "2026-10-15",
+    "announce_type": null,
+    "direction": "embodied_ai",
+    "one_line_summary": "元学习优化仿真数据生成分布以提升虚实协同训练。",
+    "tags": [
+      "No Code",
+      "Demo",
+      "Academic",
+      "Accepted",
+      "🔴 No Code",
+      "🎮 Demo",
+      "🔥 Hot"
+    ],
+    "affiliation_tier": 2,
+    "affiliation_names": [
+      "Georgia Institute of Technology"
+    ],
+    "scores": {
+      "novelty": 4,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 4.15
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Sim-and-Real Co-Training",
+      "Meta-Learning",
+      "Active Generative Simulation",
+      "Sim-to-Real Transfer",
+      "VLA Fine-tuning"
+    ],
+    "journal_ref": null,
+    "comment": "CoRL 2026",
+    "relevance_tier": "core"
+  },
+  "2610.19438": {
+    "title": "Paraphrase Consensus Is Not Self-Consistency: Instruction Reliance and Robustness in VLA Policies",
+    "authors": [
+      "Hanlong Li",
+      "Sihan Tan",
+      "Takeshi Ashizawa",
+      "Benjamin Yen",
+      "Kazuhiro Nakadai"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-10-14T02:30:09+00:00",
+    "updated": "2026-10-14T02:30:09+00:00",
+    "abs_url": "http://arxiv.org/abs/2610.19438v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.19438v1",
+    "release_pdf_url": "https://git.luonto.me/yurun/arxiv-daily-papers-workflow/releases/download/v2026-10-14/2610.19438.pdf",
+    "first_seen": "2026-10-15",
+    "announce_type": null,
+    "direction": "embodied_ai",
+    "one_line_summary": "揭示VLA策略对指令措辞的脆弱性及微调提升方法。",
+    "tags": [
+      "No Code",
+      "Academic",
+      "🔴 No Code"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [
+      "Unknown"
+    ],
+    "scores": {
+      "novelty": 3,
+      "impact": 4,
+      "reproducibility": 3,
+      "focus_relevance": 5,
+      "weighted": 3.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": false,
+    "key_terms": [
+      "Vision-Language-Action (VLA)",
+      "Instruction Robustness",
+      "Paraphrase Consensus",
+      "LoRA Fine-tuning",
+      "Embodied AI Evaluation"
+    ],
+    "journal_ref": null,
+    "comment": "30 pages (8 pages main text)",
+    "relevance_tier": "core"
+  },
+  "2610.19518": {
+    "title": "HiFun: a Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning",
+    "authors": [
+      "Linyi Huang",
+      "Guowei Huai",
+      "Weibin Liu",
+      "Shulong Jiang",
+      "Ping Tan",
+      "Weixuan Zhang",
+      "Hui Zhang",
+      "Jie Song"
+    ],
+    "categories": [
+      "cs.RO"
+    ],
+    "primary_category": "cs.RO",
+    "published": "2026-10-14T03:37:15+00:00",
+    "updated": "2026-10-14T03:37:15+00:00",
+    "abs_url": "http://arxiv.org/abs/2610.19518v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.19518v1",
+    "release_pdf_url": "",
+    "first_seen": "2026-10-15",
+    "announce_type": null,
+    "direction": "embodied_ai",
+    "one_line_summary": "提出HiFun分层强化学习框架，实现高效的真实世界灵巧手操作。",
+    "tags": [
+      "Academic",
+      "Demo",
+      "No Code",
+      "🔴 No Code",
+      "🎮 Demo"
+    ],
+    "affiliation_tier": 0,
+    "affiliation_names": [],
+    "scores": {
+      "novelty": 3,
+      "impact": 3,
+      "reproducibility": 3,
+      "focus_relevance": 2,
+      "weighted": 2.75
+    },
+    "has_code": false,
+    "code_url": null,
+    "has_dataset": false,
+    "has_demo": true,
+    "key_terms": [
+      "Dexterous Manipulation",
+      "Hierarchical Reinforcement Learning",
+      "Real-world RL",
+      "Dynamic Movement Primitives (DMP)",
+      "Arm-hand Coordination"
+    ],
+    "journal_ref": null,
+    "comment": null,
     "relevance_tier": "peripheral"
   }
 }
